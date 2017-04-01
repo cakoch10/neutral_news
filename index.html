@@ -26,7 +26,8 @@
     <h3>1. Input news story URL into search bar.  <br />2. Press SEARCH to see a list of similar sources.</h3>
   </div> -->
   <form id="searchForm" method="post">
-    <input type="text" placeholder="input news story URL"/>
-    <button class="btn" type="submit">SEARCH</button>
+    <input id="searchInput" type="text" placeholder="input news story URL" name="url"/>
+    <button id="submitUrlBtn" class="btn" type="button" name="submit">SEARCH</button>
   </form>
+  <h2 id="urlError" class="error-message container"><i class="fa fa-exclamation" aria-hidden="true"></i> Invalid URL</h2>
 </body>
