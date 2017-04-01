@@ -32,7 +32,12 @@ def findInfo(url):
 	start = url.find("www.") + 4
 	if (start == 3):
 		start = 0
-	end = url.find(".com") + 4
+	urlEndings = ['.com', '.edu', '.org', '.net', '.gov']
+	end = 3
+	for ending in urlEndings:
+		if (end != 3):
+			break
+		end = url.find(".com") + 4
 	s = url[start:end]
 
 	with open('credible.json') as data_file1:
@@ -45,14 +50,14 @@ def findInfo(url):
 	notCredibleDataString = str(notCredibleData)
 
 	#returns the info in string format
-	if s in credibleDataString:
-		start = credibleDataString.find(s)-1
-		end = credibleDataString.find("}",start)
-		return credibleDataString[start:end]
-	else:
-		start = notCredibleDataString.find(s)-1
-		end = notCredibleDataString.find("}",start)
-		return notCredibleDataString[start:end]
+	#if s in credibleDataString:
+	#	start = credibleDataString.find(s)-1
+	#	end = credibleDataString.find("}",start)
+	#	return credibleDataString[start:end]
+	#else:
+	#	start = notCredibleDataString.find(s)-1
+	#	end = notCredibleDataString.find("}",start)
+	#	return notCredibleDataString[start:end]
 
 	#returns the info in a list
 	if s in credibleDataString:
@@ -115,6 +120,27 @@ def pickArticles():
 				#print "Not safe!"
 
 	#print arrayOfKeyWords
+
+def parseList(newsList):
+	"""Puts the text of each article in the list into a txt file.
+
+	Parameter newsList: a list of article urls, first being the article the user gave
+	and the rest being relevant articles"""
+	paper = Article(url=newsList[0], language="en")
+	paper.download()
+	paper.parse()
+	text = paper.text
+	paperInfo = findInfo(newsList[0])
+	with open(paperInfo[0][:-4], "w") as f:
+		f.write(text.encode("utf-8"))
+	for url in newsList[1:]:
+		paper = Article(url=url, language="en")
+		paper.download()
+		paper.parse()
+		paper.nlp()
+		text = paper.text
+		with open(paperInfo[0][:-4], "a") as f:
+			f.write(text.encode("utf-8"))
 
 
 
