@@ -166,6 +166,46 @@ def pickArticlesWithLabels():
 
 	return returnArray
 
+def similarity(url1, url2):
+	"""Constructs a list of keywords from the two articles found at url1 and url2 and gets the average similarity"""
+
+	paper1 = Article(url=url1, language="en")
+	paper2 = Article(url=url2, language="en")
+	paper1.download()
+	paper2.download()
+	paper1.parse()
+	paper2.parse()
+	paper1.nlp()
+	paper2.nlp()
+	keywords1 = paper1.keywords
+	keywords2 = paper2.keywords
+	sameCounter = 0
+	if (len(keywords1) == 0 and len(keywords2) == 0):
+		return 0
+	for word1 in keywords1:
+		for word2 in keywords2:
+			if word1 == word2:
+				sameCounter = sameCounter + 2
+	return 1.0*sameCounter/(len(keywords1)+len(keywords2))
+
+def plotData(url, dataset):
+	"""Constructs a plot of the similarity index with a given article
+
+	Parameter url: url the subject article
+	Precondition: url
+
+	Parameter dataset: list of article urls
+	Precondition: list of article urls. """
+
+	mainArticle = Article(url=url, language="en")
+	plotData = []
+	typeList = ["far left", "center left", "moderate", "center right", "far right"]
+	for article in dataset:
+		plotData = plotData + [typeList.index(findInfo(article)[2]), similarity(url,article)]
+	print plotData
+	plt.boxplot(plotData, showbox = False, showcaps = False)
+	plt.ylabel('similarity index')
+	plt.show()
 
 
 
