@@ -122,6 +122,8 @@ def parseList(newsList):
 
 def pickArticlesWithOutLabels():
 
+	returnArray = []
+
 	with open('credible.json') as data_file1:
 		credibleData = json.load(data_file1)
 
@@ -137,10 +139,14 @@ def pickArticlesWithOutLabels():
 	for url in arrayOfURLs:
 		for x in arrayOfCredibles:
 			if x in url:
-				print url
+				returnArray.insert(0, str(url))
+
+	return returnArray
 
 def pickArticlesWithLabels():
 
+	returnArray = []
+
 	with open('credible.json') as data_file1:
 		credibleData = json.load(data_file1)
 
@@ -156,7 +162,9 @@ def pickArticlesWithLabels():
 	for url in arrayOfURLs:
 		for x in arrayOfCredibles:
 			if x in url:
-				print credibleData[x]["type"] + ": " + url
+				returnArray.insert(0, (str(credibleData[x]["type"] + ": " + url)))
+
+	return returnArray
 
 
 
