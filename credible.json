@@ -6,57 +6,57 @@
   },
   "bostonglobe.com" : {
     "language": "en",
-    "type": "",
+    "type": "center left",
     "notes": ""
   },
   "chicagotribune.com" : {
     "language": "en",
-    "type": "",
+    "type": "far left",
     "notes": ""
   },
   "independent.co.uk" : {
     "language": "en",
-    "type": "",
+    "type": "center left",
     "notes": ""
   },
   "latimes.com" : {
     "language": "en",
-    "type": "",
+    "type": "far left",
     "notes": ""
   },
   "reuters.com" : {
     "language": "en",
-    "type": "",
+    "type": "moderate",
     "notes": ""
   },
   "nature.com" : {
     "language": "en",
-    "type": "",
+    "type": "moderate",
     "notes": ""
   },
   "newyorktimes.com" : {
     "language": "en",
-    "type": "left",
+    "type": "center left",
     "notes": ""
   },
   "nydailynews.com" : {
     "language": "en",
-    "type": "",
+    "type": "far left",
     "notes": ""
   },
   "nytimes.com" : {
     "language": "en",
-    "type": "",
+    "type": "far left",
     "notes": ""
   },
   "oregonlive.com" : {
     "language": "en",
-    "type": "",
+    "type": "center left",
     "notes": ""
   },
   "phys.org" : {
     "language": "en",
-    "type": "",
+    "type": "moderate",
     "notes": ""
   },
   "sltrib.com" : {
@@ -71,17 +71,17 @@
   },
   "sfgate.com" : {
     "language": "en",
-    "type": "",
+    "type": "far left",
     "notes": ""
   },
   "slate.com" : {
     "language": "en",
-    "type": "",
+    "type": "far left",
     "notes": ""
   },
   "usatoday.com" : {
     "language": "en",
-    "type": "",
+    "type": "center left",
     "notes": ""
   },
   "washingtonpost.com" : {
@@ -91,12 +91,42 @@
   },
   "wsj.com" : {
     "language": "en",
-    "type": "right",
+    "type": "far left",
     "notes": ""
   }, 
   "foxnews.com" : {
     "language": "en",
-    "type": "right",
+    "type": "far right",
+    "notes": ""
+  },
+  "cnn.com" : {
+    "language": "en",
+    "type": "far left",
+    "notes": ""
+  },
+  "cbs.com" : {
+    "language": "en",
+    "type": "moderate",
+    "notes": ""
+  },
+  "abc.com" : {
+    "language": "en",
+    "type": "moderate",
+    "notes": ""
+  },
+  "nbc.com" : {
+    "language": "en",
+    "type": "center left",
+    "notes": ""
+  },
+  "msnbc.com" : {
+    "language": "en",
+    "type": "far left",
+    "notes": ""
+  }, 
+    "nypost.com" : {
+    "language": "en",
+    "type": "center right",
     "notes": ""
   }
 }
