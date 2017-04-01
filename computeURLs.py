@@ -1,15 +1,44 @@
 #import urllib.request
+from __future__ import unicode_literals
 import newspaper
+import word2vec
+
 #from newspaper import Article
 #import urllib2
 import json
+import nltk
+import os
+from nltk.corpus.reader.plaintext import PlaintextCorpusReader
 
 
-def test1():
-    s = 0
-    for i in range(1, 10):
-        s = s+1
-        print(s)
+def buildModel():
+    corpusdir = 'farRight/' # Directory of corpus.
+    directories = ['farRight/', 'farLeft/', 'moderate/', 'centerRight/', 'centerLeft']
+    input_file = open('alldata.txt', 'w')
+    id_ = 0
+    for directory in directories:
+        rootdir = os.path.join('', directory)
+        for subdir, dirs, files in os.walk(rootdir):
+            for file_ in files:
+                with open(os.path.join(subdir, file_), 'r') as f:
+                    doc_id = '_*%i' % id_
+                    text = f.read()
+                    #text = str.decode(text,'utf-8')
+                    tokens = nltk.word_tokenize(text)
+                    doc = ' '.join(tokens).lower()
+                    doc = doc.encode('ascii', 'ignore')
+                    input_file.write('%s %s\n' % (doc_id, doc))
+        id_ = id_ + 1
+    input_file.close()
+    #word2vec.doc2vec('alldata.txt', cbow=0, size=100, window=10, negative=5, hs=0, sample='1e-4', threads=12, iter_=20, min_count=1, verbose=True)
+    word2vec.doc2vec('alldata.txt', 'vectors.bin', cbow=0, size=100, window=10, negative=5, hs=0, sample='1e-4', threads=12, iter_=20, min_count=1, verbose=True)
+
+
+    #newcorpus = PlaintextCorpusReader(corpusdir, '.*')
+    #documents = [(list(newcorpus.words(fileid)), category) for category in newcorpus.categories() for fileid in newcorpus.fileids(category)]
+
+
+
 
 def scrapeFarRight():
     farRight = newspaper.build('http://www.breitbart.com/big-government/',memoize_articles=False)
@@ -78,7 +107,9 @@ def scrapeFarLeft():
         i = i+1
     print(i)
 
-def scrapeNews():
+def waste():
+
+
     # urllib2.urlopen("http://example.com/foo/bar").read()
     # https://newsapi.org/v1/articles?source=breitbart-news&sortBy=&apiKey=989c61d67d234d3fa19d1ec4e6c5b361
     #u = urllib.request.urlopen("https://newsapi.org/v1/articles?source=breitbart-news&sortBy=&apiKey=989c61d67d234d3fa19d1ec4e6c5b361").read()
