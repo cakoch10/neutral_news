@@ -1,0 +1,543 @@
+ACKNOWLEDGEMENTS
+
+The Center for Global Policy Solutions would like to thank the following researchers for their help in developing this report: DR. ALGERNON AUSTIN, Demos MS. CHERRIE BUCKNOR, Center for Economic and Policy Research MR. KEVIN CASHMAN, Center for Economic and Policy Research DR. MAYA ROCKEYMOORE, Center for Global Policy Solutions This report was made possible as a result of the generous support provided by the Ford Foundation.
+
+RECOMMENDED CITATION:
+
+Center for Global Policy Solutions. (2017). Stick Shift: Autonomous Vehicles, Driving Jobs, and the Future of Work. Washington, DC: Center for Global Policy Solutions.
+
+EXECUTIVE SUMMARY
+
+At this moment, more than 30 companies across the globe say they are working on autonomous-vehicle technology. These companies range from computing-technology firms like Apple, Google, and Intel to those usually associated with automobile manufacturing[1] such as BMW, Ford, Honda, and Volvo.[2] Their most optimistic predictions are that in as few as three to five years,[3] fully autonomous vehicles—automobiles without human drivers—will be in regular use on the road.
+
+Predictions vary about whether fully autonomous vehicles, Level 5 on the SAE International classification scale for autonomous-vehicle technology[4], will be introduced first. Yet, given the number of companies working to make improvements and the progress already made with Level 4 technology—which marks the stage when vehicles are classified as being capable of safely driving themselves in predictable spaces—it is highly possible that the technology will progress to Level 5 in the near future. Many economists, pundits, and companies are predicting just that.
+
+Autonomous-vehicle technology offers a number of positive opportunities. It has the potential to save many lives, limit environmental damage, increase productivity and, as a result, improve living standards across the country if the gains are distributed equally.[5] But the technology also has the potential to cause significant economic hardship for a number of workers, at least in the short term. For those who drive vehicles for a living, the full financial impact of this technological change will depend, in large part, on whether the transition takes a while or occurs relatively quickly. It will also depend heavily on whether the initial technology deployed is fully or partially autonomous.
+
+Overall, 2.86 percent of all workers in the United States are employed in driving occupations. Though it is possible that workers displaced by autonomous-vehicle technology may eventually find new jobs at some point, the analysis contained in this paper is focused on the immediate, short-term impact to employment in the transportation sector if a rapid transition to fully autonomous vehicles were to occur. Using data from the 2010 to 2014 merged American Community Survey released by the U.S. Census Bureau, this paper estimates the labor market impact of jobs likely to be lost with a rapid transition to autonomous vehicles. The report finds that certain population groups and areas of the country would be disproportionately affected. Finally, we call for policymakers to take immediate steps to offset the potential for harmful labor disruptions.
+
+The following is a summary of the study’s top findings:
+
+OCCUPATIONAL CONSIDERATIONS
+
+More than four million jobs will likely be lost with a rapid transition to autonomous vehicles. Driving occupations, including delivery and heavy truck drivers, bus drivers, and taxi and chauffeur drivers, would be heaviest hit. Driving occupations represent a significant source of work for those with lower levels of educational attainment, with the vast majority (93.2 percent) of workers in these jobs possessing less than a bachelor’s degree. Workers in driving occupations have a poverty rate (7.32 percent) lower than the overall workforce (8.06 percent) and non-driving occupations alone (8.08 percent), which suggests that driving jobs are by and large “good jobs” that keep workers in driving occupations out of poverty.
+
+Larger shares of workers in driving occupations (15.68 percent) are union members, compared with workers in non-driving occupations (11.31 percent). In total, only 11.44 of workers overall are union members.
+
+This suggests that driving jobs, on average, may have more advantages for workers than similar occupations with lower union membership rates.
+
+DEMOGRAPHIC CONSIDERATIONS
+
+Men would be hardest hit. They number about 6.5 times the share of the working female population in driving occupations and earn 64 percent more than women in these jobs. Although nearly as many women as men are bus drivers, men are the vast majority of those employed as delivery and heavy truck drivers and as taxi drivers and chauffeurs.
+
+Whites hold 62 percent of the 4.1 million jobs in driving occupations, so they would experience the largest hit. However, Blacks, Hispanics, and Native Americans, groups who are overrepresented in these occupations and who earn a “driving premium”—a median annual wage exceeding what they would receive in non-driving occupations—would also be hard hit.
+
+With 4.23 percent of Black workers employed in driving occupations, Blacks rely on driving jobs more than other racial/ethnic groups. This is true in every driving occupation category.
+
+With 3.25 percent of Hispanic workers in driving occupations, Hispanics have the second heaviest reliance and are especially overrepresented as delivery drivers and heavy truck drivers and very slightly as taxi drivers and chauffeurs.
+
+With 3.07 percent of American Indians holding driving jobs, American Indians are also slightly overrepresented, especially among delivery drivers and heavy truck drivers and as bus drivers and, modestly, as taxi drivers and chauffeurs.
+
+With 1.52 percent of Asian workers holding driving jobs, Asians rely the least on driving occupations for employment. Nevertheless they are overrepresented among taxi drivers and chauffeurs: Overall, 0.23 percent of workers are taxi drivers and chauffeurs, but 0.56 percent of Asians are, more than twice the overall share.
+
+Workers of “Other” racial and ethnic categories are overrepresented among taxi drivers and chauffeurs.
+
+Another significant finding regarding wages is that some driving occupations pay non-whites more than whites. For bus drivers and taxi drivers and chauffeurs, non-whites make more than their white counterparts when looking at median annual wages either by race or by race and gender together. White men are by far the highest number of workers in driving occupations, followed by Hispanic men, Black men, and White women.
+
+GEOGRAPHIC CONSIDERATIONS
+
+Because the share and number of workers in driving occupations vary by state, some geographic locations will be disproportionately burdened by the loss of driving jobs.
+
+The top five states with the greatest percentage of workers in driving jobs in rank order are Mississippi (3.70 percent), Wyoming (3.64 percent), West Virginia (3.60), Idaho (3.45 percent), and North Dakota (3.44 percent).
+
+The top five states with the largest absolute number of workers in driving occupations, however, are California (432,000), Texas (353,000), New York (282,000), Florida (224,000), and Illinois (189,000).
+
+Nevertheless, the states that would be hardest hit by a rapid shift to autonomous vehicles are the states where workers are overrepresented in driving occupations and where driving occupations pay significantly more than non-driving occupations.
+
+By this standard, the states that are most vulnerable are North Dakota, Idaho, Wyoming, West Virginia, Mississippi, Arkansas, and Iowa.
+
+POLICY RECOMMENDATIONS
+
+In light of the labor market disruptions that are likely to accompany a swift transition to fully autonomous vehicles, policymakers should prioritize solutions that best offset the negative effects of abrupt and widespread job losses. Policies that meet this criterion include:
+
+Automatic Unemployment Insurance (UI)
+
+UI and related re-employment assistance benefits should kick in automatically for eligible workers, particularly those in areas of the country likely to be hardest hit by job losses from autonomous vehicles. The duration of coverage for these benefits should also be automatically extended during periods of high unemployment. UI and related job training and placement benefits should be fully funded and modernized to meet the anticipated demand.
+
+Progressive Basic Income
+
+Since the efficiency of today’s technological advancements may outpace our ability to replace automated jobs with new jobs for the displaced, it would be prudent to establish a progressive basic income (PBI) to offset the likely potential for seismic changes in the labor market. The Social Security program—which has features that facilitate the collection and distribution of revenue on a broad scale—is the most effective and efficient delivery mechanism by which this could be accomplished. The Progressive Basic Income would not replace Social Security’s retiree, disability, and survivor programs, but would be part of an expanded Social Security system.
+
+Education and Retraining
+
+Since the vast majority of workers in driving occupations have lower educational attainment levels, education and retraining could help displaced workers secure comparable or better jobs. Although higher education does not necessarily translate into jobs or economic mobility, policies that promote affordable postsecondary education and training options— with built-in subsidies for displaced workers—as well as fully funding existing programs such as American Job Centers, are important options.
+
+Automatic Medicaid Eligibility
+
+Federal and state governments should expand Medicaid eligibility to automatically cover displaced workers with household incomes below a determined level. This type of assistance will enable workers to protect their health and their wallets while they seek opportunities to retrain, get additional education, and/or find a new job.
+
+Expanding Support for Entrepreneurs
+
+Programs and incentives that can help displaced workers start and sustain businesses could lead to job creation and have a generative effect on the U.S. economy.
+
+INTRODUCTION
+
+“This job [as a bus driver] provides meaningful satisfying work, with a salary and benefits package which allows me to take care of myself and my family . . . . Without this job I would more than likely have to take on multiple jobs in order to provide the lifestyle I currently enjoy, which would mean less quality time with loved ones, more stress, frustration, and very likely less life satisfaction.”
+
+KEVIN, a bus driver for the Washington Metropolitan Area Transit Authority[6]
+
+In October 2016, a computer system drove a truck most of the distance between Fort Collins and Colorado Springs, Colorado, to deliver 50,000 beers. This trip was a test of Uber’s self-driving, or autonomous-vehicle, technology. A driver was needed to deal with the non-highway driving, but the ultimate goal is to eliminate the human driver altogether.[7] This autonomous-vehicle technology could eliminate four million driving jobs in the near future.
+
+At this moment, more than 30 companies across the globe say they are working on autonomous-vehicle technology. These companies range from computing-technology firms like Apple, Google, and Intel to those usually associated with automobile manufacturing[8] like BMW, Ford, Honda, and Volvo.[9] Their most optimistic predictions are that in as few as three to five years,[10] fully autonomous vehicles— vehicles without human drivers—will be on the road in regular use.
+
+For workers, the impact of this technological change will depend in part on whether the transition takes a while or occurs relatively quickly. Rapid technological change could produce significant economic disruptions for certain groups in the U.S. economy. People of color nationally and workers in North Dakota, Idaho, Wyoming, West Virginia, Mississippi, Arkansas, Iowa, and Indiana would be hurt the most by a rapid transition. These groups are overrepresented in driving occupations and those who work in driving occupations tend to make more than those in non-driving occupations. This suggests that many in these groups may be directly affected by the rise of autonomous vehicles—by losing their jobs or from declining wages in driving occupations—and also from lower wages in non-driving occupations.
+
+Autonomous-vehicle technology has the potential to save many lives, limit environmental damage, and increase productivity—and therefore, improve living standards across the country, if the gains are distributed equally[11]—but it also has the potential to cause significant economic hardship, at least in the short term. To avoid this, a safety net that can support workers in the event of large-scale, rapid job loss and policies that can transition workers to new jobs are essential. The unemployment insurance system also should be changed so more unemployed workers can use it, and so it better helps laid-off workers find new jobs. Job transition can be made easier with more resources for the education and training of workers displaced by autonomous vehicles as well as other potential new technologies that cause large changes in the labor market.
+
+Monetary and fiscal policy measures that aim for full employment can ensure that there are jobs available at livable wages for workers displaced by technological changes. These changes cannot be stopped, and it would not be desirable to stop them even if it were possible to do so. But policies should be put in place to prevent technological change from destroying livelihoods and to assure that the gains from technological innovation are shared as broadly as possible. This is especially the case when technology adversely affects large groups of people via no fault of their own.
+
+Section 1 of this paper analyzes which groups would be most affected if the transition to autonomous vehicles occurs rapidly; that is, if technology is developed that can perform most of the tasks of driving occupations so those occupations could be eliminated. Section 2 reviews the policies that could respond to large-scale disruptions, primarily of driving occupations, in the labor market. Section 3 examines the diverse set of predictions for the arrival of fully, or near-fully, autonomous vehicles, and its impact on the labor market. Finally, the paper concludes with a call for acting soon to prevent labor market disruptions, even though it is impossible to know the specific effects of this technology.
+
+SECTION 1: DRIVING OCCUPATIONS: THE LABOR MARKET MOST LIKELY IMPACTED BY WIDESPREAD ADOPTION OF AUTONOMOUS-VEHICLE TECHNOLOGY
+
+Workers displaced by autonomous-vehicle technology may eventually find new jobs or they may not, but the analysis here is focused on the possible short-term impact of a rapid transition to autonomous vehicles. This analysis is based on the 2010–2014 merged American Community Survey data from the U.S. Census Bureau.[12] Table 1 and figure A provide a basic breakdown of driving occupations in three categories: bus drivers, delivery drivers and heavy truck drivers, and taxi drivers and chauffeurs. Numbering more than 3.1 million, delivery drivers and heavy truck drivers dominate driving occupations, with over 77 percent of the total. Next, almost 600,000 bus drivers account for about 14.5 percent; almost 340,000 people work as taxi drivers and chauffeurs, making up 8.2 percent of the total. It is important to note that while these categories are useful ways of grouping occupations for comparison purposes, there are important differences within these categories.[13] These differences might be important in determining the speed of the transition to autonomous-vehicle technology and the extent of its impact for specific occupations.
+
+Table 2 and figures B and C show the median annual wages for driving and non-driving occupations. Delivery drivers and heavy truck drivers have the highest median pay, about $34,700. Bus drivers follow, with pay of about $21,700; finally taxi drivers and chauffeurs make about $20,700. It is significant that delivery drivers and heavy truck drivers are paid the most because they also have the greatest number of drivers, as shown in table 1, with over 77 percent of the total. Non-driving occupations have a premium on driving occupations, in total, with those occupations earning roughly $2,800 more than driving occupations; thus, drivers on the whole are paid less than their non-driving counterparts.[14]
+
+GENDER
+
+Driving occupations are dominated by men. There are 3.6 million men in these occupations, but only about half a million women (table 3 shows the number and percent of men and women employed in driving occupations). The share of the working male population in these occupations is about 6.5 times the share of the working female population. Thus, if there were a rapid transition to autonomous vehicles, it would have the most significant impact—at least in the short term—on men’s employment.
+
+Since the 1960s, there has been a decline in the share of prime-age (ages 25 to 54) men who are employed.[15] These declines are likely due, in part, to the decline in “good jobs” for men.[16] (See discussion of “good jobs” in the Conclusion. The loss of driving jobs could exacerbate this situation.)
+
+By occupation, the greatest difference in the employment of men and women in driving occupations is among delivery drivers and heavy truck drivers. Nearly 4 percent of men are employed in this category, while only about a quarter of one percent of women are (a staggering rate of over 15 to one). Men’s rate of employment as taxi drivers and chauffeurs is also nearly six times that of women (0.39 percent for men versus 0.07 percent for women). However, men and women have nearly equal rates of employment (0.43 percent for men versus 0.40 percent for women) as bus drivers. Overall, 4.79 percent of men and 0.73 percent of women are employed in driving occupations. Although men would likely be hardest hit by a transition to autonomous-vehicle technology, a significant number of women work as drivers, especially bus drivers.
+
+It is typical for men to earn more than women employed in the same occupations, and this is also the case in driving occupations.[17] Men in driving occupations have a median annual wage of nearly $33,000, 64 percent more than similarly employed women, who have a median wage of about $20,000 (table 4 and figure D). This comparison, however, does not take into account differences between men and women in their distribution within the driving occupations.[18]
+
+For men and women generally, non-driving occupations have a higher median annual wage than driving occupations. For men, non-driving occupations pay about $8,000 more than driving occupations. For women, non-driving occupations pay about $9,000 more than driving occupations.
+
+RACE AND HISPANIC ETHNICITY[19]
+
+Although Whites make up about 62 percent of the 4.1 million workers in driving occupations (table 5), proportionally they are slightly underrepresented in these occupations. 2.85 percent of all workers are in driving occupations, but 2.66 percent of white workers are (table 5 and figure E). Blacks, Hispanics, and American Indians, on the other hand, are overrepresented in these occupations. Blacks rely on driving jobs more than other racial/ethnic groups, with 4.23 percent of black workers employed in driving occupations; they are overrepresented in each specific driving category as well. Among Hispanic workers, 3.25 percent are in these occupations, and they are overrepresented as delivery drivers and heavy truck drivers and very slightly as taxi drivers and chauffeurs. American Indians are also slightly overrepresented; 3.07 percent hold driving jobs. They are overrepresented in the delivery drivers and heavy truck drivers category an, modestly, as bus drivers and taxi drivers and chauffeurs.
+
+Asians rely the least on driving occupations for employment. Only 1.52 percent of Asian workers hold these jobs. However, looking at specific occupational categories, Asians are overrepresented among taxi drivers and chauffeurs: Overall, 0.23 percent of workers are taxi drivers and chauffeurs, but 0.56 percent of Asians have these jobs, more than twice the overall share. Those of “other” races or ethnicities are overrepresented as taxi drivers and chauffeurs.
+
+If driving occupations are rapidly automated, blacks, Hispanics, and American Indians will not only lose a greater than average share of jobs but also—for the median individual who identifies as one of these groups—relatively high-paying jobs. For these groups, the median annual wage in driving occupations exceeds that of non-driving occupations: a “driving premium.” The largest difference is for Hispanic workers. For Hispanics, driving jobs have a median annual wage that is more than $5,800 higher in real wages than for non-driving jobs (table 6 and figure F). Blacks have the second largest discrepancy. For Blacks, driving jobs pay nearly $2,500 more than non-driving jobs. For American Indians, driving jobs pay about $2,000 more than non-driving jobs. For Hispanics, Blacks, and American Indians, the loss of driving jobs would represent a significant loss of better-paying work opportunities.
+
+RACE AND GENDER
+
+Table 7 shows the number of workers in driving occupations by race and gender. White men are by far the highest number of workers in driving occupations, followed by Hispanic men, Black men, and White women. This contrasts with non-driving occupations, which are dominated by White men, followed by white women, Hispanic men, Hispanic women, Black women, and finally Black men.
+
+Delivery drivers and heavy truck drivers dominate employment among men of every race and ethnicity category. (Hispanic men in delivery driver and heavy truck driver occupations are the sole reason that there are more Hispanic workers in driving occupations; Black men and women outnumber Hispanic men and women in every other occupational category.) Bus driver employment among men is higher for Blacks, Whites, and American Indians than it is for taxi drivers and chauffeurs. For Hispanics, Asians, and other races, taxi employment is greater than that of bus drivers. Bus driver employment for women is higher for White women, Hispanic women, and Black women than work as delivery and heavy truck drivers—for Black and White women it is much higher (70,000 and 166,00 versus 26,000 and 118,000, respectively).
+
+Figures G and H show the breakdown between White, Black, and Hispanic men by driving occupations, and by type of occupation, respectively. White men vastly outnumber Black men in delivery driver and heavy truckingoccupations (about five to one), but not for bus drivers (about two to one), or taxi drivers and chauffeurs (about 1.7 to one). There are about four times as many White men in driving occupations than Black men, but about 7.5 times as many White men in non-driving occupations.
+
+Median annual wages vary considerably by race/ethnicity and gender. The median annual wages in Table 8 vary from $37,000 (White male delivery drivers and heavy truck drivers) to $15,000(White female taxi drivers and chauffeurs). Men are paid more across every occupation and race and gender category.
+
+Figure I (for men) and figure J (for women) show median annual wages by race/ethnicity and gender. Generally, taxi drivers and chauffeurs are paid less than the other two occupational categories, which vary between highest paid and second highest paid.
+
+Figure K shows the driving premium for specific groups. The groups with a driving premium are Hispanic men and black men.
+
+EDUCATIONAL ATTAINMENT
+
+Table 9 shows the educational distribution of workers by occupation (see figures L and M as well). Generally, workers in driving occupations are more likely than workers in non-driving occupations to have less than a bachelor’s degree. Among workers in driving occupations, 93.17 percent have less than a college degree, compared with 66.91 percent of workers in non-driving occupations. Compared to the overall workforce, those in driving occupations are significantly overrepresented at the high school diploma level (25.14 percent of the overall workforce and 46.68 percent of the driving workforce). Correspondingly, these driving occupations are significantly underrepresented at the college and advanced education levels. Driving occupations represent a significant source of work for those with lower levels of educational attainment.
+
+STATES
+
+In the United States overall, 2.86 percent of workers are employed in driving occupations, but the share of workers in driving occupations varies by state. The top five states in rank order are Mississippi (3.70 percent), Wyoming (3.64 percent), West Virginia (3.60), Idaho (3.45 percent), and North Dakota (3.44 percent) (Table 10). In terms of absolute number of workers in driving occupations, however, larger states rank more highly. California (432,000), Texas (353,000), New York (282,000), Florida (224,000), and Illinois (189,000) are the five states with the most workers in driving occupations.
+
+Figure N shows the percent of workers in driving occupations in each state via a choropleth using a five-bucket Jenks natural breaks optimization. States with darker buckets have a higher percentage of workers in driving occupations.
+
+For workers in eight states, driving jobs pay more than $1,000 a year over non-driving jobs. They are North Dakota ($4,363 more), Utah ($3,194 more), Idaho ($2,934 more), Wyoming ($2,096 more), West Virginia ($1,999 more), Arkansas ($1,946 more), Iowa ($1,476 more), and Mississippi ($1,031 more) (table 11 and figure O).
+
+Figure O visually compares the driving premium in each state. States within darker buckets have a higher driving premium. The states that would be hit hardest by a rapid shift to autonomous vehicles are the states where workers are overrepresented in driving occupations and where driving occupations pay significantly more than non-driving occupations. Figure P combines these two characteristics to map the states that would be hit hardest by adding together the state rankings from tables 10 and 11 to create a simple index. The states that are most vulnerable according to this index are North Dakota, Idaho, Wyoming, West Virginia, Mississippi, Arkansas, and Iowa. (The District of Columbia is by far the least vulnerable, ranking dead last by both driver premium and percentage of the population in driving occupations.)
+
+These states would likely be hardest hit by wide-scale adoption of autonomous-vehicle technology that targeted the sorts of driving jobs they support. This is because these driving jobs pay more than non-driving jobs, and they represent a more significant portion of these states’ employment. Widespread unemployment in the driving occupations in these states could lead to many people out of work and forced to take lower-paying jobs.
+
+UNIONS
+
+Table 12 and figure Q show the share of workers in driving and non-driving occupations by union status. Among workers in driving occupations, 15.68 percent are union members, over 4 percentage points higher than the 11.31 percent of unionized workers in non-driving occupations. Only 11.44 of workers overall are union members. This suggests that driving jobs, on average, may have more advantages for workers than similar occupations with lower union membership rates, especially for non-White workers.[20]
+
+HEALTH INSURANCE
+
+Health insurance rates vary by driving and non-driving occupations as well. From 2010 to 2014, 77.14 percent of workers in driving occupations had health insurance, versus 84.08 percent of workers in non-driving occupations (table 13 and figure R). This represented about 940,000 workers in driving occupations without health insurance. For employer-sponsored health insurance, driving occupations had a rate of 60.58 percent, lagging behind non-driving occupations at 69.24. Because many drivers are employed on a contract basis, employer-sponsored health insurance may be offered to these workers at a lower rate.[21] Because only one-fifth of the data in these averages is after the implementation of the Affordable Care Act, the rate of insured drivers might be trending higher in recent years.
+
+The lower health insurance rates for driving occupations may reflect the dichotomy that while many driving jobs are unionized, many others are contract-based. Unionized jobs are more likely to provide health insurance than non-union or contract jobs.[22]
+
+POVERTY
+
+Table 14 shows the number and percent of workers in driving and non-driving occupations, by poverty status. There are about 300,000 workers in driving occupations living in poverty, compared with about 11.3 million workers in nondriving occupations. Driving occupations have a slightly lower share of workers in poverty compared to non-driving occupations, 7.32 percent versus 8.08 percent. Workers in driving occupations also have a poverty rate that is lower than the overall workforce (the overall poverty rate is 8.06 percent). This is further evidence that driving jobs, on the whole, are “good jobs.” While they may not be higher-paying jobs for every demographic, fewer drivers are in poverty.
+
+SUMMARY
+
+The analysis in these sections helps us to explain which part of the labor market could be affected by autonomous-vehicle technology.
+
+What kinds of jobs are these?
+
+Delivery drivers and heavy trucking drivers dominate the driving occupations analyzed.
+
+There could be important intra-category differences. For example, local delivery drivers might have very different jobs and tasks than long-haul truckers.
+
+There are likely large differences in the working conditions and pay of unionized versus non-unionized (or contract worker) bus drivers, taxi drivers, and delivery and heavy truck drivers.[23]
+
+Who relies on these jobs?
+
+Men dominate the category of delivery and heavy truck drivers as well as the category of taxi drivers and chauffeurs.
+
+About the same number of women as men are employed as bus drivers.
+
+Whites are underrepresented in these occupations as a whole. Blacks, Hispanics, and American Indians are overrepresented. Asians and those of other races are overrepresented as taxi drivers.
+
+White men dominate the delivery drivers and heavy trucking drivers category. Hispanic women, Black women, and Black men have significant employment as bus drivers.
+
+Driving occupations represent a significant source of work for those with lower levels of educational attainment.
+
+The states where workers are overrepresented in driving occupations and where driving occupations pay significantly more than non-driving occupations are North Dakota, Idaho, Wyoming, West Virginia, Mississippi, Arkansas, and Iowa.
+
+Are these good jobs?
+
+Driving occupations earn less overall than non-driving occupations[24]
+
+Hispanic men and Black men in driving occupations have significant driving premiums compared with their non-driving counterparts.
+
+Men and women both have large negative driving premiums.
+
+Blacks, Hispanics, and American Indians have driving premiums.
+
+Across the board, by race alone, or by both gender and race, non-whites make more than their whites counterparts as bus drivers and as taxi drivers and chauffeurs[25]
+
+Men of any race are paid more than women of any race in all categories.
+
+Men are paid highest as delivery drivers and heavy truck drivers, with the exception of Asian men and men of other races, who are paid most as bus drivers.
+
+Those in driving occupations are more likely to be unionized than their peers in nondriving occupations.
+
+Drivers are slightly less likely to be living in federally defined poverty than non-drivers.
+
+Drivers are less likely to have health insurance than are non-drivers (this likely reverses among drivers who have union jobs).
+
+SECTION 2: PREPARING FOR EMPLOYMENT DISRUPTIONS
+
+If there is a relatively rapid transition to autonomous-vehicle technology, four million workers will be at risk of unemployment. The previous section identified specific groups that should be targeted specifically for assistance. This is because these groups are disproportionately represented or because they receive premiums in their driving jobs, for example. In addition, the previous section explored the differences between occupations and discussed possible differences within occupations (for instance between unionized and non-unionized jobs). All available information about the workers impacted should be used to develop policy prescriptions to address this problem.
+
+In the current political climate, policies are more likely to be adopted sooner if proposals are directed to states rather than the federal government.[26] Possibilities at the state level include minimum-wage hikes and policies such as paid sick and family leave. Yet, there are federal-level policies, such as basic income, automatic Medicaid eligibility, and fully funded job-training and relocation assistance that should also be considered and adopted.
+
+In general, it is necessary to make certain that there is an adequate safety net, job-placement services, educational and training opportunities, and new jobs that can support these workers if they need to transition to new employment. Some analysts are concerned that other new technologies will also lead to significant job losses at least in the short term.[27] The reforms necessary to prepare for autonomous-vehicle technology will likely be beneficial in addressing other labor market shocks due to technology.
+
+PREPARE FOR AUTONOMOUS VEHICLES WITH APPROPRIATE REGULATION
+
+One simple way to make the labor market shock from autonomous vehicles more bearable is to make sure that they undergo adequate safety testing and that they are appropriately regulated. Although the extent of what is necessary would no doubt be something automotive firms would debate, independent experts should determine the appropriate rules. In addition, automotive firms, not the public, should pay for the infrastructure required by autonomous vehicles. As cities declare plans to move toward less and less car use, it does not make sense for them to subsidize well-capitalized companies.[28] That money can go to better use addressing the labor market impacts of the technology.
+
+UNEMPLOYMENT INSURANCE REFORM AND RETRAINING
+
+Unemployment insurance (UI) can keep laid-off workers and their families out of poverty.[29] The program, however, has not been given sufficient resources to meet demand. In 2015, only about a quarter of the jobless received UI—a historic low.[30] Further, even before the Great Recession (2007–2009), the length of unemployment spells for average and median workers had been following an upward trend over time,[31] while states have been reducing the number of weeks laid-off workers are eligible for unemployment insurance. It is important that unemployed workers be allowed 26 weeks of coverage. During a recession, it will take longer for the unemployed to find work. The duration of unemployment insurance coverage should also be automatically extended during periods of high unemployment.[32] In addition, UI should kick in automatically for eligible workers, as should other benefits for which workers are eligible. This should improve take-up rates. The policies discussed here are especially important for the states most vulnerable to these employment disruptions: North Dakota, Idaho, Wyoming, West Virginia, Mississippi, Arkansas, and Iowa.
+
+Additional reforms could make the UI program more effective at reconnecting workers to employment. The re-employment services and employment assistance and job placement provided by the American Job Centers connected to the UI program have been shown to be cost-effective, leading to shorter periods spent collecting UI and to higher earnings. Yet these programs have not been adequately funded.[33] Funding for these programs needs to be increased and benefits adjusted so that they can deal adequately with contemporary levels of unemployment as well as the type of retraining and education it will take to get displaced workers hired into comparable or better jobs. In these cases, the period for using UI should be extended to allow the benefit recipient to complete his or her education or retraining. The program should also provide relocation grants so that individuals can move to areas where they desire to live in order to find a job.[34]
+
+Related policies could include ending at-will dismissal at the state level. Montana has this provision for workers on the job for more than six months. In addition, mandating severance pay based on service would provide employees a cushion if they were about to be replaced by an autonomous vehicle (Germany has a policy like this).[35] This would give soon-to-be laid-off drivers considerable leverage in how they end their relationship with their employers. If there were no threat of layoffs, workers would have a degree of job security that could facilitate union organizing.
+
+APPRENTICESHIP PROGRAMS
+
+Workers displaced from driving occupations will need to move into new careers. In many cases, this move will require retraining. Apprenticeships are an ideal way for these workers to earn a salary while learning the skills for a new occupation. Apprentice programs could proactively help displaced drivers and help them map their skills and interests on other related, allied, or newly created occupations. It typically costs much less to prepare a worker through an apprenticeship program than through community college, for example.[36] Every dollar spent on apprenticeship returns $1.47 in increased productivity, reduced waste, and greater innovation.[37] In the United States, only 0.2 percent of the labor force is enrolled in apprenticeship programs, but the share is 2.2 percent in Canada and 3.7 percent in Germany. More funding should be put into increasing the share of apprenticeships in the labor force so that the rate in the United States approaches the rates found in nations like Canada and Germany.[38] If there were more apprenticeships available for workers of all ages, there would be more opportunities for former drivers to transition into new careers. These new programs should take into account lessons from Germany, both the technical aspects of the implementation and the German cultural attitudes that enable the success of the programs.[39] Apprenticeships could likely be a good fit for former drivers as well.
+
+UNIONS
+
+A discussion about major changes in the transportation sector can’t occur without mentioning active unions like the Amalgamated Transit Union and Teamsters. In total, they comprise almost 1.5 million members, and they represent bus drivers and truck drivers, among other non-transportation-related occupations. Given the wage and benefits premiums of union membership, especially for people of color, the expansion of union membership should be a primary concern for those interested in creating good jobs.[40] In periods of technological change, unions can advocate for workers (for example, by extracting concessions related to the retraining of laid-off workers) and help with transitions to different jobs within the industries represented by the union (sometimes via apprenticeships).
+
+AFFORDABLE HIGHER EDUCATION
+
+More than nine in 10 (93.17 percent) workers in driving occupations do not have a college degree.[41] If drivers are displaced by autonomous vehicles, some may wish to obtain a college degree or other postsecondary training to enhance their skills as they change careers. Today, many adults beyond their early 20s pursue additional education to advance their careers. In 2014, 41 percent of students in degree-granting institutions were over 24 years old. Eighteen percent were over 34 years old.[42]
+
+Cost will be the big obstacle facing former drivers who want to pursue higher education. In just a few decades, there has been a radical transformation in the cost of postsecondary education. Demos reports:
+
+As recently as the early 1990s, most students did not borrow to attain a degree. But now, nearly three-in-four graduates take on debt for a degree, and average debt for those who attain a bachelor’s degree has reached $30,000. Even a growing number—over 40 percent—of associate degree holders take on debt, something that runs counter to idea of an “affordable” two-year degree that acts as a standalone credential or a pathway to the bachelor’s.[43]
+
+This increase in the cost of going to college is largely the result of a decline in public investment in higher education.[44] If former drivers want to pursue a college education as a path to a new career, there must be an increase in public investment in higher education to make it more affordable, adequate support structures in place for these largely nontraditional students, and off-ramps from college to jobs.
+
+Affordable higher education, even with supports, is not enough to solve the problems associated with mass unemployment from autonomous-vehicle technology, nor is it a panacea for social or labor market problems. Obtaining a college or advanced degree does not guarantee labor market success. In fact, research has shown that the connection between educational attainment and future labor market success can at times be tenuous at best, especially for workers of color.[45]
+
+PROGRESSIVE BASIC INCOME
+
+The idea of providing a basic income for all workers precedes the current debate over technology and the future of work.[46] However, some leaders have picked up the call with renewed zeal in anticipation of sizable job losses due to artificial intelligence, machine learning, and automation. Since the efficiency of today’s technological advancements may outpace humankind’s ability to replace automated jobs with new jobs for humans, it would be prudent to establish a basic income to offset the likely potential for seismic changes in the labor market.
+
+The United States already has an infrastructure for delivering basic income: Social Security. A critical social insurance program created in 1935, Social Security provides monthly income to workers who retire or become disabled, and to the dependents of workers who die. The program already has mechanisms for identifying all eligible workers (the Social Security number), keeping track of and collecting revenue from employment (a payroll tax shared by employers and workers), a way of accounting for the revenue collected (the Social Security Trust Funds), and a way of disbursing monthly revenue to recipients (direct deposit and checks).
+
+In the event that moderate to liberal estimates of projected job losses proves likely, Social Security should be expanded to accommodate a progressive basic income (PBI) that insures workers and their dependents against the risk of losing their jobs to automation. PBI benefits should be distributed on a progressive scale—corresponding to the income or wealth position of the household—in an effort to ensure economic security for vulnerable households. The PBI would not take the place of Social Security’s existing benefits for retirees, the disabled, or the survivors of workers who have died.
+
+Changes would be needed in order to accommodate a basic income where it is presumed that workers may not always be able to contribute through a payroll tax. These limitations can be offset by alternative financing approaches that could tap the enhanced revenue companies would likely realize as a result of increased technological efficiencies.[47]
+
+AUTOMATIC MEDICAID ELIGIBILITY
+
+Workers who lose their jobs to automation will not be able to purchase basic necessities for themselves and their families without assistance. Federal and state governments should expand Medicaid eligibility to automatically cover displaced workers with household incomes below a determined level. This type of assistance will enable workers to protect their health and wallets while they obtain additional education or training and/or find a new job.
+
+ENTREPRENEURSHIP PROGRAMS AND INCENTIVES
+
+Entrepreneurship may be an important way to generate new jobs for humans in a labor market shaped by the growing influence of autonomous technology. Yet, there must be sizable investments in building pipelines to viable entrepreneurship for youth who are not guaranteed jobs of the future and for displaced workers seeking new options in the economy. The best way to increase exposure to and facility with the principles and practices of entrepreneurship for youth is to insert age-appropriate entrepreneurship and financial literacy education into the elementary and secondary education system, with a special focus on designing experiential entrepreneurship programs connected to real-world business opportunities at the high school level. Displaced workers who are interested in entrepreneurship should have business training and development opportunities that are linked to capital access and ongoing technical assistance opportunities.
+
+A FULL EMPLOYMENT POLICY GOAL
+
+The more jobs there are, the easier it will be for laid-off drivers to find new work. Furthermore, when there is an ample supply of jobs relative to the number of workers, wages tend to increase because employers have to compete more for workers. Thus, the more the country maintains a state of full employment the easier it will be for drivers to transition to new jobs, and to jobs that might pay as well as driving jobs.
+
+Some economists argue that federal macroeconomic policies have prevented the United States from reaching and maintaining its highest levels of employment. They argue that the Federal Reserve’s target for inflation is too low and that the Federal Reserve puts the brakes on job growth before we truly reach full employment by raising interest rates (i.e., by tightening monetary policy). They also point out that the Federal Reserve is very responsive to demands to raise interest rates even when there is still a good deal of slack in the labor market and no evidence of rising inflation.[48] In addition, if exports were balanced with imports, jobs would not be lost to the trade deficit. They also argue that more public investments—in infrastructure, in education, and in research and development—would help maximize job growth.[49] In total, expansionary monetary policy along with fiscal stimulus are key to reaching full employment during economic recoveries.
+
+Some populations face persistently high unemployment in good and bad economic times. The Black and American Indian unemployment rates tend to be about twice the White unemployment rate, and the Hispanic unemployment rate tends to be about 1.5 times the white rate year after year, decade after decade.[50] The unemployment rate for Black teens averages a staggering six times the White teen unemployment rate.[51] These populations will disproportionately benefit from better monetary and fiscal policies. But in order for these populations to participate in the economy at the same rates as Whites, targeted employment strategies for these groups are needed. These should include sectoral-employment strategies with a strong emphasis on job placement and training and coaching, wage subsidies, and the direct creation of jobs by the government.[52] Full employment should mean full employment for all racial and ethnic groups, not just for some.
+
+It is important to note that even targeted policies may not lead to participation of these populations in the labor market at the same rates as Whites. This is because joblessness is a complicated social problem with many different causes and contributing factors. Absent a fundamental reorientation of the economy and social norms, it is unlikely that the underlying conditions will completely change. This is not an argument to avoid pursuing these targeted policies, however. It is an argument for further expansion of the government’s ability to provide jobs to anyone, an idea known as a universal job guarantee, which has increasingly gained favor by some economists.[53] If worthwhile jobs were provided to those who need and want them, labor force participation rates would rise significantly, and racial disparities would likely shrink substantially, even in the short term.[54] A job guarantee would not solve underlying disparities, but it would achieve the desired outcome. A job guarantee program could also be combined with retraining programs that emulate a real work environment, thus combining the benefits of both.[55] An expansive and accessible job guarantee program would be able to handle disruptions to the labor market like autonomous-vehicle technology might cause.
+
+Lastly, work sharing is an important stopgap to layoffs. Employees would be moved to reduced hours instead of being laid off, allowing them to keep some of the benefits of being employed and allowing the employer to retain the skills and institutional knowledge of employees. This would be useful for a transition to autonomous-vehicle technology, and blunt the effect from it. Twenty-one states (including California and New York) already have an apparatus on the books to allow for work sharing.[56] Germany used work sharing with great success during the Great Recession; its unemployment rate actually decreased during the recession.[57] In a similar vein, states can mandate that employees take paid leave, including paid vacation, to create jobs and reduce unemployment. This would bring the length of the average workweek in the United States closer to that of other countries.[58]
+
+Achieving and maintaining full employment is an important policy priority for an economy in which individuals who lose jobs to technology can find new, good jobs without too much difficulty.
+
+RESISTING THE GIG ECONOMY AND FIGHTING FOR GOOD JOBS
+
+Turning jobs into “gigs,” or contract employment, is a trend bolstered by Silicon Valley in recent years. This trend did not start with Silicon Valley companies, however. In just one example, port truckers have faced particularly harsh conditions in recent years due to employment misclassification. They bear all costs from their work (gas, maintenance, insurance), have little control over their schedules, and do not have any of the legal protections of employees (like those from minimum-wage and overtime laws).[59] Ride-hailing companies like Uber and Lyft have misclassified their workers as well, and those workers face many of the same challenges as port workers.
+
+As part of this trend, companies have advocated for an “independent worker” category between an employee and a contract worker, which marries the downsides of both statuses into a new category. This category also comes with the promise of “portable benefits,” or a 401(k)-type system that would provide benefits such as sick leave across employers.[60] These developments should be met with much skepticism, as they erode worker power and result in a race to the bottom in wages and working conditions. It is also troubling that this misclassification and new employment category are targeted at transportation occupations, like some of those analyzed in this paper.
+
+Any labor market shocks caused by autonomous-vehicle technology would hit contract workers hardest. In addition, if misclassification is tolerated, or if the “independent worker” category gains traction, these systems could be used to justify paying poverty wages to drivers once autonomous-vehicle technology arrives. Workers in this position would have very little bargaining power and would likely have very poor working conditions.
+
+As demonstrated, there are ample opportunities for policymakers to prepare for large labor market shocks. Even if autonomous-vehicle technology were a bust, these policies would be useful in dealing with other labor market shocks or recessions. In addition, they would transfer bargaining power back to workers, and improve the labor market overall. While the chance of mass unemployment due to autonomous-vehicle technology requires serious scrutiny, these policies would also be quite popular among workers, including potentially disillusioned workers who face the prospect of mass unemployment (the kind of blue-collar workers often talked about in the aftermath of the 2016 presidential election). On top of that, these policies would change the landscape of power in the workplace, and they would defang the threat of mass unemployment due to technology that is often used to undercut worker power regardless of whether it actually exists.
+
+SECTION 3: THE LIKELIHOOD AND THE IMPACT OF A RAPID TRANSITION TO AUTONOMOUS-VEHICLE TECHNOLOGY
+
+Two questions are central to evaluating the labor market disruptions of fully or near-fully autonomous-vehicle technology:
+
+How fast will the technology develop?
+
+How much of an impact will it have?
+
+This section summarizes the debates on these pertinent questions.
+
+ON THE LIKELIHOOD OF A RAPID TRANSITION TO AUTONOMOUS-VEHICLE TECHNOLOGY
+
+A vehicle is fully autonomous at Level 5 on the SAE scale of autonomous-vehicle technology.[61], [62] The previously mentioned computer-controlled Uber truck that delivered beer between two cities in Colorado in October 2016 was a test of a Level 4 vehicle, or a vehicle that can perform all critical driving functions.[63] Given the progress already made and the number of companies working on advancing autonomous-vehicle technology, it is possible that there will be progress to Level 5—full autonomy without human involvement—in the near future. Many economists, pundits, and companies are predicting just that.
+
+If autonomous vehicles are to replace traditional driving jobs, they will need to be fully—or close to fully—autonomous. There is considerable variation in forecasts for when autonomous vehicles will reach the market.[64] There are many caveats to these forecasts. The transition from Level 3 or Level 4 to fully autonomous Level 5 technology might be the hardest step; previous development is not necessarily indicative of future progress; and gradual progress toward fully autonomous vehicles ignores the dramatic leap in technology needed. For example, there is a large difference between the capabilities of a computer that has a human backup and that is only sometimes in control, and that of a computer that can handle every situation it might encounter—even situations that might befuddle human drivers.[65]
+
+Some firms are counting on jumping directly to fully autonomous technology in anticipation of this problem. In part, this is because technology aimed at completely removing drivers (and driver controls)—Level 5 on the scale—will be more reliable than less advanced technology that relies on human occupants.[66] It is difficult to incorporate human intervention in a near-autonomous vehicle: Adapting to and preparing for human attention spans and response time presents a set of challenges that these firms would rather bypass.[67], [68]
+
+The difficulty of reaching Level 5 technology could mean that fully autonomous vehicles are delayed far beyond most optimistic forecasts. The head of the Toyota Research Institute, for example, believes that the perfection of Level 4 technology could take decades, and that Level 5 technology could take even longer. This is a much more pessimistic prediction.[69], [70] Indeed, previous “three to five years” predictions, including one from Google in early 2013, are starting to prove too optimistic.[71] However, it is important to note that there are significant incentives to bring these innovations to the market as soon as possible, and that these might be stronger than for other automotive innovations.[72], [73] For example, eliminating the driver in taxi and trucking applications could result in substantial cost savings as well as lower insurance premiums for consumers and governments, increased efficiencies, and safer operation. The wages of truck drivers, for instance, were found to be over a third of the total operating costs of trucking according to one European report.[74] It is possible that technology suitable for fleet operation might arrive much more quickly than similar technology for consumer use. Fleet operations are much more predictable and usually are confined to certain geographic areas and routes.
+
+Yet counting on these upsides to fuel technological breakthroughs is risky; there is no guarantee that there are easy solutions to intractable problems, just like there is no logical reason why it would be easy to advance up the SAE scale just because a taxonomy has been created.[75], [76] These realities have been left out of many of the more optimistic predictions. Less charitably, this could be because the more optimistic predictions stated earlier—that fully autonomous cars would arrive in three to five years—to some degree reflect an investment and public relations strategy[77] that firms have employed to get subsidies and other preferential treatment,[78] and not a sober assessment of the obstacles ahead and the challenges in proving that fully autonomous vehicles are safe and reliable. This would be consistent with other predictions of much-hyped products and firms—as well as entire industries—at various points in history.[79], [80], [81]
+
+If the technology is successfully developed, the rate of the adoption and popularization of autonomous vehicles will depend greatly on whether necessary infrastructure is built, and whether and how regulation responds to these advances in technology.[82] One of the inevitable debates will be between those who wish to ensure that autonomous vehicles are safe and reliable and those who want to get them to market as soon as possible.[83], [84] The outcome of this debate could greatly determine how the labor market is affected. Thorough vetting of the technology, along with phased rollouts, would allow time for workers to adjust to incoming shocks, and would dampen those shocks as well.
+
+ON THE IMPACT OF A RAPID TRANSITION TO AUTONOMOUS-VEHICLE TECHNOLOGY
+
+At many times in history, various economic thinkers have argued that technology will cause a permanent decline in jobs, only to be proven wrong.[85] Advancements in computer technology have some who are involved in the public debate arguing that, this time, the nature of technological change really will lead to permanent joblessness.[86] The other side argues that these people are wrong, and that, as in the past, there will be no permanent decline in employment, and that employment losses in certain sectors are offset by jobs in other sectors, including in new fields created by technological change. They also argue that increased automation can lead to a shorter workweek and other increased living standards if productivity gains are shared in an equal way. One of the main pieces of evidence from this group is that productivity growth, a proxy for automation, has been low for the past decade or so.[87]
+
+The most recent debate on this topic has had automated vehicles at its heart. For instance, the Obama administration released a report in late 2016 echoing an earlier study that claimed that almost half of all jobs in the United States could be eliminated due to automation in the short- to medium-term, a large percentage of which included driving occupations.[88] Assuming that autonomous vehicles meet or exceed expectations for cost savings and productivity, there are similar and allied occupations to those examined in this paper that could expand as a result of the technology and absorb workers who lose their jobs in driving occupations. They include mechanics; roadside repair technicians; warehouse workers to load, off-load, and inspect autonomous trucks; rail workers; mariners; and manufacturing workers to create specific parts for the vehicles. The remaining workers in the trucking industry would likely have higher wages, following a similar pattern as the decline of longshoremen.[89] Other occupations, such as software engineering, could expand, both from growth in the autonomous-vehicle industry and from the economic boost the use of the vehicles would generate.
+
+An important way to view automation is how it will replace individual activities rather than entire occupations; as the individual activities accumulate, the occupation will be substantially altered or eliminated. If vehicles are introduced but are not fully autonomous and are thus limited to certain contexts, the impact of autonomous technology will be less. For example, if vehicles were able to navigate safely only on interstate highways, trucking occupations would be affected, but not delivery or bus driving occupations. Even in the trucking industry, there are many tasks that are difficult to imagine autonomous-vehicle technology being able to manage, which may limit their adoption or consign them or the driver to a secondary role.[90] This includes many things that truck drivers are required to know,[91] such as how to inspect the vehicle and cargo, perform maintenance and fix emergency problems, put on tire chains and deal with unpredictable weather, refuel the vehicle safely, and carry dangerous materials safely, to name a few.
+
+There is also the question of more socially oriented driving jobs. Bus drivers are one example. City bus drivers preserve order and safety on buses, provide information, ensure payment, and are generally considered community members and authority figures.[92] School bus drivers have specific responsibilities related to the safety of the children they supervise.[93] For these reasons, it may not be desirable or necessary to replace bus drivers, completely at least, even if the buses were fully autonomous. There is also a chance that in the far-off future, society (especially cities) will rely less on cars and more on walking and public transportation (perhaps still operated by bus drivers), somewhat reducing the need for autonomous vehicles in the first place.[94]
+
+Lastly, even if fully autonomous vehicles were available tomorrow, it does not mean that occupations would vanish overnight. The Bureau of Labor Statistics predicts there will still be significant employment in 2024 even for occupations that were declining quickly in 2014, including some that might already be considered obsolete.[95] To use trucking as an example again, there are many owner-operators who have driven their tractor-trailers for many years, and they are unlikely to stop doing so in the short term.
+
+CONCLUSION
+
+Kevin, the bus driver quoted at the beginning of this paper, explains that his job allows him to have a good life with his family. Without his employment as a bus driver, he surmises that he would need multiple jobs to maintain the same standard of living. The median worker in a driving occupation earns about $31,000,[96] enough to keep a family out of federally defined poverty. If people like Kevin were to try to replace their salary with minimum-wage jobs, they would need to work two full-time jobs.
+
+It is difficult—and probably impossible—to accurately predict the impact of autonomous vehicles on the economy. The number of jobs at risk could be greater than four million. The jobs supporting the drivers in the transportation industry may also be at risk as the number of drivers declines. Autonomous vehicles will no doubt create occupations that are hard to imagine today. Will there be roadside computer repair technicians to fix computer malfunctions in autonomous vehicles? Autonomous vehicles promise to be much safer than vehicles driven by people. Will autonomous vehicles lead to indirect job creation due to the additional dollars that people and businesses have to spend once they are saving money on vehicle insurance, accident repairs, and car-crash medical bills? These are some of the reasons why it is very hard to predict how autonomous vehicles will transform our economy.
+
+What this paper has done is address some of the questions that should inform how we deal with disruptions from a shift to autonomous vehicles if they occur: What kinds of jobs are these? Who relies them and where? And what advantages do they offer? It also has evaluated the optimistic predictions for the arrival of fully autonomous-vehicle technology—the kind that could replace traditional driving jobs—as well as the likely extent of the impact of that technology.
+
+Regardless of what the future holds, more than 30 companies say they are just a few years away from introducing autonomous vehicles to the mass market. While it is unknown what the ultimate impact of autonomous vehicles will have on jobs, there is a possibility that there could be a relatively rapid transition. This is likely to cause significant pain in a number of communities, as well as exacerbate the losses of “good jobs,” a category that includes some driving jobs.[97] It would be prudent to strengthen our safety net and labor market to absorb a shock from autonomous-vehicle technology, as well as ensure that autonomous-vehicle technology is safe and reliable. This will be a challenge, given the recent change in the party controlling the executive branch, and its new secretary of transportation.[98] Strengthening the unemployment insurance system, improving apprenticeship programs, making higher education more affordable, and committing to full employment can not only minimize the harm to displaced workers, but can provide them with opportunities that lead to fulfilling and economically sustaining jobs. This is good policy whether or not autonomous vehicles are around the corner.
+
+END NOTES
+
+[1] Mark Fields, the CEO of Ford, argues that his company is much more than a car company. He says that it is also a mobility company, in the sense that he expects to provide vehicles that will be shared or rented for very short periods in the future. He says Ford is not just a manufacturing company but also a technology company, noting that there are more than 150 million lines of computer programming code in the Ford F-150 truck. As cars become more interconnected with other devices and connected to the Internet, Fields sees Ford also becoming an information technology company. See Ryssdal, K., and B. Bodnar. (October 12, 2016). Ford CEO Mark Fields on Self-Driving Cars and Henry Ford. Marketplace. Retrieved from http://www.marketplace.org/2016/10/12/business/ corner-office/ford-ceo-mark-fields-self-driving-cars-and-henry-ford.
+
+[2] CB Insights. (August 11, 2016). 33 Corporations Working on Autonomous Vehicles. Retrieved from https://www.cbinsights.com/ blog/autonomous-driverless-vehicles-corporations-list/.
+
+[3] Ford expects to have an autonomous vehicle on the road in five years. See Ryssdal and Bodnar 2016. Baidu, a Chinese company, expects to be selling fully autonomous vehicles in five years. Tesla predicts three to eight years. Volkswagen expects autonomous vehicles to be a common sight on the roads in less than 10 years. Hyundai is less optimistic, but expects these vehicles in 10 to 15 years. See CB Insights 2016.
+
+[4] For more information on SAE scale see: https://www.wired. com/2016/08/self-driving-car-levels-sae-nhtsa/
+
+[5] Davies A. (October 25, 2016). Uber’s Self-Driving Truck Makes Its First Delivery: 50,000 Beers. Wired. Retrieved from https://www. wired.com/2016/10/ubers-self-driving-truck-makes-first-delivery50000-beers/.
+
+[6] This quotation was obtained from the text accompanying a photograph featuring workers from the Economic Policy Institute’s permanent photo exhibit.
+
+[7] Davies 2016.
+
+[8] Ryssdal and Bodnar 2016.
+
+[9] CB Insights 2016.
+
+[10] See Ryssdal and Bodnar 2016, CB Insights 2016.
+
+[11] Davies 2016.
+
+[12] Because active-duty military with driving jobs are likely to be affected by any widespread adoption of autonomous-vehicle technology, we have included these workers in our analysis.
+
+[13] The character of work within the delivery drivers and heavy truck driver group can vary significantly. Long haul drivers can be on the road for many days at a time; delivery drivers might have only local routes. For a detailed analysis of these different occupations, see https://www.onetonline.org/link/summary/53-3033.00 and https:// www.onetonline.org/link/details/53-3032.00. The conditions of work can also vary widely within groupings and even occupations. For example, there is strong evidence that unionization correlates with higher wages (link: http://cepr.net/documents/publications/ quantile_2008_05.pdf) and benefits, like health insurance (http:// cepr.net/publications/reports/black-workers-unions-and-inequality). This “union advantage” likely results in better health and safety conditions on the job, conditions which are often a focus during contract negotiations (https://billypenn.com/2016/11/05/septasstriking-bus-drivers-are-tired-of-being-tired/).
+
+[14] Further research could look at the differences between wages in driving occupations versus non-driving occupations when controlling for full-time status (working more than 35 hours per week) and education for both groups. These controls may increase the reported wages of driving occupations more than they increase the wages of non-driving occupations.
+
+[15] Eberstadt, N. (2016). Men Without Work: America’s Invisible Crisis. West Conshohocken, PA: Templeton Press.
+
+[16] Schmitt, J., and J. Jones. (July 2012). Where Have All the Good Jobs Gone? Washington, DC: Center for Economic and Policy Research. Retrieved from http://cepr.net/documents/publications/goodjobs-2012-07.pdf.
+
+[17] Hegewisch, A., and A. DuMonthier. (April 2016). The Gender Wage Gap by Occupation 2015 and by Race and Ethnicity. Washington, DC: Institute for Women’s Policy Research. Retrieved from https:// iwpr.org/publications/the-gender-wage-gap-by-occupation-2015and-by-race-and-ethnicity/.
+
+[18] There is research that suggests that gender wage gaps (including within occupations) persist even after important differences between men and women are taken into account. For more, see Gould, E., J. Schieder, and K. Geier. (October 20, 2016). What Is the Gender Pay Gap and Is It Real? Economic Policy Institute. Retrieved from http:// www.epi.org/publication/what-is-the-gender-pay-gap-and-is-it-real/. See also Schieder, J., and E. Gould. (July 20, 2016). “Women’s Work” and the Gender Pay Gap. Economic Policy Institute. Retrieved from http://www.epi.org/publication/womens-work-and-the-gender-paygap-how-discrimination-societal-norms-and-other-forces-affectwomens-occupational-choices-and-their-pay/.
+
+[19] Throughout this paper, the White, Black, and Asian categories exclude Hispanics. The Asian category includes Pacific Islanders. Hispanics exclude American Indians and Alaska Natives. American Indian includes Hispanics and multiracials.
+
+[20] Bucknor, C. (August 2016). Black Workers, Unions, and Inequality. Center for Economic and Policy Research. Retrieved from http:// cepr.net/publications/reports/black-workers-unions-and-inequality.
+
+[21] Two driving occupations are in the top 20 occupations for contract workers. See Zulliger, L. (September 10, 2015). Which Industries Have the Most 1099 Workers? Payable. Retrieved from https:// payable.com/blog/industries-most-1099-workers.
+
+[22] Employee Benefits Survey. (March 2016). Employee Benefits Survey. Healthcare Benefits: Access, Participation, and Take-Up Rates. Bureau of Labor Statistics. Retrieved from https://www.bls.gov/ncs/ ebs/benefits/2016/ownership/civilian/table09a.htm.
+
+[23] See endnote 13.
+
+[24] See endnote 14.
+
+[25] This suggests that these occupations might be “good jobs” for these groups. For bus drivers, this could be because this occupation has a higher unionization rate than average (see https:// www.bls.gov/ooh/transportation-and-material-moving/bus-drivers. htm#tab-5). For taxi drivers, it is more unclear, although it could be related to the fact that this occupation is less dominated by whites; see table 5). See also endnote 13.
+
+[26] Baker, D. (February 2017). Economic Policy in the Trump Era. Center for Economic and Policy Research. Retrieved from http://cepr.net/ publications/reports/working-paper-economic-policy-in-the-trump-era
+
+[27] Wadhwa, V. (July 21, 2014). We’re Heading into a Jobless Future, No Matter What the Government Does. The Washington Post. Retrieved from https://www.washingtonpost.com/news/ innovations/wp/2014/07/21/were-heading-into-a-jobless-futureno-matter-what-the-government-does/?utm_term=.15ed9e871158. See also Summers, L.H. (July 7, 2014). Lawrence H. Summers on the Economic Challenge of the Future: Jobs. The Wall Street Journal. Retrieved from https://www.wsj.com/articles/lawrence-h-summerson-the-economic-challenge-of-the-future-jobs-1404762501.
+
+[28] Dayen, D. (December 27, 2016). Silicon Valley’s Self-Serving Vision for Self-Driving Cars. The Fiscal Times. Retrieved from http://www. thefiscaltimes.com/Columns/2016/12/27/Silicon-Valley-s-SelfServing-Vision-Self-Driving-Cars
+
+[29] West, R., et al. (June 2016). Strengthening Unemployment Protections in America: Modernizing Unemployment Insurance and Establishing a Jobseeker’s Allowance. Center for American Progress. Retrieved from https://www.americanprogress.org/ issues/poverty/reports/2016/06/16/138492/strengtheningunemployment-protections-in-america/.
+
+[30] West 2016.
+
+[31] West 2016.
+
+[32] These points are taken from Von Wachter, T. (October 31, 2016). Unemployment Insurance Reform: A Primer. Washington Center for Equitable Growth. Retrieved from http://equitablegrowth.org/ human-capital/unemployment-insurance-reform-primer/.
+
+[33] Von Wachter 2016.
+
+[34] Von Wachter 2016.
+
+[35] These points are taken from Baker, D. Forthcoming.
+
+[36] Lerman, R. I. (June 2016). The Hamilton Project, Proposal 7: Expanding Apprenticeship Opportunities in the United States. The Brookings Institution. Retrieved from https://www.brookings.edu/ wp-content/uploads/2016/06/expand_apprenticeships_united_ states_lerman.pdf.
+
+[37] The White House. (April 21, 2016). Fact Sheet: Investing $90 Million through Apprenticeship USA to Expand Proven Pathways into the Middle Class. Retrieved from https://obamawhitehouse.archives. gov/the-press-office/2016/04/21/fact-sheet-investing-90-millionthrough-apprenticeshipusa-expand-proven.
+
+[38] Lerman 2016.
+
+[39] Jacoby, T. (October 16, 2014) Why Germany Is So Much Better at Training Its Workers. The Atlantic. Retrieved from https://www. theatlantic.com/business/archive/2014/10/why-germany-is-somuch-better-at-training-its-workers/381550/.
+
+[40] Bucknor, C. (August 2016). Black Workers, Unions, and Inequality. Center for Economic and Policy Research. Retrieved from http:// cepr.net/publications/reports/black-workers-unions-and-inequality.
+
+[41] Authors’ analysis of American Community Survey data from IPUMSUSA, University of Minnesota, https://usa.ipums.org/usa/.
+
+[42] National Center for Education Statistics. Retrieved from https:// nces.ed.gov/programs/digest/d15/tables/dt15_303.40.asp.
+
+[43] Huelsman, M. (2015). The Case for Debt-Free Public College. Demos. http://www.demos.org/sites/default/files/publications/ thecasefordebtfreecollege-_mark_.pdf.
+
+[44] Huelsman 2015.
+
+[45] Jones, J., and J. Schmitt. (May 2014). A College Degree Is No Guarantee. Center for Economic and Policy Research. Retrieved from http://cepr.net/documents/black-coll-grads-2014-05.pdf, http://cepr.net/documents/black-wages-2015-08.pdf.
+
+[46] Basic Income Earth Network. History of Basic Income. Retrieved from http://basicincome.org/basic-income/history/.
+
+[47] Delaney, K.J. (February 17, 2017). The Robot That Takes Your Job Should Pay Taxes, Says Bill Gates. Quartz. Retrieved from https:// qz.com/911968/bill-gates-the-robot-that-takes-your-job-shouldpay-taxes/.
+
+[48] Baker, D., and L. Merling (November 3, 2016). In Search of Accelerating Inflation. Center for Economic and Policy Research. Retrieved from http://cepr.net/blogs/beat-the-press/in-search-ofaccelerating-inflation.
+
+[49] Baker, D., and J. Bernstein. (2013). Getting Back to Full Employment: A Better Bargain for Working People. Washington, DC: Center for Economic and Policy Research. Retrieved from http://cepr.net/documents/Getting-Back-to-FullEmployment_20131118.pdf. 50 Austin, A. (June 19, 2013).
+
+[50] Years of Recessionary-Level Unemployment in Black America. Economic Policy Institute. Retrieved from http://www.epi.org/publication/50-yearsrecessionary-level-unemployment/. See also Austin, A. (December 17, 2013). High Unemployment Means Native Americans Are Still Waiting for an Economic Recovery. Economic Policy Institute. Retrieved from http://www.epi.org/publication/highunemployment-means-native-americans/.
+
+[51] Cashman, K. (October 23, 2015). FedWatch: If the Unemployment Rate Declines More, Blacks Will Disproportionately Benefit. Center for Economic and Policy Research. Retrieved from http://cepr.net/ blogs/cepr-blog/fedwatch-if-the-unemployment-rate-declinesmore-blacks-will-disproportionately-benefit.
+
+[52] Austin, A. (December 14, 2011). A Jobs-Centered Approach to African American Community Development. Economic Policy Institute. Retrieved from http://www.epi.org/publication/bp328african-american-unemployment/.
+
+[53] Darity, W. (July 11, 2016). A Guaranteed Federal Jobs Program Is Needed. The New York Times. Retrieved from http://www.nytimes. com/roomfordebate/2016/07/11/are-we-ready-for-the-nextrecession/a-guaranteed-federal-jobs-program-is-needed.
+
+[54] Hamilton, D. (November 9, 2015). The Federal Job Guarantee: A Step Toward Racial Justice. Dissent. Retrieved from https://www. dissentmagazine.org/online_articles/federal-job-guarantee-racialjustice-darrick-hamilton.
+
+[55] Alderman, L. (May 29, 2015). In Europe, Fake Jobs Can Have Real Benefits. The New York Times. Retrieved from https://www.nytimes. com/2015/05/31/business/international/in-europe-fake-jobs-canhave-real-benefits.html.
+
+[56] Baker, D. (June 2011). Work Sharing: The Quick Route Back to Full Employment. Center for Economic and Policy Research. Retrieved from http://cepr.net/publications/reports/work-sharing-the-quickroute-back-to-full-employment.
+
+[57] Beat the Press blog. (September 25, 2012). Work Sharing: The Hidden Secret of Germany’s Economic Success. Center for Economic and Policy Research. Retrieved from http://cepr.net/ blogs/beat-the-press/work-sharing-the-hiddden-secret-ofgermanys-economic-success.
+
+[58] Baker, D. (February 2017). Economic Policy in the Trump Era. Center for Economic Policy Research. Retrieved from http://cepr.net/ publications/reports/working-paper-economic-policy-in-the-trump-era
+
+[59] Burns, R. (Winter 2017). Bargaining with Silicon Valley. Dissent. Retrieved from https://www.dissentmagazine.org/article/ bargaining-silicon-valley-gig-economy-labor-standards.
+
+[60] Burns 2017.
+
+[61] SAE International. (January 2014). Summary Of SAE International’s Levels of Driving Automation For On-Road Vehicles. Warrendale, PA: SAE International. Retrieved from https://www.sae.org/misc/ pdfs/automated_driving.pdf. (Not to be confused with the National Highway Traffic Safety Administration’s scale.)
+
+[62] Davies, A. (August 26, 2016). Everyone Wants a Level 5 Self-Driving Car—Here’s What That Means. Wired. Retrieved from https://www. wired.com/2016/08/self-driving-car-levels-sae-nhtsa/.
+
+[63] Davies 2016.
+
+[64] See, for example, a list of some predictions here: Inventivio. (January 2017a). Forecasts: Driverless Car Market Watch. Nürnberg, Germany: Inventivio. Retrieved from http://www.driverless-future. com/?page_id=384.
+
+[65] Some autonomous cars have trouble with things as simple as potholes or poor weather conditions. See Gomes, L. (July 9, 2016). Silicon Valley-Driven Hype for Self-Driving Cars. The New York Times. Retrieved from https://www.nytimes.com/2016/07/10/ opinion/sunday/silicon-valley-driven-hype-for-self-driving-cars.html.
+
+[66] Other firms are counting on “teleoperation”—in difficult situations, a remote operator would drive the vehicle—as a way to bridge the gap between technology close to but not fully suited for driverless applications. This has downsides, too, such as operator availability, the coverage of the control area (which could exclude rural locations with difficult driving situations), potentially increased costs, and the inability of operators to take control in time to handle sudden emergency situations. See Davies, A. (January 5, 2017). Nissan’s Path to Self-Driving Cars? Humans in Call Centers. Wired. Retrieved from https://www.wired.com/2017/01/nissans-selfdriving-teleoperation/.
+
+[67] Davies, A. (January 1, 2017). The Very Human Problem Blocking the Path to Self-Driving Cars. Wired. Retrieved from https://www.wired. com/2017/01/human-problem-blocking-path-self-driving-cars/.
+
+[68] A well-publicized accident illustrates the danger of this situation: The driver of a partially autonomous vehicle, a Tesla using “autopilot” mode, failed to maintain proper awareness and control and the driver was killed when his car hit a tractor-trailer. The driver was watching a movie at the time of his death. Levin, S., and N. Woolf. (July 1, 2016). Tesla Driver Killed While Using Autopilot Was Watching Harry Potter, Witness Says. The Guardian. Retrieved from https://www.theguardian.com/technology/2016/jul/01/tesla-driverkilled-autopilot-self-driving-car-harry-potter.
+
+[69] Javelosa, J. (January 5, 2017). Expert Claims Automakers “Not Even Close” to Fully Autonomous Cars. Futurism. Retrieved from https:// futurism.com/expert-claims-automakers-not-even-close-to-fullyautonomous-cars/.
+
+[70] Some independent industry experts also believe that fully autonomous vehicles are very far away, even outside of a human lifetime. See Strether, L. (October 3, 2016). Self-Driving Cars: How Badly Is the Technology Hyped? Naked Capitalism. Retrieved from http://www.nakedcapitalism.com/2016/10/self-driving-cars-howbadly-is-the-technology-hyped.html.
+
+[71] Reed, B. (February 12, 2013). Google Wants Self-Driving Cars on the road in 3-5 Years, but Regulators Are Pumping the Brakes. BGR. Retrieved from http://bgr.com/2013/02/12/google-driverless-carrelease-date-3-5-years-324665/.
+
+[72] A McKinsey analysis suggests that the “factors that will determine the pace and extent of automation include the ongoing development of technological capabilities, the cost of technology, competition with labor including skills and supply and demand dynamics, performance benefits including and beyond labor cost savings, and social and regulatory acceptance.” Retrieved from http://www.mckinsey.com/global-themes/digital-disruption/ harnessing-automation-for-a-future-that-works.
+
+[73] Inventivio. (January 2017b). Driverless Car Market Watch: Top Misconceptions of Autonomous Cars and Self-Driving Vehicles. Nürnberg, Germany: Inventivio. Retrieved from http://www. driverless-future.com/?page_id=774.
+
+[74] Bayliss, B.T., chair. (June 2012). Report of the High Level Group on the Development of the EU Road Haulage Market. European Commission. Retrieved from http://ec.europa.eu/transport/sites/transport/files/ modes/road/doc/2012-06-high-level-group-report-final-report.pdf.
+
+[75] Instead of a taxonomy, a one-way “hype cycle” with no sense of history or acknowledgement of failure is created. See Gartner’s hype cycle, in Watters, A. (November 2, 2016). The Best Way to Predict the Future Is to Issue a Press Release. Talk given at Virginia Commonwealth University. Retrieved from http://hackeducation. com/2016/11/02/futures
+
+[76] Aside from the problems associated with normal driving, other can include easy hacking and jamming of autonomous vehicles’ computer systems. See Strether 2016.
+
+[77] For example, to reduce unions’ bargaining power, see W.W. (March 8, 2011). The Distributive Consequences of Automation. The Economist. Retrieved from http://www.economist.com/blogs/ democracyinamerica/2011/03/robots_and_social_justice.
+
+[78] Dayen, D. (December 27, 2016). Silicon Valley’s Self-Serving Vision for Self-Driving Cars. The Fiscal Times. Retrieved from http://www. thefiscaltimes.com/Columns/2016/12/27/Silicon-Valley-s-SelfServing-Vision-Self-Driving-Cars.
+
+[79] Ramsey, L. (January 30, 2017). “The Outlier Thing Didn’t Work Out”—Biotech CEOs Reflect on Theranos’ Impact on the Industry. Business Insider. Retrieved from http://www.businessinsider.com/ was-there-a-theranos-effect-in-biotech-2017-1.
+
+[80] Opinion. (December 24, 2000). The Dot-Com Bubble Bursts. The New York Times. Retrieved from http://www.nytimes. com/2000/12/24/opinion/the-dot-com-bubble-bursts.html.
+
+[81] For methodological problems with technology predictions, see Watters 2016.
+
+[82] For early developments, see Hawkins, A.J. (September 19, 2016). New Rules of the Road for Self-Driving Cars Have Just Been Released. The Verge. Retrieved from http://www.theverge. com/2016/9/19/12981448/self-driving-car-guidelines-obamafoxx-dot-nhtsa. See also Christ, G. (November 30, 2016). SelfDriving Truck Hits the Road in Ohio, State Investing $15 Million in Autonomous Vehicle Corridor. The Plain Dealer. Retrieved from http://www.cleveland.com/metro/index.ssf/2016/11/self-driving_ truck_hits_the_ro.html.
+
+[83] The number of miles need for safety testing has been estimated to be in the hundreds of millions for each system, requiring new approaches that would allow uncertainty to remain. See Kalra, N. and S. Paddock. (2016). How Many Miles of Driving Would It Take to Demonstrate Autonomous Vehicle Reliability? Santa Monica, CA: RAND Corporation. Retrieved from http://www.rand.org/ pubs/research_reports/RR1478.html. (This finding is disputed by Inventivio 2017b.)
+
+[84] See, for example, Tesla’s Elon Musk claiming in late 2015 that fully autonomous cars would be available in three years, depending on regulatory environments. Thompson, C. (September 25, 2015). Elon Musk Says Tesla’s Fully Autonomous Cars Will Hit the Road in 3 Years. Business Insider. Retrieved from http://www.businessinsider. com/elon-musk-on-teslas-autonomous-cars-2015-9.
+
+[85] Autor, D.H. (Summer 2015). Why Are There Still So Many Jobs? The History and Future of Workplace Automation. Journal of Economic Perspectives. Retrieved from http://economics.mit.edu/files/11563.
+
+[86] See, for example, Wadhwa 2014 and Summers 2014.
+
+[87] See, for example: Denning, S. (June 4, 2015). The “Jobless Future” is a Myth. Forbes. Retrieved from https://www.forbes. com/sites/stevedenning/2015/06/04/the-robots-are-notcoming/#5a4fa6cb1913. See also Autor 2015. See also Baker, D. (May 6, 2015). The Job-Killing-Robot Myth. Los Angeles Times. Retrieved from http://www.latimes.com/opinion/op-ed/la-oe-bakerrobots-20150507-story.html.
+
+[88] Berger, E. (December 22, 2016). Federal Report: AI Could Threaten up to 47 Percent of Jobs in Two Decades. Ars Technica. Retrieved from https://arstechnica.com/business/2016/12/federal-report-aicould-threaten-up-to-47-percent-of-jobs-in-two-decades/.
+
+[89] Beat the Press blog. (December 28, 2016). Trump and Growth. Center for Economic and Policy Research. Retrieved from http:// cepr.net/blogs/beat-the-press/trump-growth-and-immigration.
+
+[90] O-Net Online. Details Report for Heavy and Tractor-Trailer Truck Drivers. Retrieved from https://www.onetonline.org/link/ details/53-3032.00.
+
+[91] Wyoming Department of Transportation. (January 2012). Wyoming Driver License Manual for Commercial & Heavy Trucks. Retrieved from http://www.dot.state.wy.us/files/live/sites/wydot/files/shared/ Driver_Services/2012%20CDL%20Manual%20for%20Web.pdf.
+
+[92] For an official list of responsibilities (which may leave out important social roles, but which is nonetheless useful) see: Washington Metropolitan Area Transit Authority. (April 2011). Department of Bus Services Employee’s Handbook. Retrieved from https://www. wmata.com/about/business/procurement/solicitations/documents/ Volume%206%20Part%205.pdf.
+
+[93] Los Angeles Unified School District. Bus Drivers Manual of the Los Angeles Unified School District. Retrieved from http://achieve. lausd.net/cms/lib08/CA01000043/Centricity/domain/136/docs/ Bus%20Drivers%20Manual%20032210_0.pdf.
+
+[94] See Cashman, K. (August 2, 2016). Cities Need More Public Transit, Not More Uber and Self-Driving Cars. Truthout. Retrieved from http://www.truth-out.org/opinion/item/37061-cities-need-morepublic-transit-not-more-uber-and-self-driving-cars. See also Carr, N. (February 18, 2015). The Hype over Driverless Cars: Is It Overdone? Fortune. Retrieved from http://fortune.com/2015/02/18/the-hypeover-driverless-cars-is-it-overdone/.
+
+[95] Employment Projections. (April 18, 2016). Fastest Declining Occupations, 2014 and Projected 2024. Bureau of Labor Statistics. Retrieved from https://www.bls.gov/emp/ep_table_105.htm.
+
+[96] See table 2 and figure C.
+
+[97] Schmitt, J., and J. Jones. (July 2012) Where Have All the Good Jobs Gone? Center for Economic and Policy Research. Retrieved from http://cepr.net/documents/publications/good-jobs-2012-07.pdf.
+
+[98] Woodman, S. (November 30, 2016). Elaine Chao, Ruined Department of Labor, Picked to Ensure Safety of Nation’s Planes, Trains, and Automobiles. The Nation. Retrieved from https://www. thenation.com/article/elaine-chao-ruined-department-of-laborpicked-to-ensure-safety-of-nations-trains-planes-and-automobiles/. See also Newcomer, Eric. (November 30, 2016). Uber and Lyft Hail Trump’s Transportation Pick. Bloomberg. Retrieved from https:// www.bloomberg.com/news/articles/2016-11-30/uber-and-lyft-hailtrump-s-transportation-pick.

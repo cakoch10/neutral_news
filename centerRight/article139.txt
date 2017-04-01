@@ -1,0 +1,43 @@
+Cisco (CSCO) is betting its charge into the rapidly-growing cyber security industry will reinvigorate its sales as it faces stagnation in the networking equipment business that once propelled it to become one of the of the world’s biggest technology companies.
+
+Continue Reading Below
+
+The San Jose, Calif.-based giant is harnessing the power of the cloud as it looks to differentiate itself, hoping to break down the walls between cyber-security applications to allow companies to better detect and prevent attacks on their networks.
+
+“Security today for customers has become way too complicated,” David Ulevitch, senior vice president and general manager of Cisco’s security business, told FOX Business. “It’s become very difficult for people to figure out where they have complete coverage of their security profile and where they have gaps. We look at the cloud as a way to really tie things together from an information-sharing standpoint and an automation standpoint.”
+
+Historically, cyber security has operated in independent silos – the walls Ulevitch and his team are working to remove. He uses this example: A customer might be running an antivirus software on his or her laptop, which helps block individual threats to that machine. The problem is that software, when it detects a threat, doesn’t communicate the information to other applications like email, web security, or cloud security – which means each program or application has to run its own tests and activate its own alert system, which can become cumbersome and duplicative to the end user.
+
+“Companies don’t have 50 different security companies physically protecting their buildings. They probably have one security company. So this idea that companies have 50 different [cyber] security companies is just sort of crazy,” Ulevitch said.
+
+That’s where Cisco sees opportunity, Ulevitch said.
+
+Continue Reading Below ADVERTISEMENT
+
+“We think there is a tremendous opportunity to help consolidate the service with our platform, consolidate the platforms customers employ, make them work together behind the scenes, and we’ve been pushing that for the last few years and we’re really seeing that take off in the market,” he said.
+
+So far, it’s paid off. Cisco’s security division saw its fifth-straight quarter of double-digit growth in the fiscal second quarter, with year-over-year revenue growth of 14%. The company’s drive into information security is “important” for Wall Street investors who are betting the old-school tech giant’s increased focus on the segment will continue to pay off.
+
+“Double-digit growth in Cisco’s security business could increase the company’s overall revenue growth by half to one percentage points, which would be a quarter to a third of the overall revenue growth. That’s one of the reasons people do look at this business and think it’s important,” said Jean Yu, portfolio manager for ClearBridge Investment’s value equity strategy that oversees $3.6 billion in assets and places Cisco among its top 10 holdings.
+
+Still, with $528 million in quarterly revenue, security accounts for only a fraction of the company’s overall business as larger hardware divisions like switching, routing, and collaboration accounted for a combined $6.1 billion during the most recent quarter amid stagnating growth rates.
+
+“It’s hard to see them return to growth [in switching] because this business is very mature. Sixty to 70% of the business is switching and it’s more replacement type of demand,” Yu said.
+
+Indeed, growth in the switch business – a unit that makes hardware that acts as the backbone of computer networks – hasn’t seen double-digit revenue growth since the middle of 2015, contributing to the company’s overall revenue decline over the last five quarters.
+
+The upside, though, is Cisco shares currently trade at 13.76 times expected earnings over the next 12 months, compared with 17.61 times for the S&P 500 index and 18.08 times for the S&P 500 tech sector, according to FactSet data, so some analysts see room for growth not only in the business, but for the stock price, too.
+
+The big question from here is whether Cisco will remain committed to security.
+
+“The business of devices in general requires security to go along with it and it’s pushed by a number of things: Regulation, needs to manage risks and threats, the security of APIs and things used to orchestrate the cloud and integrate with the cloud. I think they have to remain committed because if they don’t, they’ll lose customers to a competitor,” said Lawrence Pingree, Gartner vice president of technology and service provider research.
+
+Perhaps more enticing for Cisco, Gartner estimates information security is poised to become a $113.1 billion business by the end of 2020 as it grows to $90.1 billion by the end of the year, up from $83.7 billion in 2016.
+
+That’s good news for Ulevitch, who wants Cisco to become the “nexus of information,” but the biggest risk to that execution is how quickly the company can innovate against its closest competitors and how well it can execute.
+
+“It’s a very fast moving area and you see new ideas and new technologies coming up all the time. So the execution ability is really key here,” Yu said, adding that she thinks Cisco’s product offering in the information security space is “comprehensive” and the company has so far done a good job turning the corner and catching up to its competition, thanks in large part to its acquisition strategy.
+
+“It has allocated significant capital each year to buy companies to serve as the growth engine of the future. It comes down to how well can they continue to do that,” she said.
+
+This is part of FOXBusiness.com’s Industry Forecast series that deep dives into cloud innovations across global businesses.

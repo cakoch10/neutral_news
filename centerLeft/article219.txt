@@ -1,0 +1,17 @@
+The BBC micro:bit will be put to the test at the controls of the TARDIS in this special Live Lesson in collaboration with the team behind Doctor Who.
+
+This lesson is aimed at 11-13 year olds, and is devised around computational thinking skills. We'll be exploring search algorithms, different types of errors and the components that go into an algorithm, with guest experts from the fields of web search and computer gaming.
+
+Using their BBC micro:bit, students will be challenged to solve a fictional disaster scenario while coming face to face with one of the Doctor’s deadliest foes.
+
+Want to get involved?
+
+A full lesson guide for teachers and activity sheets to accompany the lesson are now available in the 'Get ready for the Live Lesson' section below.
+
+Please note that the activity sheet for Activity 3 - Fixing the TARDIS has been updated. Please use the new version below.
+
+Send in your students' questions for our expert guests, which will be answered in a live Q&A session during the lesson. You can send them to live.lessons@bbc.co.uk or use the hashtag #bbclivelessons.
+
+If you'd like to be reminded by email or sent more information, please email live.lessons@bbc.co.uk so we can ensure we keep you up to date.
+
+And if you're planning to tune in, let us know by sending the name of your school to us in an email. You could see it highlighted in a shoutout at the beginning of the Live Lesson.

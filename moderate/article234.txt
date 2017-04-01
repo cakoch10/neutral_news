@@ -1,0 +1,43 @@
+For the first time, a paralyzed man has regained functional arm movement and is able to feed himself using his own hand as a result of new technology that reconnects his brain with his muscles.
+
+Bill Kochevar, now 53, suffered a severe spinal cord injury in a bicycle accident eight years ago that left him completely paralyzed from the shoulders down.
+
+Scientists at Case Western Reserve University used an implanted neuro-prosthesis that decodes brain signals and transmits them to sensors in the arm to help him regain movement in his hand and arm. The researchers detail the case study in The Lancet.
+
+Though the experimental technology has so far only been tested in one person, the authors say it is a major advancement and the first successful effort to restore brain-controlled reaching and grasping in a person with complete paralysis.
+
+“This is a big step,” Bob Kirsch, chair of Case Western Reserve’s Department of Biomedical Engineering, executive director of the FES Center and senior author of the research, told CBS News. “We’ve shown the feasibility of recording someone’s movement intentions and then making their own arm make those movements.”
+
+Case Western Reserve University
+
+Past research has used similar technology to help a person with less severe paralysis open and close his hand, while other studies have allowed individuals to control a robotic arm using their own brain signals. However, this is the first time scientists were able to restore movement and functional hand grasping ability in a person with a chronic spinal cord injury.
+
+“It was amazing because I thought about moving my arm and it did,” Kochevar said in a video released by Case Western. “I could move it in and out, up and down.”
+
+The study involved brain surgery to place sensors in the motor cortex area of Kochevar’s brain — the area responsible for hand movement. This created a brain-computer interface that learned which signals were meant for which movements. During this initial period, which took about four months, Kochevar trained using a virtual reality arm.
+
+Case Western Reserve University
+
+The scientists then placed 36 muscle-stimulating electrodes into his upper and lower arm, including four that helped restore finger and thumb, wrist, elbow and shoulder functioning. The electrodes were switched on 17 days later and began stimulating the muscles for eight hours a week over an 18-week period to improve strength and movement.
+
+Finally, the researchers wired the brain-computer interface to the electrical stimulators in Kochevar’s arm, using a mathematical algorithm to translate his brain signals into commands for the electrodes in his arm. The electrodes stimulated his arm muscles, allowing him to move in the ways he was thinking.
+
+Within a year of having the neuro-prosthesis fitted, Kochevar was able to complete tasks including drinking a cup of coffee and feeding himself.
+
+He successfully drank 11 out of 12 times and fed himself multiple bites of food.
+
+“These seem like very simple tasks but when you ask people with these high-level injuries their priorities for movement they’d like restored they almost always start with things like ‘I would like to be able to scratch my nose and rub my eyes without having to ask someone’ or ‘I’d like to be able to feed myself,’” Kirsch said.
+
+Kirsch’s team is continuing to work with Kochevar to increase the number of tasks he can accomplish using his arm and hand.
+
+The system is only available for experimental use at the current time. However, the authors say their ultimate goal is to extend the benefits of the technology outside of the laboratory setting and into everyday life.
+
+To do so, scientists would need to make the system wireless, something Kirsch says other researchers are working on and may only be a few years away from testing in humans.
+
+In an accompanying editorial in The Lancet, Dr. Steve Perlmutter of the University of Washington calls the study “groundbreaking.”
+
+“The goal is futuristic: a paralysed individual thinks about moving her arm as if her brain and muscles were not disconnected, and implanted technology seamlessly executes the desired movement,” he writes.
+
+However, he notes that the treatment is not nearly ready for use outside of the lab.
+
+“The movements were rough and slow and required continuous visual feedback, as is the case for most available brain–machine interfaces, and had restricted range due to the use of a motorised device to assist shoulder movements… Thus, the study is a proof-of-principle demonstration of what is possible, rather than a fundamental advance in neuro-prosthetic concepts or technology. But it is an exciting demonstration nonetheless, and the future of motor neuro-prosthetics to overcome paralysis is brighter.”

@@ -1,0 +1,199 @@
+A few days ago I posted 8 (or 9) ideas for fixing*, improving and expanding the Affordable Care Act.
+
+*Some have stated that I should avoid the word “fix” since that suggests that the ACA is inherently “broken”. I understand the framing/narrative argument here, but the reality is that the ACA does have serious problems which go beyond needing minor tweaks. Besides, a car can have a broken taillight which does need to be fixed but still operates just fine otherwise.
+
+Based on a few suggestions here and elsewhere, along with remembering a couple of other ideas I’ve written about before but which had slipped my mind, here’s an updated version. Most of them are the same (though I “upgraded” one of them), but I’ve added 6 additional ones:
+
+"We’re going to be living with ObamaCare for the foreseeable future." --Republican Speaker of the House Paul Ryan
+
+For weeks now, throughout the AHCA/Trumpcare crisis, people have been asking me "How would you fix the Affordable Care Act?" I've given my answer repeatedly, in bits and pieces, and even given the basics in a few tweetstorms, but now that even Paul Ryan has accepted that the ACA is here to stay, it's time to bring it all together.
+
+GROUND RULES:
+
+Rule #1: For purposes of this post, I am NOT talking about how to achieve Single Payer Healthcare. While I remain a SP advocate in the long run, this is purely about fixing the real problems with the Affordable Care Act and substantially strengthening it. Obviously there's some overlap with SP here, since the ACA itself does advance single payer to some extent via both Medicaid expansion and strengthening Medicare, but I'm still talking about staying within the realm of the ACA itself for the moment.
+
+Rule #2: For purposes of this post, I'm also NOT talking about what is LIKELY to happen under a Trump administration with a GOP-held Congress. Unfortunately, #1 and 5 below are the only ones I can realistically imagine happening in at least next two years. In this scenario, I'm imagining what I would recommend if the short-term goal was to dramatically improve the ACA but not to go for full SP. In other words, if we had a Democratic President, a bare Democratic majority in the House of Representatives (say, 225 to 210?) and enough of a Democratic majority in the Senate to just barely overcome a filibuster.
+
+On the other hand, thanks to the combined efforts of House/Senate Democrats holding firm, progressive/resistance organizations like Indivisible, the Women's March, etc; institutional organizations like AARP, the AMA and so forth; and the thousands of people who showed up at Congressional Town Halls to vent their rage, along with an unexpected assist from the ultra-conservative House Freedom Caucus, we somehow just managed to stop the Republican Party from repealing the ACA in the first place after 7 years of them vowing to do so as soon as they had the chance, so who knows what else is possible?
+
+With that in mind, here's my checklist of how to significantly improve the Affordable Care Act:
+
+1. LOCK DOWN CSR PAYMENTS.
+
+As explained here, just as the infamous King vs. Burwell lawsuit threatened to rip away the ACA's Advance Premium Tax Credits (APTC), which would have devastated the exchanges across most of the country, (thankfully, it was ultimately shot down by the Supreme Court), so too the House vs. Burwell lawsuit--brought by the House Republicans themselves under John Boehner a few years back--now threaten to do the same.
+
+While they seem very similar on the surface (I've even referred to the current suit as "House vs. Burwell Jr."), there are some major differences between the two cases...the major one being that the House case seems to have a bit more merit than King ever did. The federal judge in the case, Rosemary Collyer (a George W. Bush appointee), shot down part of the original case but has ruled in favor of the Republicans on the most critical part: That CSR reimbursements to insurance carriers were never explicitly authorized by Congress. They've been allowed to continue for the time being, but it's a month-to-month sort of thing. Donald Trump could, at any moment, tell the Dept. of Justice/HHS Dept. to stop defending against the lawsuit and stop CSR payments. If this happened, it would trigger an exit clause in the contracts between the carriers and the HHS Dept., allowing them to terminate most of the exchange policies immediately.
+
+State laws preventing immediate termination notwithstanding, this could cause 6-7 million people to lose their policies and scare every carrier out of the individual market starting in 2018. It's such a daunting prospect that the House Republicans themselves, having realized the implications of their "win", have even asked the judge to delay the final ruling even though it was in their favor.
+
+The assumption on the part of the GOP was that the ACA would be wiped out by now anyway, making their lawsuit moot. Instead, the ACA lives on and they control every branch of the federal government now, meaning they'd be left taking the blame for the chaos which would follow from them "winning" their case.
+
+Now, the House v. Burwell (House v. Price??) case could still be shot down by the Supreme Court (and in fact, University of Michigan Law Professor Nicholas Bagley is fairly confident that it would be based on a lack of standing), but it might not...and CSR payments could still be cut off by Trump in the meantime. Therefore, the simplest solution at hand would be for them to drop their lawsuit...or for Congress to pass a simple amendment to the ACA specifically authorizing CSR payments to nip it in the bud.
+
+2. RESTORE THE RISK CORRIDOR FUNDING.
+
+The ACA included several programs designed to help smooth out/stabilize the rocky terrain of the exchange for insurance carriers, especially during the tumultuous first few years. One of these was the Risk Corridor program, which were supposed to shift a chunk of the profits from carriers which were excessively fortunate over to carriers which were excessively unfortunate. A similar program has been successfully operating under Medicare Part D for a long time now (permanently, too, I might add) without anyone fussing about it. Unfortunately, due to a stunt pulled by Marco Rubio in 2014 for purely political reasons, the Risk Corridor funding ended up being cut off at the knees; out of at least $9 billion in payments due to various carriers, only around $400 million has actually been paid out to date. This helped lead to most of the 23 ACA-created Co-Ops going belly up over the past couple of years, along with having a ripple effect on the other carriers as hundreds of thousands of people had to shop around for new plans.
+
+Even for the carriers which weren't wiped out, many of them have been sitting on a big fat IOU for up to two years now. Unlike the CSR reimbursements, the Risk Corridor payments are unquestionably legally owed to them...which is why they've recently started winning their court cases to collect the funds. Even so, at the moment it could be years yet before they actually collect.
+
+It's far too late to revive the dead co-ops (any awarded monies would presumably go to their creditors only)...but making good on those payments would go a long way towards helping bring the few remaining ones back to good health, as well as calming down the other, larger carriers who may not be at risk of insolvency over the Risk Corridor Massacre, but are understandably cranky about the whole affair. It would also, I should add, be the right thing to do; whatever you think about private insurance companies, this particular money is legally owed to them.
+
+3. FIX THE "FAMILY GLITCH".
+
+While the Risk Corridor problem was deliberate sabotage on the part of the GOP and the CSR issue is questionable, the "family glitch" is one of several which really do fall squarely on the shoulders of the original wording of the ACA itself. Most employers provide healthcare coverage for both their employees and the families of their employees. The problem is that for several million people nationally, while the coverage provided to the employee themselves is pretty reasonably priced, adding their family to the plan can often jack up costs significantly. As Louise Norris explains here...
+
+Unfortunately, due to a “glitch” in the ACA, they [the families of the employee] are not eligible for premium subsidies in the exchange if the amount the employee has to pay for employee-only coverage on the group plan is deemed “affordable” – defined as less than 9.66 percent of household income in 2016. ...It doesn’t matter how much the employee would have to pay to purchase family coverage. The family members are not eligible for exchange subsidies if the employee could get employer-sponsored coverage just for him or herself, for less than 9.66 percent of the household’s income.
+
+The good news is that there's already a simple bill ready to go to fix this problem:
+
+In 2014, Senator Al Franken introduced the Family Coverage Act, which would adjust the law so that the affordability test is applied to the entire premium that a worker must pay for family coverage, not just employee-only coverage.
+
+Norris estimates that a good 2-4 million people could potentially be added to subsidized ACA exchange policies if Sen. Franken's bill were to be passed into law. Unfortunately, so far...
+
+The bill has not progressed beyond committees though, and lawmakers seem hesitant to fix the family glitch, given the additional burden it would place on the taxpayer funded subsidy program.
+
+This strikes me as rather silly logic. Of course adding more people to subsidized policies would "add to the burden of taxpayer subsidies"...that's kind of the whole point of increasing exchange enrollment, isn't it? Besides, adding another, say, 3 million people to the individual market should also improve the risk pool considerably, since the main reason these folks aren't currently enrolled has to do with a legal technicality, not their health status. That would, in turn, lower the average per-person tax credit needed, partially cancelling out some of that subsidy increase.
+
+4. FIX THE "SKINNY PLAN" GLITCH.
+
+This one is related to the "Family Glitch" above. As I noted a year and a half ago, under the ACA, if a company offers a policy to their employees which costs less than about 9.5% of their salary and the employee takes a pass on it, they aren't allowed to receive tax credits on the exchanges. As Jed Graham explains in his book "Obamacare is a Great Mess":
+
+a company might think it’s doing workers a favor by offering a skinny plan as a way for them to buy coverage on the cheap and avoid paying an individual mandate penalty. Undoubtedly, many low-wage workers would object to ObamaCare’s affordability standard: For a $ 20,000-earner, a $ 1,900 insurance premium would be onerous, costing nearly twice as much as a subsidized silver exchange plan and about four times as much as bronze coverage. Here is the problem: If low-wage workers are offered employer coverage that qualifies as affordable –even if it isn’t –then the only policy within their financial reach may be a skinny one.
+
+Graham explained to me that unlike individual market plans, which have to robustly cover the full list of 10 Essential Health Benefits, due to a quirk in the wording about minimum essential coverage of employer plans under the ACA, any plan they offer qualifies as long as there are no annual/lifetime limits and the ACA's list of preventative services are included. This means that employers may be required to offer policies to employees, but those policies may be extremely "skinny" on the actual benefits included. In response, many employees are caught between an "offered" plan which stinks or having to pay full price for one which doesn't. Solution? Amend the ACA so that all employer-provided plans have to be at least "Bronze QHP" status as those offered on the individual exchanges.
+
+5. GET THE 19 REMAINING STATES TO EXPAND MEDICAID.
+
+At the moment there are 2.6 million people caught in the "Medicaid Gap" because they earn less than 100% of the Federal Poverty Line (FPL) but don't qualify for Medicaid...because their states are stubbornly refusing to expand the program (there's also a couple million more between 100-138% FPL in those states who are enrolled in ultra-high subsidy ACA exchange plans, but who really should be on Medicaid instead).
+
+The obvious solution here is to...you know...get those states to expand Medicaid up to 138% FPL. This may not be as crazy as it sounds, either; several of these 19 states have already been quietly pushing for expanding after all, and with the AHCA debacle behind us, President Obama out of office and the ACA pretty much baked in for good, there's little reason to oppose it going forward even for political posturing purposes.
+
+However, if necessary to win over the rest of them, in my "realistic fantasy league" scenario, I'd recommend offering to reset the "100% financing" clock for the first 3 years to start whenever the expansion provision went into effect instead of starting them off at 90-95% federal funding, which is what they'd face at the moment. This is an idea that President Obama and Hillary Clinton had proposed last summer, I believe, and it makes sense.
+
+And while I'm on the subject...
+
+5a. CONSIDER ENCOURAGING MORE STATES TO LAUNCH THE BASIC HEALTH PLAN PROGRAM.
+
+The ACA-funded BHP program, which is sort of sandwiched between Medicaid and Exchange QHPs, seems to be hugely successful in both Minnesota and New York, with over 750,000 people enrolled between the two states. Under the ACA, BHP plans are available to either individuals with incomes between 133-200% FPL or non-citizen legal residents with incomes of 0-200% FPL. States which are simply unwilling to go all the way to expanding Medicaid itself might consider at least launching a BHP program as an alternative.
+
+6. RAISE THE APTC CAP AND BEEF THEM UP BENEATH IT.
+
+This is the Big One, and by far the most obvious. As many people have noted, the ACA's two-pronged tax credit structure (APTC for those 100-400% FPL and CSR for those 100-250% FPL) is working out quite well for enrollees who earn up to around 250% of the Federal Poverty Level (roughly $30,000/year for an individual)...and those earning more than, say, 600% FPL ($72,000/year for an individual) earn enough that it's hard to have too much sympathy for them having to pay full price.
+
+The problem is that people earning between around 300-500% FPL are caught between a rock and a hard place: Those from 300-400% only receive nominal credits, while those 400-500% receive nothing at all. The ACA assumed that 400% was a reasonable cut-off point, but it simply hasn't worked out that way in practice. Full disclosure: My own family falls into this category...my wife and I are both self-employed, in our 40's with an 11-year old son, and have highly variable incomes from year to year, so one year we may be over 400% (no credits at all) while the next we're down at the 300% level (nominal credits in the $50/month range).
+
+Here's how the formula for the ACA exchange tax credits works currently...and how I would propose restructuring it:
+
+The first thing to notice is that unlike the current law, which doesn't allow credits for those below 100% FPL, I would do so. Yes, ideally every state would go for Medicaid expansion...but there could still be a few holdouts, and this would ensure that poor people are able to get coverage for almost nothing regardless of whether their state government decides to expand the program or not.
+
+At the opposite end, notice that I'd remove the maximum income cap for tax credits...but it would be higher (11%) at the very upper end than it is now. 600% FPL is, again, roughly $72,000/year for an individual or nearly $148,000 for a family of 4, while the average benchmark plan costs somewhere between $250 - $500/month at full price this year, so I'm guessing not many people at that level would even qualify for credits anyway...but they might, especially if they're older, live in Alaska and so forth; this way the entire income spectrum is covered.
+
+Oh, and while I'm at it...
+
+6a. RAISE THE CAP ON CSR ELIGIBILITY & CUT THE SILVER PLAN EXCLUSIVITY AS WELL.
+
+I'm not sure of the exact formula for CSR, but right now it runs from 100-250% FPL enrollees only. I would stretch it out similarly to my revised APTC table above, again tapering off as you get higher up the FPL income level. This, again, would resolve the <100% FPL Medicaid Gap issue. I'm piggybacking this one on top of #6 above.
+
+The other thing I would say is that, from what I can tell, restricting CSR assistance to Silver plans has backfired from a strategic POV. The idea was to encourage lower-income people who would normally be inclined to go for Bronze plans due to them having the dirt-cheapest premiums sign up for Silver plans instead, reserving Bronze plans purely for a fairly small population with special circumstances (basically a glorified Catastrophic plan). However, this is counterintuitive; it's reasonable to expect that plans with the lowest premiums would also have the lowest deductibles. People I've spoken with seem to still be somewhat confused about how CSR assistance works. They should probably be opened up to Bronze plans as well, although I'm not confident enough about how it works to offer a detailed opinion about specifics.
+
+7: (increase the individual mandate)
+
+Yes, I'm aware that there's a strikethru above. The reality is that as much as everyone complains about the $695 or 2.5% income individual mandate penalty for NOT having qualifying healthcare coverage, the penalty should really be increased. There, I said it. The problem is that if the penalty is less than or around the same amount as the premiums would be, some people will still decide to eat the tax instead of signing up.
+
+However, given what a firestorm was created over the individual mandate the first time around, I'm pretty sure increasing it would be a near-impossible task even in my "Earth 2" scenario laid out here,
+
+Now. all of the above should be plenty to bring in millions more enrollees onto the individual exchange market, thus stabilizing the risk pools enough to reassure nervous insurance carriers to come back (or not to leave if they already have). HOWEVER, there's still no guarantee that all of them would do so; after all, Aetna played mind games with the public last year, dropping out of the exchanges in at least two states they were making a profit in purely as a stunt to try and get their merger approved. This means that even profitability in the exchanges doesn't 100% guarantee participation.
+
+Therefore, I have two more proposals (NOTE: I've slipped in a few more below, so the numbers are different from the original version of this post):
+
+8. REQUIRE THAT ALL INDIVIDUAL PLANS BE SOLD ON-EXCHANGE ONLY.
+
+The District of Columbia has had this policy in place for 4 years now and it seems to do just fine. Vermont also had such a policy in place for 2 years; though they abandoned it last year due to their exchange still having considerable ongoing technical problems. The "crappy website!" problems of the other exchange sites, including HealthCare.Gov, are a thing of the past, however, so it's time to run all individual market plans through them. I wrote a piece last fall listing seven reasons why this makes sense, including preventing letting the carriers cherry-pick their indy market enrollees by income (they know that just about everyone buying off-exchange is likely to have a higher income, so offering off-exchange plans but not on-exchange plans automatically cuts out lower income enrollees).
+
+The only problem with this, as Ben D'Avanzo just reminded me, is that currently, undocumented immigrants aren't allowed to enroll in exchange policies at all...whether subsidized or not. I'm not going to be so naive as to think that Republicans would evern agree to provide financial assistance to undocumented immigrants to get covered, but...
+
+8a. ALLOW UNDOCUMENTED IMMIGRANTS TO ENROLL IN EXCHANGE PLANS...AT LEAST AT FULL PRICE.
+
+And yes, I realize that many of them would be extremely reluctant to do so due to fear of being deported. So how does the DC exchange deal with that issue? Good question, but they've been doing it that way for 4 years now.
+
+Of course, if you tell carriers that the exchanges are their only option for selling individual plans, they might choose to drop out of the indy market altogether, right? Which is why I also propose...
+
+9. LEGALLY TIE MEDICARE ADVANTAGE/MANAGED MEDICAID CONTRACTS TO EXCHANGE PARTICIPATION.
+
+Andrew Sprung, Michael Hiltzik and I have all written about this before. I have no idea whether it's even legally feasible/practical or not, but if so, it makes a lot of sense to me: Remember, many of the same carriers whning about losing hundreds of millions of dollars on the individual market are simultaneously making billions of dollars in profit off of their other divisions...which include fat federal and state contracts to manage Medicare and/or Medicaid plans. If they want to play in the managed care sandbox, make exchange participation a requirement as well. I'm not saying they should have to treat it as a loss leader--they'd still be able to raise their premiums at an actuarially responsible rate as appropriate--but they should have to at least participate.
+
+UPDATE: Here's three more ideas which either I or others have suggested which make sense, plus two more which kind of break out of the "ACA" sphere of influence over into Single Payer land (which, again, I'm fine with down the road):
+
+10. INSTITUTE AN 80/20 MLR POLICY FOR PHARMACEUTICALS.
+
+Two years ago, Martin Shkreli became the poster child (emphasis on "child") for drug companies instituting jaw-dropping price gouging on prescription medications which have long since seen their development costs amortized when his company, Turing Pharmaceuticals, raised the price of Daraprim (used as both an anti-malarial and antiparasitic to treat AIDS patients) from $13.50 per pill to $750 a pop (more recently, Mylan Pharmaceutical took this baton by jacking up the price of the EpiPen from $100 to $608 over the past decade).
+
+Needless to say, if an insurance carrier is under contract to cover 80% of the cost of a given medication, and the price of that medication increases 50x overnight, the healthcare premiums for the carriers' enrollees is going to increase dramatically as well. Under the ACA, insurance companies are legally required to spend at least 80% (85% in the case of large group plans) of the premiums paid on actual healthcare services rendered--they can only earn a gross profit of up to 20% (15%) for overhead. This is meant to cut down on expensive junkets to Tahiti, marble staircases in the corporate headquarters and so forth.
+
+Unfortunately, the ACA has no similar provision for drug manufacturers. There's not a whole lot which can be done about a pharmaceutical company raising prices through the roof whether they "need" to or not (yes, it's extremely expensive to develop a new medication, but sooner or later that cost is amortized and the rest is mostly gravy). In the same arena as this is...
+
+11: LET MEDICARE NEGOTIATE DRUG PRICES!!
+
+Do I really need to say any more about this?
+
+12. FIX THE "SILVER SPAM" PLAN GAMING PROBLEM (AND MAKE STANDARDIZED PLANS MANDATORY):
+
+David Anderson (formerly Richard Mayhew) of Balloon Juice fame gets the credit for this one. It gets kind of wonky and in the weeds, so I asked him to explain it directly:
+
+This is a way to exploit the subsidy formula to build a bigger and healthier subsidized enrollment pool. The key assumption is the last person to buy is extremely price sensitive and also very healthy/low cost. Lower post-subsidy plans will attract more people who think that they won’t actually use then plan than if the least expensive option is priced high. The subsidy is based on the 2nd least expensive Silver plan. Everyone who gets a subsidy for a given income level pays the same out of pocket premium for that 2nd least expensive Silver no matter where they are in the country. The APTC fills the gap between the individual payment and the actual premium. The APTC is constant. If the buyer chooses a less expensive plan (Bronze or #1 Silver) their out of pocket premium decreases. If they choose a more expensive plan #3 Silver or Gold or Platinum, they pay the incremental increase in premium. SO Silver Gapping is when there is a big spread between #1 and #2 Silver. This means the #1 Silver might only cost someone making $20,000 $10 a month out of pocket while the #2 Silver costs $65/month. And the Bronze plans might be either free or $1 a month. This is a hack that works in minimally competitive markets. In perfectly competitive markets, two or more carriers are tightly clustered at the Silver benchmark point.
+
+Clear as mud? The bottom line is that a carrier can effectively game the system by clustering a bunch of "different" (but virtually identical) Silver plans together on the market, messing with the "benchmark plan" formula to favor themselves while screwing other carriers. Again, it gets complicated, but Anderson's proposed solution is:
+
+Allow carriers to offer only a single plan per network per plan type (HMO/PPO/EPO) per metal level or ...
+
+(HMO/PPO/EPO) per metal level ... Carriers can offer as many plans as they want at each metal level as long as each plan is at least 5% different in price from any other plan offered at that level by that carrier
+
+In other words, right now, a carrier might try to "Silver spam" an exchange by offering 20 "different" Silver plans which are only $5 apart pricing-wise with virtually identical features/coverage. In addition to messing with the benchmark formula, this also confuses the hell out of the prospective enrollees. Anderson is proposing only allowing a carrier to offer either a maximum of 3 Silver plans (1 PPO, 1 HMO, 1 EPO) or allowing as many Silver plans as they want...as long as they're priced at least 5% apart from each other to allow breathing room in between.
+
+I should note that both the California and Massachusetts exchanges already require standardized plan designs along these lines (limiting the number at each metal level), and HealthCare.Gov actually started offering "Standard Plans" (called "Simple Choice") last year. Unfortunately, most of the state-based exchanges haven't done so yet, and the HC.gov standardized plans are only optional so far, which kind of defeats the whole point. They should be mandatory.
+
+13. MERGE RATING AREAS STATEWIDE
+
+When it comes to risk pools, stability is all about the size and breadth of the population. The more populations are sliced and diced up, the smaller and more lopsided the risk pools tend to be. Most states are divided into multiple rating areas...which means that the individual market risk pool in one chunk of the state can be much higher than in another. Louise Norris has noted that her home state of Colorado tried to merge all of the state's risk pools into a single statewide on a few years back, but it never went through because obviously those living on the lower-priced region didn't want their rates to go up in order to lower the rates of those in the higher-priced region.
+
+Related to this...
+
+14: MERGE THE INDIVIDUAL AND SMLL GROUP RISK POOLS.
+
+Nationally, the Individual Market only makes up perhaps 18 million people (5.5% of the population), while the Small Group market is only around 13.5 million (4.2%). Each of these pales in comparison to the Large Group market, which consists a good 100 million people, or over 30% of the total population (the Small Group market is still more stable than the Indy market in spite of being smaller for several other reasons). If you were to merge these risk pools together it'd make up nearly 10% of the population--still much smaller than the Large Group market, but much more stable than either is independently today. A few states like Massachusetts and Vermont have a single combined risk pool for the Indy and Sm. Group markets, and their rates only went up by around 7-8% last year, vs. the 25% national weighted average.
+
+If none of the above does the trick (or even if they do), there's two more "Nuclear Options" which could be added as well (both of these really enter the Single Payer world):
+
+15. UNLEASH THE (PUBLIC OPTION) KRAKEN!!
+
+I honestly wasn't sure whether to include the PO in this list or not, because it's starting to stray outside of the ACA's sphere of influence over into Single Payer-land...which, again, I'm fine with, but that gets into a later discussion. Most progressives seem to think that adding a Public Option would magically lower premiums dramatically due to the pressure of increased competition, etc.
+
+The bad news is that adding one more competitor isn't going to do anything to make the rest of the private carriers lower their prices if they're already losing money in the indy market to begin with, as is the case in some areas. HOWEVER, a PO would solve a different problem regardless of pricing pressure: It would ensure that there'd be at least one carrier in every county no matter what. This would prevent situations like the current one being faced by residents of 16 Tennessee counties, which are facing the prospect of no exchange participation whatsoever now that Humana has decided to bail.
+
+16. MEDICARE BUY-IN FROM 55 AND UP.
+
+There's been a lot of fuss made about the fact that the Trumpcare plan (AHCA) would allow an "Age Tax" by allowing carriers to charge older people up to 5x as much as younger enrollees (the ACA only allows carriers to charge older people 3x as much). The reason for either multiplier, of course, is that older people tend to require far more medical care than younger folks. Solution? Let older people have the option to buy into Medicare instead if they wish. I'm not sure how the pricing would work on that (here's the official Medicare pricing details for current enrollees who are mostly over 65), but assuming a substantial chunk of the over-55 crowd did this, it would lower the percentage of 55+ individual market enrollees, thus lowering premiums for everyone else. Ironically, it would also improve the risk pool for the Medicare population as well, since it'd be adding an influx of "younger" enrollees to that risk pool.
+
+There are other ideas as well, of course, and you can certainly debate the specific details of some/all of the above, but I'm pretty sure that taken as a whole, these measures would resolve a good 90% of the problems with the ACA...and the first 8, at least, are all well within the bounds of the main structure of the law as well.
+
+Setting the Public Option and Medicare Buy-In items aside for the moment, how much would the other 8 ideas above cost? Well, most of them wouldn't cost much of anything (well, aside from the increased tax credits thanks to increased participation, which is kind of the goal here anyway). #5 (Medicaid expansion) would obviously cost more...but that was supposed to be part of the original ACA budget forecast in the first place. And #2, restoring the Risk Corridor funding, would, again, simply be following the original provisions of the ACA anyway.
+
+That leaves beefing up the APTC and CSR tax credits. Yes, this would probably increase the subsidy price tag considerably (especially if you were talking about 15-16 million people receiving tax credits instead of 10 million or so now)...perhaps by another $12 - $15 billion or so per year.
+
+Well, guess what? The now-defunct Trumpcare bill happened to include $100 billion (actually, $115 billion, if you go by their final version) over the next 9 years for "State Market Stabilization". If you take that same money and use it to beef up the tax credits, guess what? That's around $12.7 billion per year using the GOP's final tally.
+
+And where should this money come from? There's plenty of sources I can think of. For instance, making high-income hedge fund managers treat their fees as ordinary income instead of carried interest would apparently generate $17 billion over the next decade by itself, or enough to cover over 10% of the cost, and so on. I'll leave it up to others to figure out tax policy; my focus is on getting as many people decent healthcare coverage at a reasonable price as possible.
+
+I already hear the attacks: "Sure!! Typical Democrat! Just throw gobs more money at the problem to fix it!!" Well, aside from the fact that many of the items above have nothing to do with "throwing more money at the problem", let me make two points:
+
+First: Yes, sometimes that really is the best solution to a problem. You underestimate how much is needed, you provide additional funding, and yes, sometimes that's the solution.
+
+Second: After the AHCA debacle, the Republican Party is in absolutely no postion to attack Democrats for "throwing money at their problems" when it comes to healthcare policy. Why do I say this? Because that's exactly what the House GOP tried to do with both the first and second revisions of the bill.
+
+First, after two weeks of being harangued in Town Hall after Town Hall, they decided to create a special, additional $85 billion “Make-Old-People-Stop-Yelling-At-Us” fund which somehow wasn't previously "necessary". This was so haphazardly written that they didn't even specify how the money would be used...and in fact, they tried to force the Senate to figure out what to do with the money.
+
+Then, literally hours before the pulled vote, after trying to strip out Essential Health Benefit requirements such as maternity and mental health coverage and being yelled at for that, they tried to cram in another $15 billion "Please-Get-Maternity-And-Mental-Health-Advocates-Off-Our-Backs" fund, funded by...keeping one of the very rich-person-taxes which they had previously tried to kill off for an extra 6 years.
+
+In other words, the House Republicans, when faced with throngs of angry voters, panicked and threw money at them to make them go away, without even doing the slightest research or analysis as to whether that would be remotely effective first.
+
+"Fiscally Conservative" my ass.

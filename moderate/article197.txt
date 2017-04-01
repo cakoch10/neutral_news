@@ -1,0 +1,37 @@
+As an iPhone user, there’s nothing worse than the dreaded “Storage Almost Full” notification that pops up on your phone at the most inconvenient time.
+
+It usually appears when you’re in the middle of recording a video or when you’re trying to snap a quick photo: “Cannot Take Photo: There is not enough available storage to take a photo.”
+
+And while many people are quick to delete their precious memories on the spot -- without spending the time to back up their Camera Rolls, there’s an easier way.
+
+Here are 7 tips to save space without deleting a single photo from your Camera Roll:
+
+1. Attempt to rent a movie with a large file size
+
+In April, a Reddit user gave iPhone users craving more storage space a tip that worked so well it went viral. To free up space, the user recommended logging onto the iTunes Store and attempting to rent a movie with a large file size, like “The Lord of the Rings,” for example. The film will be too big to download, which will then prompt a “not enough storage notification.” You select “OK” and then head to your Settings. Select General, then go to Storage & iCloud Usage and you’ll notice that you have more space.
+
+2. Delete unused or unnecessary storage-eating apps
+
+The easiest way to free up gigabytes of space on your iPhone is by deleting apps that you don’t use that take up a lot of room. When you navigate your way from Settings to the Manage Storage tab, it’s easy to identify which apps are taking up the most space. Start at the top and work your way down, removing any apps that you find unnecessary. And if you’re willing to part with social networking apps, start by deleting video-heavy ones that suck up your data (sorry Snapchat and YouTube).
+
+3. Delete old text messages
+
+Do you really plan to scroll back through a years-worth of texts? If the answer is “no,” it’s time to reconfigure your Messages settings. Go to your Settings, select Messages and then reset your Keep Messages to 30 days. (Note: Once you select this option, all text messages older than 30 days will be deleted from your device.)
+
+4. Stop using My Photo Stream
+
+When iCloud Photo Library and My Photo Stream are enabled on your device your recent photos are added to the My Photo Stream album on your phone. The photos are stored for 30 days. If you don’t feel the need to sync photos to your iPad or computer from your iPhone, then it’s time to lose this feature. (Note: Before turning off My Photo Stream, you should save any photos that you’d like to keep.)
+
+5. Don’t keep both photos when you enable HDR mode
+
+The High Dynamic Range (HDR) feature of the iPhone works to balance the shadows and highlights of a photo to give you the best quality. So, there’s no reason to keep “normal,” lower quality photos along with high definition ones. A simple pro-tip: Turn off the Keep Normal Photo feature and stick with HDR photos. Go to Settings, Photos & Camera and deselect Keep Normal Photo. Saving two different versions of the same picture takes up space on your phone that may be preventing you from taking even more (high quality) photos.
+
+6. Clear your browser’s cache
+
+We’ve all heard the phrase before: “Clear your cache.” But what many people don’t realize is that suggestion can also be applied to your cell phone -- not just your computer. Go to Settings, Safari (or another browser) and “Clear History and Website Data” to clear your cache. It may take websites a little bit longer to load on your browser, but it will free up valuable space on your phone. Our advice: The wait is worth it.
+
+7. Turn off automatic app updates
+
+App updates drain your data and your battery, which is why it’s best to wait until you’re connected to Wi-Fi to do so. Also, this allows you to manually select which apps you want to update and when. Go to Settings, the iTunes & App Store and turn off Updates.
+
+READ MORE:

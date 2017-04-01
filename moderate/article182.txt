@@ -1,0 +1,49 @@
+SpaceX is readying a Falcon 9 rocket for launch Thursday to boost an SES communications satellite into orbit, the first flight of a booster built with a previously flown, or used, first stage. The historic flight is a major step in SpaceX founder Elon Musk’s drive to lower launch costs by recovering, refurbishing and relaunching rocket stages that otherwise would be discarded after a single flight.
+
+“We’re here at the edge of quite a significant bit of history,” said Martin Halliwell, chief technology officer with satellite operator SES. “We were the first commercial mission to fly on SpaceX, and now we’re here to be the first ever mission to fly on a pre-flown booster. This is obviously hugely exciting for SES, SpaceX and the industry in general.”
+
+Liftoff from pad 39A at the Kennedy Space Center is targeted for 6:27 p.m. EDT (GMT-5), the opening of a two-and-a-half hour window. Forecasters are predicting an 80 percent chance of acceptable weather.
+
+The goal of the flight is to boost the SES 10 relay station into orbit, a powerful communications satellite that will replace two older SES spacecraft now providing direct-to-home television, data and maritime services to Latin America, from Mexico and the Caribbean Sea to the tip of Argentina.
+
+But the launch is especially noteworthy because the first stage of the Falcon 9 booster first flew one year ago, on April 8, 2016, helping launch a space station-bound Dragon cargo ship. The first stage then carried out SpaceX’s first successful off-shore landing, was hauled back to Florida and subjected to extensive inspections and refurbishment.
+
+SpaceX
+
+New Falcon 9 rockets are advertised at $60 million each. Last August, Halliwell said, SpaceX offered SES a discount for launching the SES 10 satellite on a rocket with a previously flown first stage.
+
+“This was obviously a big step for us, a big step for the industry, a big step for everybody, something that had never, ever been done before,” he told reporters Wednesday.
+
+“But I would say, to the credit of SpaceX, we have had ... tremendous transparency into the design of the vehicle, the design of the engines, the design of the avionics, the testing, everything. And that’s what’s really given us the confidence to say this is a good booster.”
+
+Halliwell said he was “absolutely confident we are well within the capabilities of this booster to perform correctly. And so with all that being said, that’s when we made the decision, yeah, we’re going to go with this.”
+
+And he said price was only one factor. More important, he said, was helping SpaceX develop reusable rocket technology and spurring other companies to do the same.
+
+“I think the whole industry is looking,” he said. “There have been naysayers, we’ve known that over the years. There have been people who’ve actually said to me, it’s impossible, it will never happen. ... Yet here we are. Never say never.”
+
+Musk has long promoted the concept of “rapid reusability,” saying it does not make sense to throw rockets away after a single flight. He often compares that to flying a 747 passenger jet from New York to Los Angeles and then buying a new airplane for the trip back.
+
+SpaceX
+
+The Falcon 9 rocket was designed from the ground up for reuse. The company made its first attempt to guide a first stage back to an upright ocean splashdown in 2014. SpaceX has now attempted 13 actual landings, successfully recovering eight stages. Five of those landed on offshore droneships while three made it back to landings at the Cape Canaveral Air Force Station.
+
+“I think this was a really good milestone for the future of spaceflight, I think it’s another step toward the stars,” Musk told reporters after the booster being launched Thursday successfully landed in 2016. “In order for us to really open up access to space, we’ve got to achieve full and rapid reusability.
+
+“Being able to do that for the primary rocket booster is going to be a huge impact on costs,” he said. “It’ll obviously take us a few years to make that smooth and make it efficient, but I think it’s proven that it can work.”
+
+Halliwell said the recovered stage was subjected to exhaustive tests and checkout and that SES engineers and insurers followed along every step of the way. In fact, he said, the rocket was deemed in such good shape it’s virtually identical to a new booster, other than being “a bit sooty” after its fiery return to Earth.
+
+“We have to fly this thing as if we were not insured,” he said. “That’s the level of confidence you need to have before you stand in front of your insurers and say we’re good to go.”
+
+Asked about the perceived higher risk of flying a used booster, Halliwell said “we don’t believe we’re taking an inordinate risk here.”
+
+“We’ve been through this thing with a fine-tooth comb,” he said. “SpaceX has been through this with a fine-tooth comb. This booster is a really good booster, and we’re confident.”
+
+And SpaceX will make another attempt to recover the first stage.
+
+Successful landings depend in large part on the rocket’s payload and destination. Satellites bound for low-Earth orbit do not typically require as much launch power and the booster has enough propellant left over to fly back to a powered touchdown on land.
+
+Heavy communications satellites bound for much higher orbits require more power and use more propellant. For the SES-10 mission, SpaceX will attempt to land the stage on a droneship stationed several hundred miles east of Cape Canaveral, but it’s far from a sure bet.
+
+“The first stage booster has a contractual obligation to meet a certain velocity, altitude, etc,” Halliwell said. “Whatever is left on board is what SpaceX has to try and bring the thing back. And we’re right at the limit from a mass point of view. It’s going to be a pretty hot mission to try and bring this thing back.”

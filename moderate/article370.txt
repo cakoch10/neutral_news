@@ -1,0 +1,49 @@
+If you’re like most iPhone addicts, you’ve probably updated to iOS 10 by now.
+
+It was a thrill to search through an array of new emojis and experiment with iMessage’s many improved features.
+
+But in the initial flurry of excitement, chances are you overlooked some pretty handy tricks in the process.
+
+With Apple’s latest software update you can hear who’s calling you without even glancing at your phone. And who needs reading glasses with your iPhone’s new magnifying glass?
+
+These are just a few of the many hidden iPhone features you can find when you update to iOS 10:
+
+1. Switch back to unlocking your phone with Touch ID
+
+We had to say goodbye to the iPhone’s iconic “slide-to-unlock” feature, but that doesn’t mean we can’t continue living in the past – with the Touch ID option, at least. Now users have to press the home button for everything. Remember the good old days when you could rest your finger on the button and that’s all it took? Well, you can bring that feature back with these 5 simple steps: Go to Settings, click General, Accessibility, then click on the Home Button and Rest Finger to Open. Now you’re back in action!
+
+2. Close all of your open tabs in Safari with one click
+
+Let’s be honest, we’re all multi-taskers, which means we have about 10 tabs open on our browser at all times. But if you want to de-clutter your browser and start fresh, you just have to press one button (who knew?!). Simply open Safari, click on the boxes in the right corner and hold down “Done” to close tabs.
+
+3. Send read receipts on a person-by-person basis
+
+Apple is giving iPhone users the option to choose whether or not an individual contact can see read receipts after they get your texts. All you have to do is click on your messages, on a text thread and click “i” in the top right corner to turn on “Send Read Receipts” for that particular user.
+
+4. Allow Siri to announce who’s calling when you’re wearing headphones
+
+Good news, music lovers, runners and everyone whose ears are basically attached to their headphones or Air Pods: You can find out who is calling you without even looking at your iPhone. Basically, it’s a new and improved version of caller ID. Siri will tell you who’s calling if you enable this setting on your phone: Go to Settings, Phone, Announce Calls, then select your preference.
+
+5. Never forget where you parked again
+
+Thanks to iOS 10 you’ll never lose track of your car again. A feature called “Show Parked Location” will drop a pin on your car on Apple Maps, and you’ll be able to get directions to your vehicle whenever you need it. You just have to do two things: 1) Turn on “Showed Parked Location,” by clicking on Settings, Maps and turning on the feature. 2) Connect your phone to your car’s Bluetooth or CarPlay stereo.
+
+6. Enable your iPhone’s magnifying glass feature
+
+Have terrible eyesight? Want to take a closer look at something? Well, put away those glasses and pull out your phone – iOS 10’s new magnifying feature may do the trick. Click on Settings, General, Accessibility and Turn Magnifier “On.” Whenever you click your Home button three times this neat feature will appear. Added bonus: You can take high-quality zoomed-in photos with it, too.
+
+7. Remove ads and other clutter on your websites
+
+To de-clutter an article or web page you’re viewing on Safari, hold down the top left corner (with 4 lines) on the left side of your search bar – and say goodbye to all of the ads and spam links. Now you’re left with the text and photos you want, which will also make your browsing experience that much better (and faster).
+
+8. Turn on the “optimize storage” option to save space on your phone
+
+As an iPhone user, there’s nothing worse than the dreaded “Storage Almost Full” notification that pops up on your phone at the most inconvenient time. We’ve heard several tips and tricks to help avoid this notification and save space, but this one may be the easiest one yet. Music takes up a ton of space on your phone, and you probably have dozens of tunes that you “shuffle” over each day. So, why not get rid of the songs you don’t enjoy? To wipe away songs you never listen to – and save space while doing so – turn on the “Optimize Storage” option in your Settings, located under Music. From there, you can choose how much space you want to save, which determines how many songs will be deleted from your playlists. Don’t worry, you didn’t listen to those songs anyway (you probably won’t even notice).
+
+9. Quickly find what you’re looking for on Safari with this easy search option
+
+Picture this: You’re doing research on a subject. You find an article but it’s long and the information you’re looking for is buried. If only you could do a quick search to go straight to the part you want. Well, you can! Click on the article you’re skimming in Safari, click on More and slide over to “Find on Page,” type in what you’re looking for and your iPhone will bring you right to it.
+
+10. Unsubscribe from mailing lists with one click
+
+Your mailbox will thank you for this one. To unsubscribe from a mailing list (and I’m sure you subscribe to many), click on the email and just tap the “Unsubscribe” option, located at the top left of your mail.

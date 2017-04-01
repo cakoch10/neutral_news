@@ -1,0 +1,65 @@
+As 2016 gives way to the new year, tech trend-watchers are looking ahead to the innovations that will impact our daily lives in the not-too-distant future. Will 2017 be the year when the self-driving car really takes off? Will companies like Apple continue to dominate consumers’ wish lists, or will new startups emerge to challenge the larger, more established brands? For every groundbreaking development that comes along to shift the ways people live their lives, there are plenty of examples like virtual reality — buzzy tech that flooded news feeds and found a place on every “tech trends of 2016” list — that have yet to live up to the all the hype.
+
+CBS News asked some experts for their thoughts on how technology might make its mark in 2017.
+
+Shift in consumer tech
+
+2017 may be a year when we continue to see innovative updates to already existing tech rather than a big, splashy new device that makes waves. The era of the “one, big, monumental ‘thing’ that everyone is focused on” seems to have hit a “plateau,” CNET senior editor Dan Ackerman told CBS News.
+
+“You know, we are at the point when even the coolest, most exciting phone that came out hit a plateau in development. You see things like laptops have this continued evolution,” Ackerman said of the focus on updates to what has already been on the market.
+
+One thing that Ackerman said to look out for is the rise of the self-driving car. Autonomous vehicles have certainly been in the headlines lately. Just before Christmas, Uber shifted its self-driving car pilot program from San Francisco to Arizona as communities continue to struggle with how to regulate this radical new approach on the roads.
+
+Ackerman said that, despite these setbacks, 2017 could be the year when self-driving cars become more present.
+
+“Expect to see a ton of developments in terms of automatic tech and car tech,” Ackerman added. “As a New Yorker, I don’t think about having a car, but the only kind of car I would have is a self-driving car. For skeptics, it’s very important seeing them on the streets. They’re much faster that anyone could predicted. I think we’re on the cusp of having them be a thing. Of course, Uber had to withdraw them from San Francisco, but you’re going to see a lot of interest in that space very soon.”
+
+Another piece of consumer technology Ackerman thinks will really take off this year is the OLED TV. These high-end televisions could be the trend that will be most visible in everyday households. For those not familiar, televisions that use OLED (Organic Light Emitting Diodes) have even better picture quality than standard HDTVs.
+
+“OLED TV is nothing new, but they will be much more mainstream next year,” Ackerman predicted. “When we first saw OLED TV, you know, the technology blew us away at CES maybe four or five years ago. But it was just a handful of very high-end TVs. Hopefully 2017 is the year they will be less expensive and get more mainstream-priced.”
+
+The rise of artificial intelligence
+
+From Siri and Cortana to cybersecurity, smart homes and even smart toys, artificial intelligence has increasingly found a place in a wide range of industries and applications. For Sergey Gribov, a partner at Flint Capital, a venture capital fund that focuses on businesses in VR and augmented realty among other fields, AI will start to move “big data” aggregation in a direction of making people’s day-to-day lives easier.
+
+“You have AI in cybersecurity, for instance, where AI can be used to predict cyberattacks. Look at AI with wearable devices where it is looking at wide amounts of data, culling that information, and synthesizing it quickly. You’re now moving in a direction where AI is using this data aggregation and using it to make predictions,” Gribov told CBS News.
+
+While Gribov chatted on the phone, he accidentally activated his Alexa, Amazon’s digital personal assistant that is used through the Amazon Echo speaker device. For Gribov, it was a funny accident that underscored a point — AI has become pretty ubiquitous already in a way that no longer seems like science fiction.
+
+“You know, you have AI telling you what your schedule is, what time you wake up. More and more, you have AI kind of helping you doing things in all aspects of life, at home and at work,” he stressed. “AI will start just analyzing data to predict the future. Look at self-driving cars — you go into your car and turn right, the AI in your car will know, will be able to predict where you would head as part of your routine. Maybe it knows where you are going to go shop. AI will help us guide us as we go on our ways.”
+
+Of course, the arrival of ever-smarter machines prompts familiar concerns. As the legendary physicist Stephen Hawking once put it, AI could be either “the best or worst thing ever to happen to humanity.” Will more advanced AI pose a threat to human agency? Gribov said that is a common fear, but he views AI as the ultimate assistant — not a replacement for human decision-making.
+
+“Hopefully, we will not get into a point when AI will replace people — I don’t think that will happen. I think we will get AI to outsource what we don’t want to do. People will have more time to do the things they enjoy doing. That’s what I think we’ll see even more of in 2017,” he said.
+
+Social media in the year ahead
+
+From the president-elect to teenagers bored in class, social media is pretty much used by everyone. For Victor Pineiro, vice president of social media at Brooklyn-based digital agency Big Spaceship, it is always difficult to predict exactly how people will adopt new trends or use existing platforms in the future.
+
+“My favorite example is one of the saddest of social media trends. Vine died and went away,” he said, referring to the Twitter-owned platform for making and sharing six-second videos. “Vine is a good example of a social platform that everyone thought would be ‘x’ and it actually ended up being ‘y.’ It was supposed to be the video version of Twitter, but most people were actually taking in content made by just like 10 or 20 major influencers. It was a form of entertainment, it was ‘TV’.”
+
+For Pineiro, who in 2013 was named one of Business Insider’s 30 most creative people in social media, the past year showed that people are moving toward being what he called “passive content creators” — a trend that looks to continue into 2017.
+
+“Less people are posting, it’s more of a ‘lean back’ experience. Then again, there is still a lot of content being created with Snapchat. I mean, one of the big trends on social is Instagram copying something like Snapchat. My theory of what is happening, what Snapchat was able to do that Instagram wants to emulate, is moving to a platform for content creators who create messy and in-the-moment content that goes away and doesn’t matter. It disappears, it’s more ephemeral — people are looking for those fleeting moments, rather than something set in stone.”
+
+Pineiro also highlighted the fact that live video is an interesting development for a company like Facebook that has seen its sheen of “cool” chip away as older consumers become more of its core audience than millennials or the younger “Generation Z.”
+
+“For a lot of 2016, the best brands could do was create a live video and find a way to put non-live videos into the live video format to get more views — they were using Facebook’s new tools to their benefit,” he said of brands and users looking for ways to find relevance through a social platform that is something of a dinosaur in tech years compared to the Snapchats of the world.
+
+Another social media trend he’s keeping an eye on is the rise of fake news and its impact on real-world events. Moving forward, “Facebook has to be held accountable for the information and misinformation that it is feeding” its audience, Pineiro said.
+
+The new tech leaders
+
+When looking at the year ahead, Ackerman said it will be interesting to see who emerges dominant in the larger tech space.
+
+“It’s become tougher recently for one company to really be at the lead,” Ackerman said. “Look, it’s hard for a small startup company to capture the attention that bigger companies have, but that being said, there are exciting exciting new spaces out there.”
+
+Sometimes, one gadget on its own could be enough to seize the attention of consumers and win over skeptics — but that kind of success is rare.
+
+Pineiro used the example of Google Glass, which debuted to huge publicity but ultimately failed to capture the consumer’s imagination.
+
+“It became kind of the slow-motion failure of a product that we all saw. Now, you see this completely different approach to something similar with Snapchat Spectacles,” Pineiro said. “It’s marketed as a toy and not a tool, and so far, I’m very curious to see what Snapchat does. What does this mean as Snapchat for a platform moving forward? I foresee Snapchat heading into this heightened territory for AR [augmented reality] where they are downplaying the tech as a ‘toy’ and keeping it in that millennial state of mind. They are taking away the barriers between somebody’s experiences and giving them the ability to share them.”
+
+Does this mean social media companies like Snapchat could move from the world of apps to become consumer product leaders? Ackerman said that he has his eye on companies like Amazon and Google also following this trend — tech companies that aren’t traditional gadget-makers moving into the hardware side of things.
+
+“You know you have Amazon and Google moving into this space rapidly,” Ackerman said. “You have very big data-driven companies that have more information at their disposal than hardware companies and they are continuing to move into the hardware space. That’s something to look out for in the new year.”

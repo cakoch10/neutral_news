@@ -1,0 +1,109 @@
+Dirty beige with grey-brown stain-like patches, Ming the clam was not much to look at. It did at least get a name, which is more than can be said for most molluscs. Estimated at 507 years old when scientists plucked it from the Icelandic seabed (and killed it) in 2006, the ocean quahog was the oldest known animal to have ever lived.
+
+In August 2016, researchers estimated a five-metre-long female Greenland shark had lived for 392 years, making it the longest-lived vertebrate. The mammalian lifespan record belongs to a bowhead whale, thought to have reached the grand old age of 211.
+
+Perhaps it is because humans have become so dominant in other respects that we are fascinated by species that outlive us. For biologists, examples of extreme longevity raise fundamental questions about why organisms age and die. And given that they do, why can individuals of some species live for hundreds of years while others get months, weeks or even just days?
+
+Humans are relatively long-lived. Some researchers hope that gaining greater knowledge of what drives longevity in the animal kingdom offers the chance, not only to understand those species better, but our own too. Others go further, believing it is the key to longer, healthier human lives.
+
+The discovery of Ming's extraordinary age in 2013 led to immediate speculation that the secret to its long life lay in its very low oxygen consumption.
+
+Indeed, one of the most deeply-entrenched ideas about animal lifespan is that it is closely linked to metabolic rate – or the speed of chemical reactions that break food down into energy and produce compounds needed by cells. The notion that animals undergo cumulative damage and die sooner when they work harder like machines run at full capacity probably dates back to the Industrial Revolution.
+
+Why can individuals of some species live for hundreds of years while others get months, weeks or even just days?
+
+In the early 20th Century, German physiologist Max Rubner compared rates of energy metabolism and lifespans in guinea pigs, cats, dogs, cows, horses and humans. He found that larger animals had lower metabolic rates per gram of tissue and that they lived longer, leading him to conclude that using up energy faster shortened life.
+
+American biologist Raymond Pearl developed the idea further following his research on the effects of starvation, temperature change and heredity on the lifespans of fruit flies and cantaloupe melon seedlings. "In general the duration of life varies inversely as the rate of energy expenditure during life," he wrote in his 1928 book The Rate of Living.
+
+In 1954 Denham Harman, at the University of California, Berkeley, provided a mechanism to support what became known as the rate of living theory. He proposed ageing to be the result of an accumulation of damage caused to cells by free radicals. Generated during metabolism, these are highly reactive molecules that can damage cellular machinery by stealing electrons.
+
+However, while it is true that larger species of mammals have slower metabolic rates and live longer, the rate of living theory has largely been abandoned. For one thing, researchers have pointed out many birds and bats live much longer than they should for their metabolic rates. Marsupials have shorter lifespans than placental mammals despite having lower metabolic rates.
+
+John Speakman of the University of Aberdeen in the UK is among those who have highlighted that, just because animals with slower metabolic rates have longer lifespans, does not mean the former causes the latter.
+
+"All the evidence that has been used to support the rate of living theory has a fundamental flaw in it," says Speakman. "That is, it comes from studies which compared animals with different body sizes."
+
+For mammals, once you take out the influence of body size, it's those with higher metabolic rates that live longer
+
+In 2005, Speakman used a clever statistical trick to remove the influence of body mass from the equation, in a study of data for 239 mammalian species and 164 species of birds. For each animal with a higher-than-expected metabolic rate for its body size, he examined whether it had a correspondingly lower-than-expected life span for its body size, and vice versa. "For both mammals and birds, once body mass was removed, the relationship between metabolic rate and life span was zero," says Speakman.
+
+However this calculation, like previous work supporting the rate of living theory, used the resting metabolic rates of animals, when they are neither digesting food nor regulating body temperature. Researchers have traditionally used these rates simply because more data is available for animals in this state. However, many animals spend only a minority of their time at a resting rate of metabolism, and the proportion of time different species spend at it varies widely.
+
+To get around this problem, Speakman compared daily energy expenditure and maximum lifespan for the 48 species of mammal and 44 species of birds for which he could find data for both, and then used the same statistical device he used in the larger study to remove the effect of body size.
+
+"It turns out there is a relationship, but it's the opposite of what you predict from the rate of living theory," says Speakman. "For mammals, once you take out the influence of body size, it's those with higher metabolic rates that live longer." The results for birds did not reach statistical significance.
+
+In fact, the idea that the more oxygen an animal consumes, the greater the production of free radicals that cause damage, and therefore the swifter the ageing, is now outdated. That is thanks to more detailed studies of mitochondria, the parts of cells that generate energy.
+
+When mitochondria break down chemicals within food, protons are pushed across their inner membranes, creating a difference in electrical potential across them. When the protons are released back across the membrane, this potential difference is used to create adenosine triphosphate (ATP), a molecule which stores energy.
+
+It was originally thought that free radical production is high when the electrical difference across the mitochondria membrane was high – meaning that the higher the rate of metabolism, the greater the production of highly reactive molecules that cause cellular damage and ageing.
+
+Smaller animals have more predators, and have to grow faster, as well as reproduce sooner
+
+In fact this model fails to take account of the presence of "uncoupling proteins" in the mitochondria inner membrane. With functions including heat generation, these uncoupling proteins trigger the flow of protons across the membrane to reduce the potential difference across it when it is high.
+
+"The traditional idea that, as you increase your metabolism, a fixed percentage of the oxygen you are consuming will go off to produce free radicals, is fundamentally at odds with what we know about the way mitochondria work," says Speakman. "If anything, we would expect that as metabolism goes up and uncoupling goes up… free radical damage would go down."
+
+Because lower free radical production is associated with longer lifespans, this was called the "uncoupling to survive" hypothesis. When Speakman tested it in 2004, he found that mice in the upper quartile for metabolic intensity consumed more oxygen and lived 36% longer than mice in the lower quartile – supporting the uncoupling to survive idea.
+
+A more straightforward determinant of how long animal species live is their sizes. In a study published in 2007, João Pedro Magalhães of the University of Liverpool in the UK, plotted body mass against maximum known lifespan of more than 1,400 species of mammals, birds, amphibians and reptiles.
+
+Across these four groups, Magalhães found that 63% of the variation in lifespan was down to body mass. For mammals only, it was 66%. Bats are something of an outlier in that they live much longer than they should for their size, so he re-worked the calculation without them, and this time he found body mass explained 76% of mammal lifespan variation. The association for birds was 70% and for reptiles it was 59%. There was no correlation for amphibians.
+
+Magalhães and others who have studied the impact of size on how long animals live say it comes down to combined evolutionary and ecological factors.
+
+"Body size is a determinant of ecological opportunities," says Magalhães. "Smaller animals have more predators, and have to grow faster, as well as reproduce sooner, if they want to pass on their genes. Larger animals, like elephants and whales, are less likely to be eaten by predators, and lack the evolutionary pressure to mature and reproduce at an early age."
+
+The island opossums lived on average four-and-a-half months, or 23%, longer than their mainland cousins
+
+If body size affects lifespan via likelihood of being eaten, it follows that different populations of the same species could live for longer or shorter periods in different environments.
+
+Steven Austad, a journalist-turned-lion-tamer-turned-biologist, set out to test this idea in a study of adult female opossums in the late 1980s. He caught and attached radio collars to 34 on Sapelo Island, Georgia, US, and to another 37 on the mainland near Aitken, South Carolina, US. The second of these populations is hunted by wild dogs and bobcats (Lynx rufus), while the population on the island is not. The island opossums are under less pressure from predators generally, and are genetically isolated.
+
+Austad found the island opossums lived on average four-and-a-half months, or 23%, longer than their mainland cousins. They also had significantly smaller litters, began reproducing a little later and were able to reproduce for longer. Tests showed that collagen in tail tendon fibres aged more quickly in the mainland opossums.
+
+Austad considered the possible impacts of variation of climate, pathogens and diet, but concluded the longer lifespan of the island population was most likely down to genetic variations resulting from differing selection pressures.
+
+There are other factors that at first glance might seem to have an impact on species lifespan, but in fact turn out to be just a function of body size and ecological opportunities. Brain size, for example, has been shown to correlate with maximum species lifespans, especially in primates, as has eyeball size. "If you have anything that changes with body size, it will look as if it is related to lifespan, simply because there is a relationship between body size and lifespan," says Speakman.
+
+While there is a prevailing scientific consensus around the importance of body size on lifespans via likelihood of being killed by other animals, this still leaves vital questions unanswered.
+
+"It depends on the level at which you ask the question," says Speakman. "The evolutionary explanation is to do with extrinsic mortality risk. The question then is what are the actual mechanisms that protect the body?"
+
+A mutation in a gene called daf-2 is known to allow nematode worms to live doubled yet still healthy lifespans
+
+In his hunt for answers to this question, Austad turned, in research published in 2010, to a group of long-lived animals he called Methusaleh's Zoo, after the biblical patriarch said to have lived for 969 years. Austad argued that the low-temperature environments of longevity record holders such as Ming the clam, Greenland sharks and bowhead whales are no coincidence.
+
+"Most animals that live an exceptionally long time have a low body temperature, or live in a low-temperature environment," he says. Austad points out that key bodily processes such as reactive oxygen species production, DNA repair and gene transcription are slower in the cold.
+
+Being especially interested in processes that could inform human lifespan extension, Austad also paid special attention to naked mole rats and little brown bats, two mammals that outlive humans relative to body mass. He concluded that the accumulation of damage to cells as a result of the production of free radicals does play a role in ageing, but one that is relatively minor in many cases, and that varies in importance between species.
+
+The development of quick, cheap DNA sequencing technologies in recent years has offered scientists important clues about the roles of genes in regulating longevity in a variety of species. For example, a mutation in a gene called daf-2 is known to allow nematode worms to live doubled yet still healthy lifespans. Dwarf mice with mutated versions of genes that undermine production of growth hormone, the hormone prolactin and thyroid-stimulating hormone, live about 40% longer than control animals.
+
+In a study published in 2013, Magalhães and colleague Yang Li compared the genomes of pairs of similar mammals with both significantly different maximum lifespans and similar lifespans. They found that genes involved in response to DNA damage and the recycling of proteins by cells had evolved more rapidly in longer-lived species.
+
+What explains the surprisingly low rates of cancers in large, long-lived animals like elephants and whales?
+
+In 2015, he went on to lead a group that sequenced the genome of the bowhead whale, revealing species-specific mutations in genes linked to DNA damage response, the regulation of cell cycles and the control of cancer.
+
+"We don't know for a fact that these are the proteins involved in species differences in ageing, but these studies offer clues we can take forward and test further," says Magalhães. He is currently involved in an international collaboration that is sequencing the capuchin monkey, which can live past the age of 50, despite its relatively small size.
+
+Magalhães and others gathering this growing database of the genetic determinants of longevity are seeing a pattern in the enhanced DNA repair capabilities of long-lived animals. For instance, sequencing has solved a biological mystery that has puzzled scientists since the 1970s; what explains the surprisingly low rates of cancers in large, long-lived animals like elephants and whales?
+
+In 2015, a team led by Joshua Schiffman, of the University of Utah, calculated that fewer than 5% of captive elephants die from cancers, compared to a cancer mortality rate of 11-25% in humans. When they looked at data from sequencing studies, they found the African elephant has 40 copies of the gene that encodes p53 – a protein that plays a key anti-cancer role, by either preventing cells with damaged DNA from dividing until repairs have been performed, or triggering them to commit suicide. Asian elephants have 30 to 40 copies. Both humans and the rock hyrax, elephants' closest living relative, have just two copies of the gene.
+
+Further tests showed elephants were no better at fixing broken DNA. Schiffman concluded their enhanced defences against cancer are down to being better at killing cells with the potential to become cancerous, before they can form tumours.
+
+Being long-lived is part of what makes us human, yet we don't understand why we have that capacity
+
+"My hypothesis is that it's not DNA repair capacity per se that is different, rather it's the way cells respond to DNA damage," says Magalhães. "The same amount of DNA damage is going to kill an elephant cell or stop it proliferating, but not necessarily a mouse cell."
+
+"It would make little evolutionary sense for short-lived animals to waste valuable energy defending themselves against diseases that take many years to develop," says Austad. "It would be like putting a $1,000 face on a cheap watch."
+
+Scientists using comparative biology to understand ageing now have access to the genomes of dozens of mammals. As this increases to hundreds, they will be better able to identify genetic clues to the drivers of longevity.
+
+"Being long-lived is part of what makes us human, yet we don't understand why we have that capacity," says Magalhães. "Sequencing more species will help us find out, and to answer many other fascinating questions."
+
+Magalhães also believes that a better understanding of how long-lived species fend off disease can help humans further extend our already generous lifespans. "Can we learn lessons from the likes of the naked mole rat and the bowhead whale to help us resist cancer, for example?" he says. "I think we can. But there's still a lot of work to do."

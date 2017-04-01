@@ -1,0 +1,57 @@
+The Scottish island of Eigg has a precarious connection to the outside world – which I experienced first-hand when a storm forced the cancellation of my ferry and I had to wait two days for the next boat. But largely because of that fragility, the tiny island – 15 miles (24km) west of the mainland – has learned how to be self-sufficient. Remarkably, even in terms of energy.
+
+The maintenance team includes the island’s baker, gardener and knitter
+
+In 2008, Eigg became the world’s first community to launch an off-grid electric system powered by wind, water and solar – and this group of residents largely taught themselves how to do it. Before that, without access to a national grid, residents relied on noisy, expensive diesel generators that only ran for a few hours a day. The electrification scheme made 24-hour power available to residents for the first time.
+
+Advertisement This media cannot be played on your device. Home of Amazing Fans: Liverpool Liverpool is as well known for its football as it is for its amazing football fans! Feel the passion for the beautiful game & watch our new video! Who will be in your team?
+
+Today, this 12 sq mile (30 sq km) island continues to set an example, not only in how to deliver electricity from renewable energy, but how societies could meet their energy needs without access to a national grid – a challenge affecting nearly one-fifth of the world’s population.
+
+Power play
+
+When I arrive, the island’s tearoom by the pier is busy with visiting researchers. Two groups, one from Brazil, the other from Glasgow, have come to learn about Eigg’s system. Previous groups have come from as far as Alaska and Malawi to assess whether this may be a model for bringing electricity to the nearly 1.3 billion people who lack regular access.
+
+Eigg is powered by three renewable sources – hydro, wind and solar – integrated into a stable, high-voltage underground grid. The system’s designer John Booth, who is the former director of its operator Eigg Electric, took me out to see how the system works. On a cliff below the 1,289ft (390m) peak of An Sgùrr, four wind turbines feed up to 24 kW of energy into the grid. Although the turbines’ blades are whirring, when I visit they are offering only about half of that: an indication of the importance of the system’s integration of three renewables.
+
+Further north – uphill from Glebe Barn, the island’s youth hostel – photovoltaic panels face south, angled at 30 degrees to catch any sunlight that might break through the clouds. “On average, over the year, they provide about 9.5% of their rated output,” Booth says. (The solar panels have a 50kW capacity). “So if you use these as the source of your electricity over the year, you’d be dead disappointed.”
+
+Erecting solar panels in Scotland may seem like folly. But in the summer – thanks to the long hours of daylight that benefit Eigg’s far-north location – the panels do the heavy lifting. “These really come into their own in the months of May, June and July, when we get the really bright long days. They will give you over 25% of their rated output,” Booth says. (When you take into account periods of darkness, that is almost the maximum possible to get in those months). “And that is when we tend not to have much wind and not much rain. The set-up that we’ve got now will carry the island all day and put charge into the batteries for the evening.”
+
+On average, Eigg runs on 90 to 95% renewable energy
+
+Three hydroelectric generators harness energy from running water, of which there is plenty in winter. The biggest generator, on the north side of the island behind Laig Bay, generates up to 100 kW – powered by water traveling a half-mile (1km) and then down a 330ft (100m) drop. Two smaller hydros on the south side produce 5 to 6 kW each.
+
+On average, Eigg runs on 90-95% renewable energy. There are still times, usually in spring, when the weather doesn’t cooperate and the use of generators is necessary. Two 70 kW backup generators add power and charge the battery bank.
+
+Then there are days, usually in winter, when the island has the opposite problem: it creates more energy than it can use or store. Just as Eigg Electric has to manage its deficiencies itself, it has to manage its surpluses. Fortunately, it has a system for that too: when there is a surplus of power, electric heaters in the community hall, pier lobby and two churches automatically turn on. This keeps these shared spaces warm all through the winter and requires “virtually no central heating in the system at all,” says Booth. “We don’t charge for it because the whole community benefits.”
+
+It seems fitting that the electric grid’s surpluses benefit the community, since the inhabitants were responsible for the electric grid’s development. In June, the island will celebrate 20 years of community ownership. Previously, Eigg had a succession of landlords; most tenants had no legal tenure, making development virtually impossible. In 1997, the Isle of Eigg Heritage Trust, a partnership between the residents, Scottish Wildlife Trust and Highland Council, purchased the island. A few years later, residents began working on the electrification project. Eigg Electric – a wholly owned subsidiary of the Trust – was incorporated in 2005. “The whole thing,” says Booth, “is run by and for the island.”
+
+This model of public ownership, as much as the grid itself, has set an example for communities abroad. Last year, Community Energy Malawi visited Eigg. Georgy Davis of the sister organisation Community Energy Scotland says that the group “learned a great deal about what could be achieved by an active and engaged community who have a belief in themselves”.
+
+There was not one person on the island who could be described as an electrical engineer – John Booth
+
+The Malawi members also were “particularly encouraged that people from a non-technical background were able to learn,” Davis says. Eigg Electric’s six-person, part-time maintenance team is made up of such unlikely candidates as the island’s baker, gardener and knitter.
+
+Everyone learned how the system works by following the construction company as they built it. “There was not one person on the island who could be described as an electrical engineer,” says Booth, a biochemist by training. “I just did my homework. Sometimes if a decision had to be made, I’d stay up all night working on it.”
+
+Price of power
+
+The £1.66m project largely was financed by the European Union’s European Regional Development Fund, as well as by national bodies and contributions from the islanders. Where possible, Eigg Electric cut down on costs by doing certain jobs themselves, such as laying concrete for the solar panels. Still, the initial investment may prove an obstacle for other communities hoping to copy Eigg’s model. As a recent analysis of the island’s electric grid points out, most of the nearly 1.3 billion people currently living off-grid are in the developing world.
+
+“That is the major challenge for any country,” says the study’s co-author, Subhes Bhattacharyya of De Montfort University, “especially in sub-Saharan Africa and southeast Asia, where most people lack access. They need initial support for capital funding.”
+
+Eigg’s community agreed on every aspect of the system, including on pricing – currently set at 23p per kWh plus a 12p daily standing charge, slightly higher than the mainland – and usage caps. To not overload the system and ensure everyone has fair access to power, residents voted unanimously to approve the requirement that each house gets a maximum of 5 kW to use at one time – the equivalent of running an electric kettle and washing machine simultaneously. Businesses get 10 kW. To keep track, meters tell them how much they are using at any one time; exceed the cap, and your electricity goes out. To deter this from happening, the user is required to call the Eigg Electric team to turn it back on at a £20 penalty fee. It happens rarely, says Booth.
+
+To communicate when renewables are generating a relatively low amount of energy, meanwhile, a traffic light system is set up at the pier. A red light requests residents to limit their usage; a green light, normal usage.
+
+It seems easy enough to manage and residents appear satisfied. At Booth’s house, Christine, John’s wife, serves me tea and toast separately to avoid using the toaster and kettle simultaneously. With a low wattage kettle, doing so still would be comfortably below the 5 kW cap – but she is conscious of spreading out her energy usage to benefit the system whenever possible. “You get used to doing it that way,” she says.
+
+Over the last 20 years, in contrast to many of its island neighbours, Eigg’s population has risen – from 65 residents to around 100. New houses have been built and new businesses have launched. “The demand on the system is rising,” says Booth. “But all the evidence says that we got it right at the outset and it’s coping.”
+
+Bhattacharyya says Eigg exemplifies how not only basic energy requirements, but even the demands of a developed country, can be met with an off-grid system. Examples like Eigg can show the world “that full off-grid systems work” – and that a fully renewable system has the capacity to “support modern-day living and improve quality of life.”
+
+This story is a part of BBC Britain – a series focused on exploring this extraordinary island, one story at a time. Readers outside of the UK can see every BBC Britain story by heading to the Britain homepage; you also can see our latest stories by following us on Facebook and Twitter. Join 800,000+ Future fans by liking us on Facebook, or follow us on Twitter.
+
+If you liked this story, sign up for the weekly bbc.com features newsletter, called “If You Only Read 6 Things This Week”. A handpicked selection of stories from BBC Future, Earth, Culture, Capital, and Travel, delivered to your inbox every Friday.

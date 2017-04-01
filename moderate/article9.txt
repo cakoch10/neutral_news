@@ -1,0 +1,63 @@
+NEW YORK -- Samsung seems to be playing it safe with its first major smartphone since the embarrassing recall of its fire-prone Note 7.
+
+The Galaxy S8 features a larger display than its predecessor, the Galaxy S7, and sports a voice assistant intended to rival Siri and Google Assistant. But there is no increase in battery capacity, providing the battery more breathing room. The Note 7 pushed the engineering envelope with its battery, which contributed to a series of spontaneous smartphone combustions.
+
+The Galaxy S8 will come in two sizes, both bigger than last year’s models. Both models have screens that curve around the edges and get rid of the physical home button.
+
+The Note 7 recall cost Samsung at least $5.3 billion. Though many customers remain loyal, any further misstep could prove fatal for the brand.
+
+“We’re in the process of earning back that trust,” said Drew Blackard, a senior director of product marketing for Samsung. In the U.S., Samsung will start taking orders Thursday, with shipments scheduled for April 21.
+
+CNET reports the phones will be priced at $750 for the S8 with a 5.8-inch screen (a bit larger than the iPhone 7 Plus), and $850 for the jumbo-sized 6.2-inch Galaxy S8 Plus.
+
+About that battery...
+
+Samsung has blamed the Note 7 fires on multiple design and manufacturing defects in its batteries. Inspectors concluded that the initial batteries were too small for their capacity, and that their external pouch put pressure on the internal structure, leading to damage and overheating.
+
+Samsung recalled the phones and shipped replacements, but the newer batteries had welding defects and a lack of protective tape in some battery cells. Samsung recalled the replacements, too, and scrapped the phone.
+
+At a launch event for the new Galaxy S8 Wednesday in New York, Samsung executives “kind of nodded to it, acknowledged they’ve had a difficult year,” said CNET News executive editor Roger Cheng.
+
+The company says phones will now go through multiple inspections, including X-rays and stress tests at extreme temperatures.
+
+“They’ve gotten new standards, new procedures in place to ensure this doesn’t happen again,” Cheng told CBS News. “They’ve implemented this eight-point battery check. These are new tests that they’ve added to make sure that these batteries don’t overheat and catch fire again.”
+
+The standard-size S8 phone has as much battery capacity as last year’s Galaxy S7, but the phone is 4 percent larger by volume. The larger S8 Plus model has 3 percent less capacity than the Galaxy S7 Edge and the same capacity as the Note 7, but the phone’s volume is larger by 12 percent and 6 percent, respectively.
+
+Both models have larger displays, meaning more drain on the battery. Samsung says that software and processor efficiencies will let the new phones offer all-day battery life under normal use.
+
+Bigger, wider screens
+
+The S8 phone’s display measures 5.8 inches diagonally, compared with 5.1 inches on the S7. The S8 Plus will be 6.2 inches, compared with S7 Edge’s 5.5 inches and the Note 7’s 5.7 inches. Both S8 models are taller than their predecessors, but widths are roughly the same to preserve one-handed use.
+
+Samsung is getting rid of the “Edge” distinction and bringing curved sides to all S8 phones. It’s also minimizing the frame, or bezel, surrounding the display; gone is a horizontal strip with the home button at the bottom. Instead, Samsung is embedding a virtual home button in the display, leaving Apple’s iPhones as among the few to sport a distinct home button.
+
+“The Samsung Galaxy S8 is simply gorgeous,” declares CNET’s initial hands-on review. “Samsung’s redesign makes the S8’s 5.8-inch screen absolutely pop. There’s no more physical home button, and barely a bezel. That means the screen takes up roughly 83 percent of the phone’s face for tapping and viewing.”
+
+Drew Angerer, Getty Images
+
+Bixby voice assistant
+
+Samsung claims its new voice assistant, Bixby, will do much more than rivals from iApple, Google, Microsoft and Amazon. For one thing, Samsung says Bixby will be able to handle any smartphone task currently managed by touch. Bixby will also offer information on books, wine and other products scanned with the phone’s camera.
+
+But there’s a major caveat: Bixby will work only with selected Samsung apps, including the photo gallery and messages. Not all touch commands will have voice counterparts right away. Other apps will be able to adopt Bixby, but Samsung has had a mixed track record in getting other companies to support its home-brewed functions like Bixby.
+
+“I think the brand will struggle to compete in the longer term with the broader digital ecosystems from Google, Amazon or Apple,” Forrester analyst Thomas Husson said.
+
+Camera and more
+
+The front camera is getting a boost to 8 megapixels, from 5 megapixels, while the rear one stays at 12 megapixels.
+
+Drew Angerer, Getty Images
+
+As with previous models, the S8 is water and dust resistant and features a memory card slot to supplement 64 gigabytes of built-in storage. The S8 will get an iris scanner to let people unlock the phone by looking at it ; the feature was new in the ditched Note 7 phone.
+
+Samsung will include premium earbuds from AKG, a brand it acquired when it bought Harman International.
+
+Beyond the Galaxy S8
+
+Samsung’s virtual-reality camera, Gear 360, will now accommodate a higher resolution, known as 4K, and work with iPhones, not just Samsung phones.
+
+An optional docking station will turn the S8 phone into a desktop computer when connected to a regular TV. In that mode, people will be able to resize windows and work with several apps at once. It’s similar to what Microsoft offers on its Windows 10 phones. Samsung also unveiled a router that doubles as a hub for internet-connected appliances and lights.
+
+Samsung said its previously announced Gear VR headset upgrade, which will now include a hand-held controller, will go on sale in April for about $130. Existing owners can buy just the controller for about $40. The company hasn’t announced prices and release dates for the other accessories.

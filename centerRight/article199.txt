@@ -1,0 +1,11 @@
+WikiLeaks published 676 source code files today which it claimed are from CIA
+
+It says the CIA disguised its own hacking attacks to make it appear those responsible were Russian, Chinese, Iranian or North Korean
+
+By MAIL ONLINE REPORTER | DAILY MAIL
+
+WikiLeaks has published hundreds more files today which it claims show the CIA went to great lengths to disguise its own hacking attacks and point the finger at Russia, China, North Korea and Iran.
+
+The 676 files released today are part of WikiLeaks' Vault 7 tranche of files and they claim to give an insight into the CIA's Marble software, which can forensically disguise viruses, trojans and hacking attacks.
+
+

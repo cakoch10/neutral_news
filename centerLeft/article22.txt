@@ -1,0 +1,31 @@
+Yes, with your Edge browser you can still access BBC iPlayer Radio providing you have Windows 10 Mobile installed. And Windows Phone 8.1 users can access radio (but not TV programmes) through Internet Explorer.
+
+Why are you closing the app?
+
+When the BBC iPlayer Radio app was originally created it was not technically possible to playback BBC programmes via the browser. As it’s now possible to playback via the browser it’s no longer cost effective for the BBC to maintain a BBC iPlayer Radio app for Windows mobile devices. And by using the browser version of BBC iPlayer Radio, Windows phone users will get the benefits of the web version as it evolves.
+
+Should I update to Windows 10 Mobile?
+
+Many phones running Windows Phone 8.1 are able to update to Windows 10 Mobile and Microsoft have created the Windows 10 Mobile Upgrade Advisor app which can check whether your device can be upgraded: https://www.microsoft.com/en-gb/store/p/upgrade-advisor/9nblggh0f5g4
+
+If you do upgrade to Windows 10 Mobile, you’ll be able to play content from BBC iPlayer Radio and BBC iPlayer. If you remain on Windows Phone 8.1, you’ll only be able to play radio programmes.
+
+How to Pin BBC iPlayer Radio to the Start Screen
+
+For quick access you can pin a shortcut tile on your phone’s start screen to BBC iPlayer Radio. Here’s how:
+
+Windows 10 Mobile
+
+Navigate to www.bbc.co.uk/radio in your Internet Explorer browser
+
+Tap ‘more options’(the ellipses) button at the top left of the screen
+
+Select ‘Pin to start’ for the list of options.
+
+Windows Phone 8.1
+
+Navigate to www.bbc.co.uk/radio in your IE browser
+
+Tap ‘more’ on the bottom right of the screen
+
+Select ‘Pin to start’ for the list of options.

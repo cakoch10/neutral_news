@@ -17,7 +17,7 @@ def scrapeFarRight():
     for article in farRight.articles:
         article.download()
         article.parse()
-        with open("farRight/article" + str(i) + ".txt", 'a') as out:
+        with open("farRight/article" + str(i) + ".txt", 'w') as out:
             out.write(article.text + '\n')
         i = i+1
 
@@ -26,41 +26,57 @@ def scrapeCenterRight():
     i = 0
     for article in centerR.articles:
         article.download()
-        article.parse()
-        with open("centerRight/article" + i + ".txt", 'a') as out:
+        try:
+            article.parse()
+        except:
+            pass
+        with open("centerRight/article" + str(i) + ".txt", 'w') as out:
             out.write(article.text + '\n')
         i = i+1
+    print(i)
 
 def scrapeModerate():
     moderate = newspaper.build('http://cbsnews.com/us/',memoize_articles=False)
     i = 0
     for article in moderate.articles:
         article.download()
-        article.parse()
-        with open("moderate/article" + i + ".txt", 'a') as out:
+        try:
+            article.parse()
+        except:
+            pass
+        with open("moderate/article" + str(i) + ".txt", 'w') as out:
             out.write(article.text + '\n')
         i = i+1
+    print(i)
 
 def scrapeCenterLeft():
-    centerL = newspaper.build('http://bbc.com/news/world/us_and_canada')
+    centerL = newspaper.build('http://bbc.com/news/world/us_and_canada',memoize_articles=False)
     i = 0
     for article in centerL.articles:
         article.download()
-        article.parse()
-        with open("centerLeft/article" + i + ".txt", 'a') as out:
+        try:
+            article.parse()
+        except:
+            pass
+        with open("centerLeft/article" + str(i) + ".txt", 'w') as out:
             out.write(article.text + '\n')
         i = i+1
-
+    print(i)
 
 def scrapeFarLeft():
-    farLeft = newspaper.build('http://dailykos.com/blogs/main')
+    farLeft = newspaper.build('http://dailykos.com/blogs/main',memoize_articles=False)
     i = 0
     for article in farLeft.articles:
         article.download()
-        article.parse()
-        with open("centerLeft/article" + i + ".txt", 'a') as out:
+        try:
+            article.parse()
+        except:
+            pass
+
+        with open("farLeft/article" + str(i) + ".txt", 'w') as out:
             out.write(article.text + '\n')
         i = i+1
+    print(i)
 
 def scrapeNews():
     # urllib2.urlopen("http://example.com/foo/bar").read()
@@ -88,11 +104,8 @@ def scrapeNews():
     #centerLeft = newspaper.build('http://bbc.com/news/world/us_and_canada')
     #farLeft = newspaper.build('http://newyorker.com/news')
     #farLeft = newspaper.build('http://dailykos.com/blogs/main') # Possible candidate?
-
+    print("test")
 
 
 def compute(url):
-
-
-
     return json.dumps({'url1': url1, 'url2': url2, 'url3': url3, 'url4': url4, 'url5': url5})

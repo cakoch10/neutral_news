@@ -1,0 +1,39 @@
+Minor Typos and Data Entry Errors will No Longer Deny Eligible Georgians the Right to Register and Vote
+
+Washington, D.C. – The Lawyers’ Committee for Civil Rights Under Law, Project Vote, Campaign Legal Center, Voting Rights Institute at the Georgetown University Law Center, along with the New York City office of Hughes Hubbard & Reed LLP and Atlanta-based firm of Caplan Cobb LLP, acting as pro bono counsel, announced a settlement today in a lawsuit filed on behalf Asian Americans Advancing Justice – Atlanta, the Georgia Coalition for the Peoples’ Agenda and the Georgia State Conference of the NAACP, which challenged Georgia’s exact-match voter registration verification scheme. The suit alleged Georgia’s “exact match” system violated Section 2 of the Voting Rights Act of 1965 and deprived eligible Georgians of their fundamental right to vote under the First and Fourteenth Amendments to the United States Constitution, and resulted in Georgia restoring more than 42,000 previously purged voters to the rolls.
+
+The complaint, which was filed in September 2016 in the United States District Court for the Northern District of Georgia, concerned Georgia’s voter registration verification process. Since 2010, Georgia required all of the letters and numbers in the applicant’s name, date of birth, driver’s license number or last four digits of the Social Security number to exactly match the information in the state’s Department of Drivers Service (DDS) or Social Security Administration (SSA) databases. If even a single letter, number, hyphen, space, or apostrophe did not exactly match the database information, and the applicant failed to correct the mismatch within 40 days, the application was automatically rejected and the applicant was not placed on the registration rolls – even if they were eligible to vote.
+
+This flawed process led to the cancellation of tens of thousands of applications from eligible applicants, with African American, Latino, and Asian American applicants being rejected at rates significantly higher than White applicants. For example, of the approximately 34,874 voter registration applicants whose applications were cancelled between July 2013 and July 15, 2016, approximately 22,189 (63.6 percent) identified as Black, 2,752 (7.9 percent) identified as Latino, 1,665 (4.8 percent) identified as Asian-American, and 4,748 (13.6 percent) identified as White.
+
+Under the terms of the settlement agreement, the Secretary of State agreed to implement reforms to help ensure that eligible Georgians will no longer be denied the right to register and vote as a result of data entry errors, typos and other database matching issues that do not bear upon the applicant’s eligibility to vote. Some of the reforms agreed to by the Secretary of State pursuant to the terms of the settlement include:
+
+Georgia will no longer automatically cancel voter registration applications where the information on the application fails to exactly match the applicant’s data on the Georgia Department of Drivers Services (DDS) or Social Security Administration (SSA) databases;
+
+If the data on a voter registration application fails to exactly match data on the DDS or SSA databases, applicants will be added to the rolls as “pending,” with no deadline to correct the mismatch;
+
+Such registrants will be able to present their Georgia driver’s license, State ID card or other forms of appropriate ID at the polling place and be able to cast a ballot;
+
+In cases where the applicant is a U.S. citizen, but the DDS database contains an error or out of date information showing the applicant is not a citizen, those individuals will be able to show proof of their citizenship – up to and including on Election Day – to complete the registration process and cast a ballot.
+
+The full details can be found in the settlement agreement here.
+
+These reforms, which were partly implemented before the November 8, 2016 general election, gave more than 42,000 of previously disqualified applicants, who were otherwise eligible to vote, an opportunity to complete the registration process and cast a ballot.
+
+The settlement will also result in giving thousands of additional applicants, whose applications were rejected as a result of the “exact match” system between October 1, 2013 and October 1, 2014, the opportunity to now finalize their voter registration and be able to cast ballots in this year’s elections and elections in the future.
+
+“Our democracy depends on the ability of all voters to participate in the political process,” said Kristen Clarke, president and executive director of the Lawyers’ Committee for Civil Rights Under Law. “Today’s victory ensures that tens of thousands of voters will not be disenfranchised by Georgia’s “no match, no vote” policy, which had a particularly onerous effect on minorities and the poor. We will continue to use the Voting Rights Act as a tool to combat voting discrimination and to achieve fairer and more democratic outcomes across our country.”
+
+“Asian Americans are the fastest growing immigrant population in Georgia. Our communities are naturalizing in increasing numbers, and we will continue to see more New Americans exercise their right to vote,” said Stephanie Cho, executive director, Asian Americans Advancing Justice – Atlanta. “We are pleased that this decision increases access to voting for immigrants and people of color.”
+
+“The fundamental right to vote should never hinge on data entry errors and technicalities. Our systems can and must do better,” said Danielle Lang, deputy director of Voting Rights at the Campaign Legal Center. “Thanks to this settlement, and our partners who led this effort, tens of thousands of eligible Georgia voters will be restored to the rolls.”
+
+“This settlement is an important recognition that as sacred as the vote may be in democracy; the vote cannot protect itself,” said Francys Johnson, Georgia NAACP President. “This is not the work of government alone. It takes a vigilance from engaged citizens to protect and defend our fundamental values. These reforms at the heart of this settlement are strong indications that our democracy works.”
+
+“This case illustrates the importance of careful, sensible registration procedures,” said Michelle Kanter Cohen, election counsel for Project Vote. “No American citizen should be denied their fundamental right to vote because of discriminatory practices or bureaucratic mistakes.”
+
+“This settlement brings an end to Georgia’s onerous exact match requirement and instills important protections for voters in our state,” said Helen Butler, executive director of the Georgia Coalition for the Peoples’ Agenda. “Voters deserve an election system that enables participation, not one that creates barriers and forces voters to jump through unnecessary hoops.”
+
+###
+
+Project Vote is a national nonpartisan, non-profit organization dedicated to building an electorate that accurately represents the diversity of America’s citizenry. Project Vote takes a leadership role in nationwide voting rights and election administration issues, working through research, litigation, and advocacy to ensure that every eligible citizen can register, vote, and cast a ballot that counts.

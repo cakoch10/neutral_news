@@ -1,0 +1,65 @@
+When an individual stock moves up or down, it might be the result of a corporate announcement or developments within a particular industry. But when leading U.S. indexes such as the Dow Jones Industrial Average or the S&P 500 move one way or another, indicating a wider change in sentiment regarding stocks, it's often driven by broader trends in the domestic or global economy -- changes revealed by economic indicators that are reported on a periodic basis.
+
+Continue Reading Below
+
+There are dozens of key economic indicators in the U.S. alone. Here, we'll take a look at a few of the most frequently cited indicators to help you make sense of the headlines.
+
+Real gross domestic product (GDP)
+
+The real GDP is a measure of the value of the goods and services produced in the U.S., adjusted for price changes. An increase in GDP may not actually reflect the true growth in an economy or an increase in purchasing power if the price of goods and services is also rising. Thus the real GDP subtracts the inflation rate from GDP to get the real growth percentage.
+
+Both standard and real GDP are reported quarterly by the U.S. Department of Commerce's Bureau of Economic Analysis, preceded each quarter by two preliminary estimates of GDP before the final figure is published. Since the real GDP measures the entirety of the U.S. economy, it's considered to be a key indicator of economic health.
+
+The real GDP is most often framed in terms of its percentage growth or decline. When the real GDP increases, it suggests businesses are producing a higher value of goods and services. That means the businesses are generally understood to be making more money, and it suggests an increasing standard of living for American citizens. If the real GDP declines, then the reverse is believed to be true.
+
+However, the market's response is not solely dependent on whether the real GDP increases or decreases. The market may also move depending on how any one quarterly real GDP measure compares to prior quarters and how the reported real GDP compares to economists' expectations, as well as any revisions to the short-term or long-term forecasts of real GDP.
+
+Continue Reading Below ADVERTISEMENT
+
+Nonfarm payrolls and the unemployment rate
+
+On the first Friday of every month, the U.S. Department of Labor's Bureau of Labor Statistics (BLS) releases both an estimate of the cumulative number of jobs created or lost in the prior month and a percentage figure representing what proportion of Americans are not employed and are actively looking for work.
+
+The nonfarm payrolls figure represents the total number of workers employed by U.S. businesses, excluding general government employees, those working in private households, employees of non-profit organizations that provide assistance to individuals and those who work on farms. The data is generally expressed in the cumulative number of new or lost positions. For example, the BLS reported that nonfarm payrolls increased by 151,000 jobs in January, based on its survey of about 146,000 businesses and government agencies. As with the real GDP, the number of jobs created or lost in a month is considered an indicator of economic health.
+
+The unemployment rate, on the other hand, is determined through a monthly survey of 60,000 households. It estimates the percentage of Americans who were unemployed in a given time frame and who made specific efforts to find employment. Those who are unemployed and not looking for work aren't considered to be part of the workforce.
+
+Nonfarm payrolls and the unemployment rate are considered key indicators of the health of the overall economy and can significantly impact the securities markets. When more businesses are hiring, that can suggest to market participants that businesses are performing well and can also lead to predictions that more people will have more money to spend (as a consequence of being employed). Conversely, when the unemployment rate rises unexpectedly -- or even when it declines, but declines less than expected -- that may be associated with a drop in stock prices, as it may suggest that cash-strapped employers are tightening their belts. As is the case with many economic indicators, how a reading compares to expectations is very important, as are any revisions to previously reported data.
+
+The price indexes (CPI and PPI)
+
+The Consumer Price Index (CPI) is a monthly measure of the prices of a basket of specific goods and services bought by urban consumers, including food, transportation, clothing, medical care, and more. It is published monthly by the BLS and helps economists gauge inflation -- i.e., increases in the general price of goods and services in the U.S.
+
+Meanwhile, the Producer Price Index (PPI) is a monthly measure of price change from the perspective of the seller, looking at the sale price received by domestic producers of goods and services. The PPI is timely because it is the first inflation measure available in the month. Markets may sometimes use this index to predict inflation in the pipeline, before it shows up in the CPI.
+
+Moreover, the PPI is a broader gauge, as it tracks price changes in output of nearly all industries in the goods-producing sectors of the U.S. economy, whereas the CPI is designed to measure inflation for the U.S. urban population and focuses on price changes of only a sample of items.
+
+Consumer confidence and consumer sentiment
+
+The Conference Board, a business and research organization, releases its Consumer Confidence Index on the last Tuesday of every month. The figure is based on the Conference Board's monthly survey of 5,000 households, which asks consumers how confident consumers are about the state of the economy. It tries to get a pulse on how they feel about the current business conditions and the labor market and how they feel about the future.
+
+The University of Michigan publishes a similar measure, the Consumer Sentiment Index, twice a month. Increases in consumer confidence may be associated with increases in share prices as the increase may suggest that confident consumers will spend more, helping the economy to grow and eventually leading to stronger corporate earnings.
+
+Retail sales
+
+As its name suggests, the retail sales report is a measure of all sales by U.S. retail stores. It's published monthly by the U.S. Department of Commerce's Census Bureau and, as with other economic indicators, its rise and fall can have a direct effect on the stock market -- or at least the retail sector of the market. When sales are higher -- meaning consumers are spending more -- companies tend to perform better. When sales are lower, the opposite is true.
+
+Durable goods orders
+
+While retail sales are an indicator of consumer spending, durable goods orders are an indicator of manufacturing activity. The term "durable goods" refers to consumer products that typically aren't replaced for at least three years -- think large appliances and cars -- and durable goods orders are a measure of new orders that manufacturers receive for such goods. The Department of Commerce's Census Bureau publishes its report on durable goods near the end of each month. An increase in durable goods orders is usually taken as a sign of economic health and may be associated with increases in stock indices, while a decline may indicate trouble in the economy.
+
+Federal Reserve interest rate announcements and meeting minutes
+
+One of the most closely watched calendar items on Wall Street isn't an economic indicator but rather the regularly scheduled announcement of changes (or lack thereof) to the target range for the federal funds rate -- the rate banks charge each other to borrow money maintained at the Fed overnight -- by the Federal Reserve. The Federal Open Market Committee (FOMC), which is the monetary policymaking body of the U.S. central bank, holds regularly scheduled meetings eight times a year. Since banks often pass on their borrowing costs to their customers, lower rates can encourage borrowing and stimulate the economy, especially during tough times such as the 2008 financial crisis. (See The Alert Investor's interactive history of federal funds rate changes here.)
+
+The low rates of the last seven years may be associated with bolstering stocks, but a prolonged period of low interest rates may also put an economy at risk of high inflation, which is why rates can't remain low indefinitely (and which is one reason why U.S. inflation measures are closely watched).
+
+It's not just announced changes to the FOMC's target range for the federal funds rate that can move markets. Hints of future changes may also prove influential. Such hints are sometimes found in the minutes of the FOMC's meetings, which are released three weeks after each regular meeting. In November 2015, for instance, stocks rose after minutes from the FOMC's October meeting suggested that most FOMC participants anticipated conditions warranting an increase in the target range for the federal funds rate could be met by the time of the December FOMC meeting.
+
+An Alert Investor is a smarter investor.
+
+The article Key Economic Indicators Every Investor Should Know originally appeared on Fool.com.
+
+Try any of our Foolish newsletter services free for 30 days. We Fools may not all hold the same opinions, but we all believe that considering a diverse range of insights makes us better investors. The Motley Fool has a disclosure policy.
+
+Copyright 1995 - 2016 The Motley Fool, LLC. All rights reserved. The Motley Fool has a disclosure policy.

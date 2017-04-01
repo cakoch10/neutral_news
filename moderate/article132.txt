@@ -1,0 +1,65 @@
+CAPE CANAVERAL, Fla. -- A SpaceX Falcon 9 rocket roared to life and streaked away through a twilight sky Thursday, boosting an SES communications satellite into orbit in the first fight of a previously flown first stage, a convincing validation of company founder Elon Musk’s drive to lower launch costs by recovering, refurbishing and re-launching rocket stages.
+
+
+
+Launched last April to help lift a space station-bound cargo ship into orbit, the first stage’s nine Merlin 1D engines fired up at 6:27 p.m. EDT (GMT-5) and appeared to perform flawlessly during their second fight, propelling the rocket out of the dense lower atmosphere before falling away to attempt its second landing on an off-shore droneship.
+
+CBSN
+
+While the Falcon 9’s second stage continued pushing the SES 10 communications satellite toward its initial orbit, the first stage restarted three engines and plunged back into the discernible atmosphere, guiding itself tail first toward the SpaceX droneship stationed a few hundred miles east of Cape Canaveral.
+
+
+
+Because of the heavy weight of the SES-10 relay station and the demands of its initial orbit, the rocket barely had enough left over propellant for a final burn to lower itself to a safe touchdown on the “Of Course I Still Love You,” the same droneship it landed on last year.
+
+
+
+But Thursday’s descent came off without a hitch, four steering fins at the top of the stage kept the booster properly oriented, four landing legs deployed as planned and the now well-used booster settled to a picture-perfect landing near the center of the droneship’s deck.
+
+SpaceX engineers watching the landing on large displays at the company’s mission control center in Hawthorne, Calif., burst into cheers and applause as the landing engine shut down, leaving the booster upright and in apparently good condition.
+
+“We just had an incredible day today, the first reflight of an orbital-class booster,” Musk said from the launch control center in Cape Canaveral. “It did its mission perfectly, dropped off the second stage, came back and landed on the droneship, right on the bullseye. It’s an amazing day, I think, for space as a whole, for the space industry.”
+
+Successfully proving rocket stages can be reflown “means you can fly and re-fly an orbit-class booster, which is the most expensive part of the rocket. This is going to be ... a huge evolution in spaceflight.”
+
+Impressive as it was, the landing was a secondary objective. The primary goal of the mission, as always, was to boost the customer’s SES 10 satellite into the proper initial orbit. But in so doing, SpaceX demonstrated the feasibility of re-flying booster stages that otherwise would be discarded after a single use.
+
+SpaceX’s landing record now stands at nine successes in 14 attempts over the past two years, three on land at the Cape Canaveral Air Force Station and six on droneships.
+
+A few seconds after the first stage nailed its second landing, the Falcon 9 second stage’s single engine shut down as planned. Eighteen minutes later, the engine fired again for about one minute and 32 minutes after liftoff, the SES 10 satellite was released to fly on its own.
+
+The Falcon 9 placed the 11,644-pound satellite in an initial orbit with a high point of 22,000 miles and a low point of just 135 miles. On board thrusters will be used to circularize the orbit at an operational altitude of 22,300 miles above the equator.
+
+Once checked out and on station, SES-10 will replace two older SES spacecraft now providing direct-to-home television, data and maritime services to Latin America, from Mexico and the Caribbean Sea to the tip of Argentina.
+
+It was the first of four SpaceX launches planned by SES this year and given the success of Thursday’s flight, the company may elect to put one or two of those on other previously flows boosters.
+
+For Musk, the successful flight offered vindication of sorts, a convincing demonstration of the feasibility of re-flying booster stages. Using a familiar analogy, he said throwing rockets away after a single flight made no more sense than throwing away airplanes after one trip.
+
+“It’s been 15 years to get to this point,” he said. “It’s taken us a long time, a lot of difficult steps along the way. I’m just incredibly proud of the SpaceX team for being able to achieve this incredible milestone in the history of space. I’m sort of at a loss for words. But it’s really a great day, not just for SpaceX, but for the space industry as a whole and proving something can be done that many people said was impossible.”
+
+Martin Halliwell, chief technology officer with SES, said earlier this week that Thursday’s flight represented a “really exciting step forwards.”
+
+“I think the whole industry is looking,” he said. “There have been naysayers, we’ve known that over the years. There have been people who’ve actually said to me, it’s impossible, it will never happen. ... Yet here we are. Never say never.”
+
+SES was the first commercial customer to use the Falcon 9 rocket and the company received a discount for flying the used rocket stage. But neither SES nor SpaceX would discuss how much the rocket costs or how much insurance cost.
+
+But Halliwell said insurers were convinced the stage was virtually as good as new.
+
+“There was essentially no change in the insurance premium,” he said. “That is, I think, the key criteria in the confidence level the (insurance) community sees in the integrity of this mission and the booster itself.”
+
+One underwriter, speaking on condition of anonymity, told Spaceflight Now that “reused rockets are here to stay.”
+
+“It’s an interesting balance for us,” he said. “It’s here to stay. Pretty soon, it’s going to be routine. We’ve had some some very in-depth conversations with SpaceX about their process for re-qualifying, and their process for refurbishment. We’re convinced that, number one, they’re committed to it, and number two, they’re serious about it. So they’ve done what we wanted them to do.”
+
+This was the fourth launch of a Falcon 9 since a spectacular explosion Sept. 1 at the nearby Cape Canaveral Air Force Station that destroyed another booster and its $200 million satellite payload, heavily damaging launch complex 40.
+
+The mishap was blamed on a ruptured high-pressure helium tank inside the rocket’s second stage liquid oxygen tank. Corrective actions were implemented and SpaceX returned to flight Jan. 14, successfully launching 10 Iridium NEXT satellite telephone relay stations from Vandenberg Air Force Base, Calif.
+
+The company then launched a space station cargo ship from pad 39A at the Kennedy Space Center on Feb. 19 and followed that with launch of an EchoStar communications satellite March 16.
+
+Setting their sights on four in a row -- the third in a row from pad 39A -- SpaceX engineers test fired the SES Falcon 9’s first-stage engines Monday to set the stage for launch. The engines appeared to work normally during the climb to space.
+
+
+
+If all goes well, SpaceX hopes to launch a classified National Reconnaissance Office satellite from Kennedy on April 16 and then another space station resupply mission in mid May.

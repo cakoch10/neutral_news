@@ -1,0 +1,9 @@
+There goes their privacy! LOL!
+
+House Republicans are hunky dory with internet service providers and big telecom doing pretty much anything they like with your most sensitive internet data—your browsing history, your financial transactions, your Social Security number, whatever. In a party-line vote, Republicans put it all up for grabs.
+
+House Republicans voted overwhelmingly Tuesday, by a margin of 215-205, to repeal a set of landmark privacy protections for Web users, issuing a sweeping rebuke of Internet policies enacted under the Obama administration. It also marks a sharp, partisan pivot toward letting Internet providers collect and sell their customers' Web browsing history, location information, health data and other personal details. The measure, which was approved by a 50-48 margin in the Senate last week, now heads to the White House, where President Trump is expected to sign it. Congress's joint resolution empowers Internet providers to enter the $83 billion market for online advertising now dominated by Google and Facebook. It is likely to lend momentum to a broader GOP rollback of Obama-era technology policies, and calls into question the fate of other tech regulations such as net neutrality, which was approved in 2015 over strident Republican objections and bans Internet providers from discriminating against websites. And it is a sign that companies such as AT&T, Comcast and Verizon will be treated more permissively at a time when conservatives control all three branches of government.
+
+What's particularly problematic here is that the mechanism they used, the Congressional Review Act, stipulates that the FCC cannot put forward a substantially similar rule. Ever. Presuming Trump signs it, and of course Trump will sign it, it means the only fix will be legislative.
+
+In the meantime, here are the top 12 ways to protect your online privacy, from the Electronic Frontier Foundation.

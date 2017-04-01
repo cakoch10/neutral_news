@@ -1,0 +1,41 @@
+Easter Rising: Voice of a Rebel VR
+
+We spoke to Dan Tucker, the Senior Producer of 'Easter Rising: Voice of a Rebel'
+
+Can you sum up the experience for us?
+
+
+
+'Easter Rising: Voice of a Rebel' is a virtual reality (VR) history experience made for the Oculus Rift. I would describe it as equal parts documentary, art piece and interactive theatre. Based on a real story, our experience takes you on an immersive journey through one man’s memory of a very significant event in the history of Ireland and the UK; the Easter Rising of 1916. If you want to see more of the content but don't have access to an Oculus Rift, the BBC Academy have made a video that walks you through the experience.
+
+
+
+How did the idea come about?
+
+
+
+In the summer of 2015 I became really interested in factual storytelling in VR and began looking for a partner to collaborate with. I approached an amazing VR artist/director called Oscar Raby, who had previously made a very arresting piece based on his family history, called Assent. When we spoke on Skype, Oscar revealed that earlier in the year he and Mark Atkin (who became our indie Exec) met a man at a folk gig in London who had an interesting subject for a history-based VR story. His name was Liam McNeive, and he had found a tape recording his grandfather (Willie McNeive) had made in the 1970s about his involvement in the Easter Rising 60 years before. Oscar and Mark sent through a one page proposal that got me hooked. We brought on a freelance producer called Catherine Allen to scope and produce the project and went into production in November.
+
+
+
+How was it made?
+
+
+
+The project has been built using the game engine, Unity, which the BBC has used for interactive experiences many times before. However this was a different build to any I had overseen previously, and offered new and exciting ways to interact and engage with our audience. The story, experience and visuals are very striking - driven by Oscar’s vision. The audio was also very different - being object-based and using spatial techniques to immerse and inform the user throughout the story.
+
+
+
+What did the partners bring to the project?
+
+
+
+The two production companies we worked with; Crossover Labs and VRTOV, were amazing to work with and have created a unique and compelling story that we are all very proud of. Oscar and Katy, who run VRTOV, put together a team that are some of the best in virtual reality production. Finally we were also lucky to have Catherine Allen client-side to produce the piece.
+
+
+
+What are you trying to test?
+
+
+
+We want to test the nature of memory as a way to experience history in VR. We were most interested in taking our audience closer to a real story than perhaps they had ever been before. To live through the experience of one man by stepping into his memories. We want to know if the user is able to recount Willie McNeive’s story, whether they understand more about the history and also whether they want to go on to learn more. Finally we want to know if the use of VR attracts a new audience to History content, and if the technology can become a part of the future of factual storytelling.

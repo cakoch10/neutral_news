@@ -1,0 +1,9 @@
+If you’ve read my “Security For The Resistance” series, you know that I and others have recommended using LastPass as a means to store the complex passphrases essential to online security. This diary is directed at those of you who use LastPass.
+
+On March 21, Google researchers identified a flaw in the LastPass browser extension which could potentially allow a third party to access users’ data, including stored passwords, under certain circumstances. Within 24 hours, LastPass had issued a temporary patch to fix the problem, and a more complete, permanent patch was issued on March 31. There is no evidence that the problem was exploited by anyone, and there is no need for users to update any passwords (although as standard practice you should do that every 30 days or so). According to a Computer Weekly article, at no point were more than 10% of users vulnerable, and the security flaw was sophisticated enough that it is extremely unlikely that any bad guys have discovered it.
+
+Most LastPass users have their extension updated automatically, so the security fixes should have been applied already. To check if this has been done, check to see that you have the updated version of LastPass. To do that, left-click on the LastPass icon in your browser. In the drop down menu which appears, click on “More Options.” In the menu which appears, click on “About Lastpass.” Check the version number. It should be version 4.1.4x where x is any number. In the unlikely event that yours is less than 4.1.41, you can download the latest version here.
+
+LastPass is still an extremely safe way to store passwords, and is much better than trying to remember dozens of passwords or, worse, writing them all down. Their extremely rapid response to this issue is a reflection of their commitment to security.
+
+A more technical explanation of the flaw and its fix can be found here.

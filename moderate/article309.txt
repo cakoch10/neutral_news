@@ -1,0 +1,45 @@
+Protecting yourself from hackers and data breaches requires constant vigilance. Last year’s tips don’t necessarily hold up to this year’s attacks. The reality is this: cyber criminals are constantly testing new ways to beat the system, requiring new defenses and evolving tactics to stay out of harm’s way.
+
+With online security breaches more common than ever, here’s what you should know to protect yourself in 2017.
+
+Don’t expect the government to protect you
+
+Once upon a time, the conventional wisdom in corporate IT departments was to keep breaches from the public. The assumption was that revealing a hack would inspire copycat attacks, reward cyber crime, and cause unnecessary panic. Plus, technologists assumed victims wouldn’t know what to do with the information anyway.
+
+Things started to change in 2002 when California became the first state in the nation to pass a security breach notification law. With this law, companies holding private information about California residents were required to notify those customers if they even suspected a security breach.
+
+With California leading the way, numerous other states followed. Now, 47 U.S. states, the District of Columbia, Guam, Puerto Rico and the Virgin Islands have all passed laws requiring companies and government bodies to notify people of security breaches that could compromise their privacy. These laws have altered the dynamics of data breaches in favor of the little guy. If you’re notified of a breach, you can take steps like changing your password or perhaps cancel a credit card that may have been exposed.
+
+“They’ve allowed people to take some action to protect their information,” Pam Greenberg, a researcher with the National Conference of State Legislatures, told CBS News. “Before the laws, they may not have had the opportunity. They may not have known their info was out there.”
+
+But even in 2017, not everyone is protected. Three states — Alabama, New Mexico and South Dakota — still have no security breach notification laws on the books. New Mexico recently passed this type of legislation, but Governor Susana Martinez has yet to sign that bill. (Generally, where you live is what determines which disclosure laws apply in your case.)
+
+If you live in one of these states, take note: You don’t have the same protection as your neighbors. Companies and government bodies have no legal obligation to inform Alabama, New Mexico and South Dakota residents if their personal data is compromised.
+
+Beware of impostors on the phone
+
+Now is a good time to be more skeptical when you pick up the phone.
+
+Impostors, from fake IRS agents to faux tech support employees, have officially overtaken identity thieves to top the list of consumer fraud complaints, according to a March report from the Federal Trade Commission. These scams come as a huge cost: individuals posing as other people cost consumers $744.5 million in total in 2016, with the average loss amounting to $1,124, government officials said. Impostor scams can take myriad forms: for instance, someone posing as an “IRS agent” calling to demand overdue tax payments or fake “police” calling to collect unpaid traffic tickets.
+
+How to avoid these traps? Keep in mind that government officials would not normally use the phone to ask for a payment or request information like your Social Security number. If someone claiming to be from the IRS calls to ask for your personal data — hang up, it’s a scam.
+
+Be skeptical of requests to send money via prepaid cards or gift cards (which scammers prefer because they’re near impossible to trace). Don’t ever consent to a “tech support” person or online pop-up ad that asks to you to download software or transfer control of your computer to fix a problem you don’t understand. Consider using services like Nomorobo or Hiya to block robo-calls — machine-dialed calls that criminals often use to find their victims.
+
+Know what attacks might look like
+
+If you have the time and energy, regularly reading up on new data breaches can help you develop the antennae necessary to sense when something suspicious reaches your digital doorstep. Websites like Tech News World and Threatpost are dedicated to tracking the latest threats, and our partner sites CNET and ZDNet report extensively on tech security concerns.
+
+Earlier this month, for instance, Tech News World broke down a series of advanced phishing attacks on Gmail users that come from familiar contacts whose accounts have been affected. The attacks are particularly tricky because they display “accounts.gmail.com” in the browser’s location bar, leading users to what seems like an authentic Google sign-in page. Once users enter in their credentials, their Google accounts are hacked, the site warned.
+
+Let a password manager do the work for you
+
+Data security is nothing without basic password security. Think of strong passwords like you think of sunblock: a cheap, low-effort daily practice that could help you avoid a terrible problem down the line.
+
+Stay away from passwords that use real words or consecutive strings of numbers. Passwords like “password” and “123456” routinely top lists of the most commonly-used passwords, and they won’t do much to deter a hacker. Never include your name or other easily identifiable information in your password. (What’s “identifiable”? For starters, all the information that’s public on your Facebook profile.)
+
+Perhaps most importantly (and a piece of advice that’s frequently ignored): Don’t ever use the same password on more than one site. Hackers can breach a less-secure site and then use the stolen info to try to access your email or bank accounts. Don’t help them by reusing the same password.
+
+Instead, accept the inconvenient truth that the best passwords are the ones most difficult to remember: long and random strings of letters and numbers.
+
+Sound like a lot to keep in mind at the same time? Password managers like LastPass, KeePass and 1Password can do all the work for you, from automatically generating hard-to-crack passwords to storing them across all your devices. As a bonus, these tools are there when your memory fails: A February CBS News poll found that roughly one in four people has to reset a computer password at least once a month.
