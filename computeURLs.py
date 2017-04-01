@@ -1,6 +1,8 @@
 #import urllib.request
-from newspaper import Article
-import urllib2, json
+import newspaper
+#from newspaper import Article
+#import urllib2
+import json
 
 def scrapeNews():
     # urllib2.urlopen("http://example.com/foo/bar").read()
@@ -16,15 +18,28 @@ def scrapeNews():
     #L2 = json.loads(L)
     # print json.dumps(L2, indent = 4, sort_keys = True)
     #print len(L2['articles'])
+    # http://www.breitbart.com/big-government/ cbs_paper = newspaper.build('http://cbs.com')
 
+    farRight = newspaper.build('http://www.breitbart.com/big-government/',memoize_articles=False)
+    # strFR = ""
+    #farRight = newspaper.build('http://breitbart.com/big-government')
 
-    farRight = newspaper.build('http://www.breitbart.com/big-government/')
-    print farRight.articles
-
+    for article in farRight.articles:
+        print(article.url)
+        #strFR += article.url + '\n'
+        with open("farRight.txt", 'a') as out:
+            out.write(article.url + '\n')
+        #print(article.url)
+    print("test")
+    #print(strFR)
+    #print(len(farRight.articles))
     #farRight = Article(url="http://www.breitbart.com/big-government/", language='en')
-    farRight.download()
-
-
+    #farRight.download()
+    #centerRight = newspaper.build('http://foxnews.com/us.html')
+    #center = newspaper.build('http://cbsnews.com/us/')
+    #centerLeft = newspaper.build('http://bbc.com/news/world/us_and_canada')
+    #farLeft = newspaper.build('http://newyorker.com/news')
+    #farLeft = newspaper.build('http://dailykos.com/blogs/main') # Possible candidate?
 
 
 
