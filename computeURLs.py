@@ -1,6 +1,6 @@
 #import urllib.request
 from __future__ import unicode_literals
-import newspaper
+from newspaper import Article
 #import word2vec
 #import rpy2.robjects as ro
 
@@ -14,14 +14,15 @@ import csv
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 def compareSimilarity(urlone, urltwo):
-    first_article = Article(url=urlone, language='en')
+    first_article = Article(urlone)
     first_article.download()
     first_article.parse()
-    second_article = Article(url=urltwo, language='en')
+    second_article = Article(urltwo)
     second_article.download()
     second_article.parse()
-    doc[0] = first_article.text
-    doc[1] = second_article.text
+    doc = []
+    doc.append(first_article.text)
+    doc.append(second_article.text)
     documents = doc
     tfidf = TfidfVectorizer().fit_transform(documents)
     pairwise_similarity = tfidf * tfidf.T
