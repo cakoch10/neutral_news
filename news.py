@@ -12,8 +12,6 @@ from pprint import pprint
 import newspaper
 from newspaper import Article
 from google import google
-import matplotlib.pyplot as plt
-import numpy as np
 
 arrayOfURLs = []
 arrayOfKeyWords = []
@@ -23,19 +21,15 @@ arrayOfNotCredibles = []
 def findInfo(url):
 
 	"""Returns relevant information regarding the news source and article.
-
 	Takes the url string s. With the string, site title is extracted and
 	compared to credible.json and notCredible.json. Once site title is found
 	in either of the jsons, the rest of the data is extracted. 
-
 	Parameter url: the url of the subject article
 	Precondition: url is a string of a valid website url."""
 
 	start = url.find("www.") + 4
 	if (start == 3):
-		start = url.find("://") + 3
-		if (start == 2):
-			start = 0
+		start = 0
 	urlEndings = ['.com', '.edu', '.org', '.net', '.gov']
 	end = 3
 	for ending in urlEndings:
@@ -75,7 +69,7 @@ def getTitleFromURL(url):
 	news_article = Article(url= url, language='en')
 	news_article.download()
 	news_article.parse()
-	return news_article.title
+	return news_article.title.encode("utf-8")
 
 def getKeyWordsFromURL(url):
 	
@@ -93,43 +87,23 @@ def google_scrape(url):
 
 	titleOfArticle = getTitleFromURL(url)
 	keyWordsOfArticle = getKeyWordsFromURL(url)
+	keyWordsGoogleable = ""
+	for word in keyWordsOfArticle:
+		keyWordsGoogleable += (" " + word)
+	keyWordsGoogleable += " news"
+	print keyWordsGoogleable
 	#print ("title of original article: " + titleOfArticle)
 	num_page = 3
-	search_results = google.search(titleOfArticle, num_page)
+	search_results = google.search(keyWordsGoogleable, num_page)
 	for result in search_results:
 		#print(result.name)
 		#print(result.link)
 		arrayOfURLs.insert(0,str(result.link))
 
-def pickArticles():
-
-	with open('credible.json') as data_file1:
-		credibleData = json.load(data_file1)
-
-	with open('notCredible.json') as data_file2:
-		notCredibleData = json.load(data_file2)
-
-	credibleDataString = str(credibleData)
-	notCredibleDataString = str(notCredibleData)
-
-	for key1 in credibleData:
-		arrayOfCredibles.insert(0,(str(key1)))
-
-	for url in arrayOfURLs:
-		for x in arrayOfCredibles:
-			if x in url:
-				print url
-		#for x in arrayOfNotCredibles:
-			#if x in url:
-				#print "Not safe!"
-
-	#print arrayOfKeyWords
-
 def parseList(newsList):
 	"""Puts the text of each article in the list into a txt file.
-
-	Parameter newsList: a list of article urls
-	Precondition: first being the article the user gave and the rest being relevant articles"""
+	Parameter newsList: a list of article urls, first being the article the user gave
+	and the rest being relevant articles"""
 	paper = Article(url=newsList[0], language="en")
 	paper.download()
 	paper.parse()
@@ -172,6 +146,9 @@ def pickArticlesWithOutLabels():
 def pickArticlesWithLabels():
 
 	returnArray = []
+	numRights = 0
+	numMods = 0
+	numLefts = 0
 
 	with open('credible.json') as data_file1:
 		credibleData = json.load(data_file1)
@@ -188,55 +165,17 @@ def pickArticlesWithLabels():
 	for url in arrayOfURLs:
 		for x in arrayOfCredibles:
 			if x in url:
-				returnArray.insert(0, (str(credibleData[x]["type"] + ": " + url)))
+				if "left" in str(credibleData[x]["type"] + ": " + url) and numLefts <= 2:
+					numLefts+=1
+					returnArray.insert(0, (str(credibleData[x]["type"] + ": " + url)))
+				if "moderate" in str(credibleData[x]["type"] + ": " + url) and numMods <= 2:
+					numMods+=1
+					returnArray.insert(0, (str(credibleData[x]["type"] + ": " + url)))
+				if "right" in str(credibleData[x]["type"] + ": " + url) and numRights <= 2:
+					numRights+=1
+					returnArray.insert(0, (str(credibleData[x]["type"] + ": " + url)))
 
 	return returnArray
-
-def similarity(url1, url2):
-	"""Constructs a list of keywords from the two articles found at url1 and url2 and gets the average similarity"""
-
-	paper1 = Article(url=url1, language="en")
-	paper2 = Article(url=url2, language="en")
-	paper1.download()
-	paper2.download()
-	paper1.parse()
-	paper2.parse()
-	paper1.nlp()
-	paper2.nlp()
-	keywords1 = paper1.keywords
-	keywords2 = paper2.keywords
-	sameCounter = 0
-	if (len(keywords1) == 0 and len(keywords2) == 0):
-		return 0
-	for word2 in keywords2:
-		if word2 in keywords1:
-			sameCounter = sameCounter + 2
-	return 1.0*sameCounter/(len(keywords1)+len(keywords2))
-
-def plotData(url, dataset):
-	"""Constructs a plot of the similarity index with a given article
-
-	Parameter url: url the subject article
-	Precondition: url
-
-	Parameter dataset: list of article urls
-	Precondition: list of article urls. """
-
-	mainArticle = Article(url=url, language="en")
-	plotData1 = []
-	plotData2 = []
-	typeList = ["far left", "center left", "moderate", "center right", "far right"]
-	for article in dataset:
-		plotData1 = plotData1 + [typeList.index(findInfo(article)[2])]
-		plotData2 = plotData2 + [similarity(url,article)]
-		print plotData1
-		print plotData2
-	plt.plot(plotData1, plotData2, 'ro')
-	plt.ylabel('similarity index')
-	plt.axis([-0.1,4.1,-0.1,1.1])
-	plt.show()
-
-
 
 
 
