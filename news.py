@@ -12,6 +12,8 @@ from pprint import pprint
 import newspaper
 from newspaper import Article
 from google import google
+import matplotlib.pyplot as plt
+import numpy as np
 
 arrayOfURLs = []
 arrayOfKeyWords = []
@@ -21,15 +23,19 @@ arrayOfNotCredibles = []
 def findInfo(url):
 
 	"""Returns relevant information regarding the news source and article.
+
 	Takes the url string s. With the string, site title is extracted and
 	compared to credible.json and notCredible.json. Once site title is found
 	in either of the jsons, the rest of the data is extracted. 
+
 	Parameter url: the url of the subject article
 	Precondition: url is a string of a valid website url."""
 
 	start = url.find("www.") + 4
 	if (start == 3):
-		start = 0
+		start = url.find("://") + 3
+		if (start == 2):
+			start = 0
 	urlEndings = ['.com', '.edu', '.org', '.net', '.gov']
 	end = 3
 	for ending in urlEndings:
@@ -87,23 +93,43 @@ def google_scrape(url):
 
 	titleOfArticle = getTitleFromURL(url)
 	keyWordsOfArticle = getKeyWordsFromURL(url)
-	keyWordsGoogleable = ""
-	for word in keyWordsOfArticle:
-		keyWordsGoogleable += (" " + word)
-	keyWordsGoogleable += " news"
-	print keyWordsGoogleable
 	#print ("title of original article: " + titleOfArticle)
 	num_page = 3
-	search_results = google.search(keyWordsGoogleable, num_page)
+	search_results = google.search(titleOfArticle, num_page)
 	for result in search_results:
 		#print(result.name)
 		#print(result.link)
 		arrayOfURLs.insert(0,str(result.link))
 
+def pickArticles():
+
+	with open('credible.json') as data_file1:
+		credibleData = json.load(data_file1)
+
+	with open('notCredible.json') as data_file2:
+		notCredibleData = json.load(data_file2)
+
+	credibleDataString = str(credibleData)
+	notCredibleDataString = str(notCredibleData)
+
+	for key1 in credibleData:
+		arrayOfCredibles.insert(0,(str(key1)))
+
+	for url in arrayOfURLs:
+		for x in arrayOfCredibles:
+			if x in url:
+				print url
+		#for x in arrayOfNotCredibles:
+			#if x in url:
+				#print "Not safe!"
+
+	#print arrayOfKeyWords
+
 def parseList(newsList):
 	"""Puts the text of each article in the list into a txt file.
-	Parameter newsList: a list of article urls, first being the article the user gave
-	and the rest being relevant articles"""
+
+	Parameter newsList: a list of article urls
+	Precondition: first being the article the user gave and the rest being relevant articles"""
 	paper = Article(url=newsList[0], language="en")
 	paper.download()
 	paper.parse()
@@ -182,10 +208,9 @@ def similarity(url1, url2):
 	sameCounter = 0
 	if (len(keywords1) == 0 and len(keywords2) == 0):
 		return 0
-	for word1 in keywords1:
-		for word2 in keywords2:
-			if word1 == word2:
-				sameCounter = sameCounter + 2
+	for word2 in keywords2:
+		if word2 in keywords1:
+			sameCounter = sameCounter + 2
 	return 1.0*sameCounter/(len(keywords1)+len(keywords2))
 
 def plotData(url, dataset):
@@ -198,14 +223,21 @@ def plotData(url, dataset):
 	Precondition: list of article urls. """
 
 	mainArticle = Article(url=url, language="en")
-	plotData = []
+	plotData1 = []
+	plotData2 = []
 	typeList = ["far left", "center left", "moderate", "center right", "far right"]
 	for article in dataset:
-		plotData = plotData + [typeList.index(findInfo(article)[2]), similarity(url,article)]
-	print plotData
-	plt.boxplot(plotData, showbox = False, showcaps = False)
+		plotData1 = plotData1 + [typeList.index(findInfo(article)[2])]
+		plotData2 = plotData2 + [similarity(url,article)]
+		print plotData1
+		print plotData2
+	plt.plot(plotData1, plotData2, 'ro')
 	plt.ylabel('similarity index')
+	plt.axis([-0.1,4.1,-0.1,1.1])
 	plt.show()
+
+
+
 
 
 
