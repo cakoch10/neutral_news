@@ -85,13 +85,13 @@ def getKeyWordsFromURL(url):
 
 def google_scrape(url):
 
+	arrayOfURLs = []
 	titleOfArticle = getTitleFromURL(url)
 	keyWordsOfArticle = getKeyWordsFromURL(url)
 	keyWordsGoogleable = ""
 	for word in keyWordsOfArticle:
 		keyWordsGoogleable += (" " + word)
 	keyWordsGoogleable += " news"
-	print keyWordsGoogleable
 	#print ("title of original article: " + titleOfArticle)
 	num_page = 3
 	search_results = google.search(keyWordsGoogleable, num_page)
@@ -99,6 +99,25 @@ def google_scrape(url):
 		#print(result.name)
 		#print(result.link)
 		arrayOfURLs.insert(0,str(result.link))
+	return arrayOfURLs
+
+def get_html(url):
+    header = "Mozilla/5.001 (windows; U; NT4.0; en-US; rv:1.0) Gecko/25250101"
+    try:
+        request = urllib.request.Request(url)
+        request.add_header("User-Agent", header)
+        html = urllib.request.urlopen(request).read()
+        return html
+    except urllib.error.HTTPError as e:
+        print("Error accessing:", url)
+        if e.code == 503 and 'CaptchaRedirect' in e.read():
+            print("Google is requiring a Captcha. " \
+                  "For more information see: 'https://support.google.com/websearch/answer/86640'")
+        return None
+    except Exception as e:
+        print("Error accessing:", url)
+        print(e)
+        return None
 
 def parseList(newsList):
 	"""Puts the text of each article in the list into a txt file.
@@ -120,9 +139,11 @@ def parseList(newsList):
 		with open(paperInfo[0][:-4], "a") as f:
 			f.write(text.encode("utf-8"))
 
-def pickArticlesWithOutLabels():
+def pickArticlesWithOutLabels(url):
 
 	returnArray = []
+
+	arrayOfURLs = google_scrape(url)
 
 	with open('credible.json') as data_file1:
 		credibleData = json.load(data_file1)
@@ -143,12 +164,15 @@ def pickArticlesWithOutLabels():
 
 	return returnArray
 
-def pickArticlesWithLabels():
+def pickArticlesWithLabels(url):
 
-	returnArray = []
 	numRights = 0
 	numMods = 0
 	numLefts = 0
+
+	returnArray = []
+
+	arrayOfURLs = google_scrape(url)
 
 	with open('credible.json') as data_file1:
 		credibleData = json.load(data_file1)
@@ -165,17 +189,25 @@ def pickArticlesWithLabels():
 	for url in arrayOfURLs:
 		for x in arrayOfCredibles:
 			if x in url:
-				if "left" in str(credibleData[x]["type"] + ": " + url) and numLefts <= 2:
-					numLefts+=1
-					returnArray.insert(0, (str(credibleData[x]["type"] + ": " + url)))
-				if "moderate" in str(credibleData[x]["type"] + ": " + url) and numMods <= 2:
-					numMods+=1
-					returnArray.insert(0, (str(credibleData[x]["type"] + ": " + url)))
-				if "right" in str(credibleData[x]["type"] + ": " + url) and numRights <= 2:
-					numRights+=1
-					returnArray.insert(0, (str(credibleData[x]["type"] + ": " + url)))
+				returnArray.insert(0, (str(credibleData[x]["type"] + ": " + url)))
 
 	return returnArray
+
+def returnLeaningOfArticle(url):
+
+	with open('credible.json') as data_file1:
+		credibleData = json.load(data_file1)
+
+	with open('notCredible.json') as data_file2:
+		notCredibleData = json.load(data_file2)
+
+	credibleDataString = str(credibleData)
+	notCredibleDataString = str(notCredibleData)
+
+	for x in arrayOfCredibles:
+		if x in url:
+			return str(credibleData[x]["type"])
+
 
 
 
