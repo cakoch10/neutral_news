@@ -16,7 +16,7 @@
   },
   "independent.co.uk" : {
     "language": "en",
-    "type": "center left",
+    "type": "moderate",
     "notes": ""
   },
   "latimes.com" : {
@@ -61,12 +61,12 @@
   },
   "sltrib.com" : {
     "language": "en",
-    "type": "",
+    "type": "moderate",
     "notes": ""
   },
   "scientificamerican.com" : {
     "language": "en",
-    "type": "",
+    "type": "moderate",
     "notes": ""
   },
   "sfgate.com" : {
@@ -81,7 +81,7 @@
   },
   "usatoday.com" : {
     "language": "en",
-    "type": "center left",
+    "type": "center right",
     "notes": ""
   },
   "washingtonpost.com" : {
@@ -116,7 +116,7 @@
   },
   "nbc.com" : {
     "language": "en",
-    "type": "center left",
+    "type": "moderate`",
     "notes": ""
   },
   "msnbc.com" : {
