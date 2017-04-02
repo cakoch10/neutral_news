@@ -12,6 +12,9 @@ from pprint import pprint
 import newspaper
 from newspaper import Article
 from google import google
+import matplotlib.pyplot as plt
+import numpy as np
+import lxml.html as lh
 
 arrayOfURLs = []
 arrayOfKeyWords = []
@@ -208,7 +211,14 @@ def returnLeaningOfArticle(url):
 		if x in url:
 			return str(credibleData[x]["type"])
 
-
-
-
-
+def getFavicon(url):
+	doc = lh.parse(urllib2.urlopen(url))
+	favicons = doc.xpath('//link[@rel="shortcut icon"]/@href')
+	if len(favicons) > 0:
+    	favicon = favicons[0]
+	else:
+    	favicon = "%sfavicon.ico" % url
+	try:
+    	urllib2.urlopen(favicon)
+	except urllib2.HTTPError:
+    	favicon = None
