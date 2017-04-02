@@ -207,3 +207,24 @@ def returnLeaningOfArticle(url):
 	for x in arrayOfCredibles:
 		if x in url:
 			return str(credibleData[x]["type"])
+		
+def similarity(url1, url2):
+	"""Constructs a list of keywords from the two articles found at url1 and url2 and gets the average similarity"""
+
+	paper1 = Article(url=url1, language="en")
+	paper2 = Article(url=url2, language="en")
+	paper1.download()
+	paper2.download()
+	paper1.parse()
+	paper2.parse()
+	paper1.nlp()
+	paper2.nlp()
+	keywords1 = paper1.keywords
+	keywords2 = paper2.keywords
+	sameCounter = 0
+	if (len(keywords1) == 0 and len(keywords2) == 0):
+		return 0
+	for word2 in keywords2:
+		if word2 in keywords1:
+			sameCounter = sameCounter + 2
+	return 1.0*sameCounter/(len(keywords1)+len(keywords2))
