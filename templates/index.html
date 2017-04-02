@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>[Placeholder]</title>
+  <title>JUST News</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/style.css') }}"/>
@@ -15,36 +15,37 @@
   </script>
   <script src="{{ url_for('static',filename='js/main.js') }}"></script>
   <script src="https://use.fontawesome.com/104d9a8f78.js"></script>
-  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Oswald:500" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Pontano+Sans" rel="stylesheet">
+
   <link rel="stylesheet" href="{{ url_for('static',filename='css/swiper.min.css') }}">
 </head>
 
 <body>
   <nav>
-    <a id="logo" href="#">[Placeholder]</a>
+    <a id="logo" href="#">JUST News</a>
   </nav>
   <!-- <div id="instructionContainer" class="container">
     <p id="instructionHeader">How To Use:</p>
     <h3>1. Input news story URL into search bar.  <br />2. Press SEARCH to see a list of similar sources.</h3>
   </div> -->
-  <form id="searchForm" method="post">
-    <input id="searchInput" type="text" placeholder="input news story URL" name="inputURL"/>
+  <form id="searchForm">
+    <input id="searchInput" type="text" placeholder="Input a political news story's URL" autocomplete="off" name="inputURL"/>
     <button id="submitUrlBtn" class="btn" type="button" name="submit">SEARCH</button>
   </form>
-  <h2 id="success" class="success-message container">Success!</h2>
+  <h2 id="success" class="success-message container">Success! Please wait a few seconds as we find alternative sources...</h2>
   <h2 id="urlError" class="error-message container"><i class="fa fa-exclamation" aria-hidden="true"></i> Invalid URL</h2>
-  <!-- Slider main container -->
   <!-- Slider main container -->
   <div class="swiper-container">
       <!-- Additional required wrapper -->
+      <div class="loader"></div>
       <div id="articleListWrapper" class="swiper-wrapper">
           <!-- Slides -->
       </div>
 
       <!-- If we need navigation buttons -->
-      <div class="swiper-button-prev"></div>
-      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev swiper-button-black"></div>
+      <div class="swiper-button-next swiper-button-black"></div>
   </div>
   <script src="{{ url_for('static', filename='js/swiper.min.js') }}"></script>
 </body>
