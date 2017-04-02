@@ -25,7 +25,7 @@ def compareSimilarity(urlone, urltwo):
     documents = doc
     tfidf = TfidfVectorizer().fit_transform(documents)
     pairwise_similarity = tfidf * tfidf.T
-    return pairwise_similarity
+    return pairwise_similarity[0,1]
 
 def buildModel():
     corpusdir = 'farRight/' # Directory of corpus.
