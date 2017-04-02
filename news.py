@@ -1,20 +1,17 @@
 # Fake News Thing
 # Raymone Radi (rsr242)
 # 03/31/17
-"""Reads fake news URLs 
-
+"""Reads fake news URLs
 Tells you if this good or bad!"""
 
 import json
 import urllib
 import urllib2
+import lxml.html as lh
 from pprint import pprint
 import newspaper
 from newspaper import Article
 from google import google
-import matplotlib.pyplot as plt
-import numpy as np
-import lxml.html as lh
 
 arrayOfURLs = []
 arrayOfKeyWords = []
@@ -26,7 +23,7 @@ def findInfo(url):
 	"""Returns relevant information regarding the news source and article.
 	Takes the url string s. With the string, site title is extracted and
 	compared to credible.json and notCredible.json. Once site title is found
-	in either of the jsons, the rest of the data is extracted. 
+	in either of the jsons, the rest of the data is extracted.
 	Parameter url: the url of the subject article
 	Precondition: url is a string of a valid website url."""
 
@@ -68,14 +65,14 @@ def findInfo(url):
 
 
 def getTitleFromURL(url):
-	
+
 	news_article = Article(url= url, language='en')
 	news_article.download()
 	news_article.parse()
 	return news_article.title.encode("utf-8")
 
 def getKeyWordsFromURL(url):
-	
+
 	returnArray = []
 	news_article = Article(url= url, language='en')
 	news_article.download()
@@ -210,15 +207,3 @@ def returnLeaningOfArticle(url):
 	for x in arrayOfCredibles:
 		if x in url:
 			return str(credibleData[x]["type"])
-
-def getFavicon(url):
-	doc = lh.parse(urllib2.urlopen(url))
-	favicons = doc.xpath('//link[@rel="shortcut icon"]/@href')
-	if len(favicons) > 0:
-    	favicon = favicons[0]
-	else:
-    	favicon = "%sfavicon.ico" % url
-	try:
-    	urllib2.urlopen(favicon)
-	except urllib2.HTTPError:
-    	favicon = None
