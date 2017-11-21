@@ -1,5 +1,4 @@
 # Fake News Thing
-# Raymone Radi (rsr242)
 # 03/31/17
 """Reads fake news URLs
 Tells you if this good or bad!"""
