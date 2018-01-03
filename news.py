@@ -10,7 +10,8 @@ import lxml.html as lh
 from pprint import pprint
 import newspaper
 from newspaper import Article
-from google import google
+# from google import google # This doesn't work
+from google import search
 
 arrayOfURLs = []
 arrayOfKeyWords = []
@@ -84,21 +85,21 @@ def getKeyWordsFromURL(url):
 
 def google_scrape(url):
 
-	arrayOfURLs = []
-	titleOfArticle = getTitleFromURL(url)
-	keyWordsOfArticle = getKeyWordsFromURL(url)
-	keyWordsGoogleable = ""
-	for word in keyWordsOfArticle:
-		keyWordsGoogleable += (" " + word)
-	keyWordsGoogleable += " news"
-	#print ("title of original article: " + titleOfArticle)
-	num_page = 3
-	search_results = google.search(keyWordsGoogleable, num_page)
-	for result in search_results:
-		#print(result.name)
-		#print(result.link)
-		arrayOfURLs.insert(0,str(result.link))
-	return arrayOfURLs
+        arrayOfURLs = []
+        titleOfArticle = getTitleFromURL(url)
+        keyWordsOfArticle = getKeyWordsFromURL(url)
+        keyWordsGoogleable = ""
+        for word in keyWordsOfArticle:
+                keyWordsGoogleable += (" " + word)
+        keyWordsGoogleable += " news"
+        #print ("title of original article: " + titleOfArticle)
+        num_page = 3
+        search_results = search(keyWordsGoogleable, stop=num_page)
+        for result in search_results:
+                #print(result.name)
+                #print(result.link)
+                arrayOfURLs.insert(0, result)
+        return arrayOfURLs
 
 def get_html(url):
     header = "Mozilla/5.001 (windows; U; NT4.0; en-US; rv:1.0) Gecko/25250101"
